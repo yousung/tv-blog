@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="오늘방송 노트">
+  <rect width="64" height="64" rx="18" fill="#ea580c"/>
+  <path d="M16 20h32v24H16z" fill="#fff7ed"/>
+  <path d="M22 44l5-8h10l5 8" fill="none" stroke="#211a15" stroke-width="4" stroke-linecap="round"/>
+  <text x="32" y="34" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="900" fill="#9a3412">TV</text>
+</svg>
