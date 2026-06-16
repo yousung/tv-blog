@@ -17,7 +17,18 @@ const data = post.data;
 const displayDate = data.broadcastDate ?? data.date;
 const published = displayDate.toISOString();
 const modified = published;
-const broadcasterFallbackImage = /KBS|2TV|6시 내고향/.test(data.program) ? '/images/broadcast/kbs-2tv-broadcast-note.svg' : undefined;
+const broadcasterFallbackImages: Record<string, string> = {
+  kbs: '/images/broadcast/kbs-2tv-broadcast-note.svg',
+  mbc: '/images/broadcast/mbc-oneuln-broadcast-note.svg',
+  sbs: '/images/broadcast/sbs-today-broadcast-note.svg',
+};
+const broadcasterFallbackImage = /MBC|오늘N/.test(data.program)
+  ? broadcasterFallbackImages.mbc
+  : /SBS|생방송 투데이/.test(data.program)
+    ? broadcasterFallbackImages.sbs
+    : /KBS|2TV|6시 내고향|한국인의 밥상|생로병사의 비밀/.test(data.program)
+      ? broadcasterFallbackImages.kbs
+      : undefined;
 const heroImage = data.image ?? broadcasterFallbackImage;
 const heroImageAlt = data.imageAlt ?? (broadcasterFallbackImage ? `${data.program} 방송 정보 대표 이미지` : data.title);
 ---
