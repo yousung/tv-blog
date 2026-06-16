@@ -32,8 +32,8 @@ jobs:
 
       - name: Build
         env:
-          NAVER_API_KEY: ${{ secrets.NAVER_API_KEY || vars.NAVER_API_KEY }}
-          PUBLIC_NAVER_API_KEY: ${{ secrets.NAVER_API_KEY || vars.NAVER_API_KEY }}
+          NAVER_CLIENT_KEY: ${{ secrets.NAVER_CLIENT_KEY || vars.NAVER_CLIENT_KEY }}
+          PUBLIC_NAVER_CLIENT_KEY: ${{ secrets.NAVER_CLIENT_KEY || vars.NAVER_CLIENT_KEY }}
         run: npm run build
 
       - name: Publish to gh-pages branch

@@ -6,7 +6,16 @@ interface Props {
 }
 
 const { address, placeName, label = '지도' } = Astro.props;
-const naverApiKey = process.env.NAVER_API_KEY ?? process.env.PUBLIC_NAVER_API_KEY ?? import.meta.env.NAVER_API_KEY ?? import.meta.env.PUBLIC_NAVER_API_KEY ?? '';
+const naverApiKey =
+  process.env.NAVER_CLIENT_KEY ??
+  process.env.PUBLIC_NAVER_CLIENT_KEY ??
+  process.env.NAVER_API_KEY ??
+  process.env.PUBLIC_NAVER_API_KEY ??
+  import.meta.env.NAVER_CLIENT_KEY ??
+  import.meta.env.PUBLIC_NAVER_CLIENT_KEY ??
+  import.meta.env.NAVER_API_KEY ??
+  import.meta.env.PUBLIC_NAVER_API_KEY ??
+  '';
 const query = [address, placeName].filter(Boolean).join(' ');
 const encodedQuery = encodeURIComponent(query);
 const mapId = `naver-map-${Math.random().toString(36).slice(2, 10)}`;
