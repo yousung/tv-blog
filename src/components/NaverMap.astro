@@ -19,6 +19,9 @@ const naverApiKey =
 const query = [address, placeName].filter(Boolean).join(' ');
 const encodedQuery = encodeURIComponent(query);
 const mapId = `naver-map-${Math.random().toString(36).slice(2, 10)}`;
+const sdkUrl = naverApiKey
+  ? `https://oapi.map.naver.com/openapi/v3/maps.js?ncpKeyId=${encodeURIComponent(naverApiKey)}&submodules=geocoder`
+  : '';
 ---
 
 <section class="naver-map-card" aria-label={`${label} - ${placeName ?? address}`}>
@@ -30,91 +33,82 @@ const mapId = `naver-map-${Math.random().toString(36).slice(2, 10)}`;
     </div>
     <a class="button" href={`https://map.naver.com/p/search/${encodedQuery}`} target="_blank" rel="noopener">네이버 지도에서 보기</a>
   </div>
-  {naverApiKey ? (
-    <>
-      <div
-        id={mapId}
-        class="naver-map"
-        data-map-id={mapId}
-        data-naver-key={naverApiKey}
-        data-address={address}
-        data-place={placeName ?? address}
-      >
-        <p>네이버 지도를 불러오는 중입니다.</p>
-      </div>
-      <script is:inline>
-        (() => {
-          const container = document.currentScript?.previousElementSibling;
-          if (!container || container.dataset.naverInitialized === 'true') return;
-          container.dataset.naverInitialized = 'true';
+  <div
+    id={mapId}
+    class={`naver-map${naverApiKey ? '' : ' naver-map-fallback'}`}
+    data-map-id={mapId}
+    data-address={address}
+    data-place={placeName ?? address}
+  >
+    <p>{naverApiKey ? '네이버 지도를 불러오는 중입니다.' : '네이버 지도 표시가 제한되는 환경에서는 상단 버튼으로 위치를 확인해 주세요.'}</p>
+  </div>
+  {naverApiKey && <script is:inline src={sdkUrl}></script>}
+  {naverApiKey && (
+    <script is:inline>
+      (() => {
+        const currentScript = document.currentScript;
+        const container = currentScript?.previousElementSibling?.previousElementSibling;
+        if (!container || container.dataset.naverInitialized === 'true') return;
+        container.dataset.naverInitialized = 'true';
 
-          const apiKey = container.dataset.naverKey;
-          const address = container.dataset.address;
-          const place = container.dataset.place || address;
-          const mapId = container.dataset.mapId;
+        const address = container.dataset.address;
+        const place = container.dataset.place || address;
+        const mapId = container.dataset.mapId;
 
-          function showFallback(message) {
-            container.classList.add('naver-map-fallback');
-            container.innerHTML = `<p>${message}</p>`;
+        function showFallback(message) {
+          container.classList.add('naver-map-fallback');
+          container.innerHTML = `<p>${message}</p>`;
+        }
+
+        function waitForNaverMaps(attempt = 0) {
+          if (window.naver?.maps?.Map && window.naver?.maps?.Service) {
+            initMap(window.naver.maps);
+            return;
           }
+          if (attempt > 80) {
+            showFallback('네이버 지도를 불러오지 못했습니다. 상단 버튼으로 위치를 확인해 주세요.');
+            return;
+          }
+          window.setTimeout(() => waitForNaverMaps(attempt + 1), 100);
+        }
 
-          if (!apiKey || !address || !mapId) {
+        function initMap(maps) {
+          if (!address || !mapId) {
             showFallback('주소 정보를 확인한 뒤 네이버 지도에서 위치를 확인해 주세요.');
             return;
           }
 
-          window.__lovizuNaverMapsLoader = window.__lovizuNaverMapsLoader || new Promise((resolve, reject) => {
-            if (window.naver?.maps?.Map && window.naver?.maps?.Service) {
-              resolve(window.naver.maps);
+          maps.Service.geocode({ query: address }, (status, response) => {
+            if (status !== maps.Service.Status.OK || !response?.v2?.addresses?.length) {
+              showFallback('주소 좌표를 찾지 못했습니다. 네이버 지도 버튼으로 위치를 확인해 주세요.');
               return;
             }
-            const script = document.createElement('script');
-            script.src = `https://oapi.map.naver.com/openapi/v3/maps.js?ncpKeyId=${encodeURIComponent(apiKey)}&submodules=geocoder`;
-            script.async = true;
-            script.onload = () => resolve(window.naver?.maps);
-            script.onerror = () => reject(new Error('NAVER Maps script failed to load'));
-            window.navermap_authFailure = () => reject(new Error('NAVER Maps authentication failed'));
-            document.head.appendChild(script);
+
+            const item = response.v2.addresses[0];
+            const position = new maps.LatLng(Number(item.y), Number(item.x));
+            container.innerHTML = '';
+            const map = new maps.Map(mapId, {
+              center: position,
+              zoom: 16,
+              scaleControl: true,
+              logoControl: true,
+              mapDataControl: true,
+              zoomControl: true,
+              zoomControlOptions: { position: maps.Position.TOP_RIGHT }
+            });
+            const marker = new maps.Marker({ position, map, title: place });
+            const infoWindow = new maps.InfoWindow({
+              content: `<div class="naver-map-info"><strong>${place}</strong><br>${address}</div>`
+            });
+            infoWindow.open(map, marker);
           });
+        }
 
-          window.__lovizuNaverMapsLoader
-            .then((maps) => {
-              if (!maps?.Service?.geocode) {
-                showFallback('네이버 지도 API가 준비되지 않았습니다. 지도 버튼으로 위치를 확인해 주세요.');
-                return;
-              }
-              maps.Service.geocode({ query: address }, (status, response) => {
-                if (status !== maps.Service.Status.OK || !response?.v2?.addresses?.length) {
-                  showFallback('주소 좌표를 찾지 못했습니다. 네이버 지도 버튼으로 위치를 확인해 주세요.');
-                  return;
-                }
-
-                const item = response.v2.addresses[0];
-                const position = new maps.LatLng(Number(item.y), Number(item.x));
-                container.innerHTML = '';
-                const map = new maps.Map(mapId, {
-                  center: position,
-                  zoom: 16,
-                  scaleControl: true,
-                  logoControl: true,
-                  mapDataControl: true,
-                  zoomControl: true,
-                  zoomControlOptions: { position: maps.Position.TOP_RIGHT }
-                });
-                const marker = new maps.Marker({ position, map, title: place });
-                const infoWindow = new maps.InfoWindow({
-                  content: `<div class="naver-map-info"><strong>${place}</strong><br>${address}</div>`
-                });
-                infoWindow.open(map, marker);
-              });
-            })
-            .catch(() => showFallback('네이버 지도를 불러오지 못했습니다. 지도 버튼으로 위치를 확인해 주세요.'));
-        })();
-      </script>
-    </>
-  ) : (
-    <div class="naver-map naver-map-fallback">
-      <p>네이버 지도 표시가 제한되는 환경에서는 상단 버튼으로 위치를 확인해 주세요.</p>
-    </div>
+        window.navermap_authFailure = () => {
+          showFallback('네이버 지도 인증에 실패했습니다. 상단 버튼으로 위치를 확인해 주세요.');
+        };
+        waitForNaverMaps();
+      })();
+    </script>
   )}
 </section>

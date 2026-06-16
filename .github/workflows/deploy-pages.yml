@@ -34,7 +34,12 @@ jobs:
         env:
           NAVER_CLIENT_KEY: ${{ secrets.NAVER_CLIENT_KEY || vars.NAVER_CLIENT_KEY }}
           PUBLIC_NAVER_CLIENT_KEY: ${{ secrets.NAVER_CLIENT_KEY || vars.NAVER_CLIENT_KEY }}
-        run: npm run build
+        run: |
+          if [ -z "$NAVER_CLIENT_KEY" ]; then
+            echo "NAVER_CLIENT_KEY is missing in GitHub Actions secrets/variables" >&2
+            exit 1
+          fi
+          npm run build
 
       - name: Publish to gh-pages branch
         uses: peaceiris/actions-gh-pages@v4
