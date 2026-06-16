@@ -18,6 +18,8 @@ const posts = defineCollection({
     region: z.string().optional(),
     placeName: z.string().optional(),
     address: z.string().optional(),
+    mapLat: z.number().optional(),
+    mapLng: z.number().optional(),
     tags: z.array(z.string()).default([]),
     source: z.array(z.string()).default([]),
     image: z.string().optional(),

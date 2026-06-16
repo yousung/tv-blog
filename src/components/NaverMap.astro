@@ -3,9 +3,11 @@ interface Props {
   address: string;
   placeName?: string;
   label?: string;
+  lat?: number;
+  lng?: number;
 }
 
-const { address, placeName, label = '지도' } = Astro.props;
+const { address, placeName, label = '지도', lat, lng } = Astro.props;
 const naverApiKey =
   process.env.NAVER_CLIENT_KEY ??
   process.env.PUBLIC_NAVER_CLIENT_KEY ??
@@ -19,8 +21,9 @@ const naverApiKey =
 const query = [address, placeName].filter(Boolean).join(' ');
 const encodedQuery = encodeURIComponent(query);
 const mapId = `naver-map-${Math.random().toString(36).slice(2, 10)}`;
+const hasCoordinates = typeof lat === 'number' && Number.isFinite(lat) && typeof lng === 'number' && Number.isFinite(lng);
 const sdkUrl = naverApiKey
-  ? `https://oapi.map.naver.com/openapi/v3/maps.js?ncpKeyId=${encodeURIComponent(naverApiKey)}&submodules=geocoder`
+  ? `https://oapi.map.naver.com/openapi/v3/maps.js?ncpKeyId=${encodeURIComponent(naverApiKey)}`
   : '';
 ---
 
@@ -35,15 +38,17 @@ const sdkUrl = naverApiKey
   </div>
   <div
     id={mapId}
-    class={`naver-map${naverApiKey ? '' : ' naver-map-fallback'}`}
+    class={`naver-map${naverApiKey && hasCoordinates ? '' : ' naver-map-fallback'}`}
     data-map-id={mapId}
     data-address={address}
     data-place={placeName ?? address}
+    data-lat={hasCoordinates ? lat : ''}
+    data-lng={hasCoordinates ? lng : ''}
   >
-    <p>{naverApiKey ? '네이버 지도를 불러오는 중입니다.' : '네이버 지도 표시가 제한되는 환경에서는 상단 버튼으로 위치를 확인해 주세요.'}</p>
+    <p>{naverApiKey && hasCoordinates ? '네이버 지도를 불러오는 중입니다.' : '네이버 지도 표시가 제한되는 환경에서는 상단 버튼으로 위치를 확인해 주세요.'}</p>
   </div>
-  {naverApiKey && <script is:inline src={sdkUrl}></script>}
-  {naverApiKey && (
+  {naverApiKey && hasCoordinates && <script is:inline src={sdkUrl}></script>}
+  {naverApiKey && hasCoordinates && (
     <script is:inline>
       (() => {
         const currentScript = document.currentScript;
@@ -54,6 +59,8 @@ const sdkUrl = naverApiKey
         const address = container.dataset.address;
         const place = container.dataset.place || address;
         const mapId = container.dataset.mapId;
+        const lat = Number(container.dataset.lat);
+        const lng = Number(container.dataset.lng);
 
         function showFallback(message) {
           container.classList.add('naver-map-fallback');
@@ -61,7 +68,7 @@ const sdkUrl = naverApiKey
         }
 
         function waitForNaverMaps(attempt = 0) {
-          if (window.naver?.maps?.Map && window.naver?.maps?.Service) {
+          if (window.naver?.maps?.Map && window.naver?.maps?.LatLng) {
             initMap(window.naver.maps);
             return;
           }
@@ -73,35 +80,27 @@ const sdkUrl = naverApiKey
         }
 
         function initMap(maps) {
-          if (!address || !mapId) {
-            showFallback('주소 정보를 확인한 뒤 네이버 지도에서 위치를 확인해 주세요.');
+          if (!mapId || !Number.isFinite(lat) || !Number.isFinite(lng)) {
+            showFallback('주소 좌표를 확인한 뒤 네이버 지도에서 위치를 확인해 주세요.');
             return;
           }
 
-          maps.Service.geocode({ query: address }, (status, response) => {
-            if (status !== maps.Service.Status.OK || !response?.v2?.addresses?.length) {
-              showFallback('주소 좌표를 찾지 못했습니다. 네이버 지도 버튼으로 위치를 확인해 주세요.');
-              return;
-            }
-
-            const item = response.v2.addresses[0];
-            const position = new maps.LatLng(Number(item.y), Number(item.x));
-            container.innerHTML = '';
-            const map = new maps.Map(mapId, {
-              center: position,
-              zoom: 16,
-              scaleControl: true,
-              logoControl: true,
-              mapDataControl: true,
-              zoomControl: true,
-              zoomControlOptions: { position: maps.Position.TOP_RIGHT }
-            });
-            const marker = new maps.Marker({ position, map, title: place });
-            const infoWindow = new maps.InfoWindow({
-              content: `<div class="naver-map-info"><strong>${place}</strong><br>${address}</div>`
-            });
-            infoWindow.open(map, marker);
+          const position = new maps.LatLng(lat, lng);
+          container.innerHTML = '';
+          const map = new maps.Map(mapId, {
+            center: position,
+            zoom: 16,
+            scaleControl: true,
+            logoControl: true,
+            mapDataControl: true,
+            zoomControl: true,
+            zoomControlOptions: { position: maps.Position.TOP_RIGHT }
           });
+          const marker = new maps.Marker({ position, map, title: place });
+          const infoWindow = new maps.InfoWindow({
+            content: `<div class="naver-map-info"><strong>${place}</strong><br>${address}</div>`
+          });
+          infoWindow.open(map, marker);
         }
 
         window.navermap_authFailure = () => {
