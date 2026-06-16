@@ -92,6 +92,14 @@ h1 { margin: 0; font-size: clamp(2.3rem, 7vw, 5rem); max-width: 780px; }
 .map-card { margin: 1.25rem 0; overflow: hidden; border: 1px solid var(--line); border-radius: 18px; background: var(--surface); box-shadow: 0 12px 32px rgba(124,45,18,.06); }
 .map-card iframe { display: block; width: 100%; height: clamp(280px, 45vw, 420px); border: 0; }
 .map-card p { margin: 0; padding: .7rem .85rem; color: var(--muted); font-size: .9rem; background: var(--surface-warm); }
+.naver-map-card { margin: 1.25rem 0; overflow: hidden; border: 1px solid var(--line); border-radius: 22px; background: var(--surface); box-shadow: 0 18px 50px rgba(124,45,18,.08); }
+.map-card-header { display: flex; justify-content: space-between; gap: 1rem; align-items: flex-start; padding: 1rem; border-bottom: 1px solid var(--line); background: var(--surface-warm); }
+.map-card-header h2 { margin: .1rem 0 .25rem; font-size: clamp(1.15rem, 3vw, 1.55rem); }
+.map-card-header p { margin: 0; color: var(--muted); }
+.map-card-header .button { flex: 0 0 auto; }
+.naver-map { width: 100%; min-height: clamp(300px, 48vw, 460px); display: grid; place-items: center; color: var(--muted); background: #f8fafc; }
+.naver-map-info { padding: .55rem .7rem; font-size: 13px; line-height: 1.45; color: #111827; white-space: nowrap; }
+.naver-map-fallback { padding: 1.5rem; text-align: center; }
 .search-box { display:flex; gap:.6rem; padding: .5rem; background: var(--surface); border:1px solid var(--line); border-radius: 999px; }
 .search-box input { flex:1; min-width:0; border:0; outline:0; background:transparent; padding:.7rem .9rem; font:inherit; }
 .search-box button { border:0; border-radius:999px; background:var(--text); color:white; font-weight:900; padding:.7rem 1rem; }
@@ -134,6 +142,8 @@ h1 { margin: 0; font-size: clamp(2.3rem, 7vw, 5rem); max-width: 780px; }
   .brand strong { font-size: .98rem; }
   .hero-panel, .category-strip { grid-template-columns: 1fr; }
   .hero-actions, .search-box { flex-direction: column; align-items: stretch; border-radius: 22px; }
+  .map-card-header { flex-direction: column; }
+  .map-card-header .button { width: 100%; }
   .cta-row { flex-direction: column; }
   .button, .search-box button { width: 100%; }
   .post-card, .info-card, .article-header { padding: 1rem; }

@@ -37,13 +37,9 @@ KBS `2TV 생생정보`의 `할매~ 밥 됩니까?` 코너에 나온 **정보 할
 | 방송 | KBS 2TV 생생정보 2524회, `할매~ 밥 됩니까?` 정보 할매의 우럭젓국 |
 | 주변 | 모항항, 만리포해수욕장, 천리포수목원, 어은돌해수욕장 |
 
-<div class="map-card">
-  <iframe title="태안 청어람식당 지도" src="https://www.google.com/maps?q=%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%ED%83%9C%EC%95%88%EA%B5%B0%20%EC%86%8C%EC%9B%90%EB%A9%B4%20%EB%AA%A8%ED%95%AD%ED%95%AD%EA%B8%B8%20125%20%EC%B2%AD%EC%96%B4%EB%9E%8C&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <p>지도 기준 검색어: 충청남도 태안군 소원면 모항항길 125 청어람</p>
-</div>
-
 <div class="cta-row">
-  <a class="button primary" href="https://www.google.com/maps/search/?api=1&query=%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%ED%83%9C%EC%95%88%EA%B5%B0%20%EC%86%8C%EC%9B%90%EB%A9%B4%20%EB%AA%A8%ED%95%AD%ED%95%AD%EA%B8%B8%20125%20%EC%B2%AD%EC%96%B4%EB%9E%8C" target="_blank" rel="noopener">지도에서 청어람 보기</a>
+  <a class="button primary" href="https://map.naver.com/p/search/%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%ED%83%9C%EC%95%88%EA%B5%B0%20%EC%86%8C%EC%9B%90%EB%A9%B4%20%EB%AA%A8%ED%95%AD%ED%95%AD%EA%B8%B8%20125%20%EC%B2%AD%EC%96%B4%EB%9E%8C" target="_blank" rel="noopener">네이버 지도에서 청어람 보기</a>
+  <a class="button" href="https://www.google.com/maps/search/?api=1&query=%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%20%ED%83%9C%EC%95%88%EA%B5%B0%20%EC%86%8C%EC%9B%90%EB%A9%B4%20%EB%AA%A8%ED%95%AD%ED%95%AD%EA%B8%B8%20125%20%EC%B2%AD%EC%96%B4%EB%9E%8C" target="_blank" rel="noopener">구글 지도에서 보기</a>
   <a class="button" href="https://www.youtube.com/watch?v=QR20oqYi2sE" target="_blank" rel="noopener">공식 방송 클립 보기</a>
 </div>
 
