@@ -12,9 +12,11 @@ broadcastDate: "2026-06-16"
 region: "서울 성동구 성수동"
 placeName: "성수온실 성수본점"
 address: "서울특별시 성동구 왕십리로4길 26-14"
+image: "/images/broadcast/kbs-2tv-broadcast-note.svg"
+imageAlt: "KBS 2TV 방송 맛집 정보 대표 이미지"
+mapLat: 37.5464470
+mapLng: 127.0462570
 tags: ["성수동 맛집", "성수역 맛집", "뚝섬역 맛집", "성수동 파스타", "이불파스타", "성수온실", "2TV 생생정보", "방송맛집"]
-image: "/images/broadcast/2026-06-16/2tv-live-info-seongsu-onsil-ibul-pasta.svg"
-imageAlt: "성수온실 이불파스타를 연상시키는 2TV 생생정보 성수동 방송 맛집 대표 이미지"
 source:
   - "이투데이: ‘2TV 생생정보’ 오늘방송맛집 – 이불 파스타 vs 닭고기 라멘, 성수동 맛집 (2026-06-16 방송)"
   - "위키트리: 2TV 생생정보, 이불 파스타·닭다리 라멘 맛집 공개 (2026-06-16)"

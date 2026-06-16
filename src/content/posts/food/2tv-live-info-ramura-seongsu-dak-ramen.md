@@ -12,9 +12,11 @@ broadcastDate: "2026-06-16"
 region: "서울 성동구 성수동"
 placeName: "라무라 성수"
 address: "서울특별시 성동구 성수이로12길 8"
+image: "/images/broadcast/kbs-2tv-broadcast-note.svg"
+imageAlt: "KBS 2TV 방송 맛집 정보 대표 이미지"
+mapLat: 37.5397545
+mapLng: 127.0565751
 tags: ["성수동 맛집", "성수동 라멘", "성수 라멘 맛집", "서울숲 맛집", "닭라멘", "라무라 성수", "2TV 생생정보", "방송맛집"]
-image: "/images/broadcast/2026-06-16/2tv-live-info-ramura-seongsu-dak-ramen.svg"
-imageAlt: "라무라 성수 닭다리라멘을 연상시키는 2TV 생생정보 성수동 방송 맛집 대표 이미지"
 source:
   - "이투데이: ‘2TV 생생정보’ 오늘방송맛집 – 이불 파스타 vs 닭고기 라멘, 성수동 맛집 (2026-06-16 방송)"
   - "위키트리: 2TV 생생정보, 이불 파스타·닭다리 라멘 맛집 공개 (2026-06-16)"

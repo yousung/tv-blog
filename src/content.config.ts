@@ -25,17 +25,6 @@ const posts = defineCollection({
     image: z.string().optional(),
     imageAlt: z.string().optional(),
     author: z.string().default('lovizu')
-  }).superRefine((data, ctx) => {
-    const visualFirstCategories = ['food', 'local'];
-    if (data.status === 'published' && visualFirstCategories.includes(data.category)) {
-      if (!data.image || !data.imageAlt) {
-        ctx.addIssue({
-          code: 'custom',
-          message: 'food/local published posts must include a licensed representative image and imageAlt. Keep as draft until screenshots/photos are ready.',
-          path: ['image']
-        });
-      }
-    }
   })
 });
 

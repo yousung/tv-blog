@@ -16,24 +16,27 @@ const { Content } = await render(post);
 const data = post.data;
 const displayDate = data.broadcastDate ?? data.date;
 const published = displayDate.toISOString();
-const modified = (data.updatedDate ?? data.date).toISOString();
+const modified = published;
+const broadcasterFallbackImage = /KBS|2TV|6시 내고향/.test(data.program) ? '/images/broadcast/kbs-2tv-broadcast-note.svg' : undefined;
+const heroImage = data.image ?? broadcasterFallbackImage;
+const heroImageAlt = data.imageAlt ?? (broadcasterFallbackImage ? `${data.program} 방송 정보 대표 이미지` : data.title);
 ---
 
-<BaseLayout title={data.title} description={data.description} type="article" publishedTime={published} modifiedTime={modified} tags={data.tags} image={data.image}>
+<BaseLayout title={data.title} description={data.description} type="article" publishedTime={published} modifiedTime={modified} tags={data.tags} image={heroImage}>
   <article class="article">
     <header class="article-header">
       <p class="kicker">{CATEGORY_LABELS[data.category]} · {data.program}</p>
       <h1>{data.title}</h1>
       <p class="lead">{data.description}</p>
       <div class="article-meta">
-        <time datetime={published}>방송일 {new Intl.DateTimeFormat('ko-KR', { dateStyle: 'long' }).format(displayDate)}</time>
+        <time datetime={published}>작성일 {new Intl.DateTimeFormat('ko-KR', { dateStyle: 'long' }).format(displayDate)}</time>
         {data.region && <span>{data.region}</span>}
         {data.placeName && <span>{data.placeName}</span>}
       </div>
-      {data.image && (
+      {heroImage && (
         <figure class="article-hero-image">
-          <img src={data.image} alt={data.imageAlt ?? data.title} loading="eager" decoding="async" />
-          {data.imageAlt && <figcaption>{data.imageAlt}</figcaption>}
+          <img src={heroImage} alt={heroImageAlt} loading="eager" decoding="async" />
+          {heroImageAlt && <figcaption>{heroImageAlt}</figcaption>}
         </figure>
       )}
     </header>
