@@ -1,0 +1,24 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { CATEGORY_LABELS } from '../../consts';
+import { getPublishedPosts } from '../../utils/posts';
+
+export async function getStaticPaths() {
+  return Object.keys(CATEGORY_LABELS).map((category) => ({ params: { category } }));
+}
+
+const { category } = Astro.params;
+const label = CATEGORY_LABELS[category ?? ''] ?? category;
+const posts = getPublishedPosts(await getCollection('posts')).filter((post) => post.data.category === category);
+---
+
+<BaseLayout title={`${label} 카테고리`} description={`${label} 관련 방송 글 목록입니다.`}>
+  <section class="article-header">
+    <p class="kicker">Category</p>
+    <h1>{label}</h1>
+    <p class="lead">총 {posts.length}개의 방송 글이 있습니다.</p>
+  </section>
+  {posts.length > 0 ? <div class="grid two">{posts.map((post) => <PostCard post={post} />)}</div> : <p class="empty">아직 글이 없습니다.</p>}
+</BaseLayout>

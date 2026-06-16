@@ -1,0 +1,25 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getPublishedPosts, uniqueSorted } from '../../utils/posts';
+
+const posts = getPublishedPosts(await getCollection('posts'));
+const programs = uniqueSorted(posts.map((post) => post.data.program));
+---
+
+<BaseLayout title="프로그램" description="오늘방송 노트에서 모니터링하는 TV 프로그램별 글 목록입니다.">
+  <section class="article-header">
+    <p class="kicker">Programs</p>
+    <h1>프로그램</h1>
+    <p class="lead">방송 프로그램별로 발행 글을 모아봅니다.</p>
+  </section>
+  {programs.length > 0 ? programs.map((program) => (
+    <section>
+      <div class="section-head"><h2>{program}</h2></div>
+      <div class="grid two">
+        {posts.filter((post) => post.data.program === program).map((post) => <PostCard post={post} />)}
+      </div>
+    </section>
+  )) : <p class="empty">아직 프로그램별 발행 글이 없습니다.</p>}
+</BaseLayout>

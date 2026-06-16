@@ -1,0 +1,136 @@
+---
+import { SITE_DESCRIPTION, SITE_TITLE, SITE_URL, NAV_ITEMS } from '../consts';
+import '../styles/global.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  type?: 'website' | 'article';
+  publishedTime?: string;
+  modifiedTime?: string;
+  tags?: string[];
+  noindex?: boolean;
+}
+
+const {
+  title = SITE_TITLE,
+  description = SITE_DESCRIPTION,
+  image = '/og-default.svg',
+  type = 'website',
+  publishedTime,
+  modifiedTime,
+  tags = [],
+  noindex = false
+} = Astro.props as Props;
+
+const site = Astro.site ?? new URL(SITE_URL);
+const canonical = new URL(Astro.url.pathname, site);
+const pageTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
+const imageUrl = new URL(image, site);
+const robots = noindex ? 'noindex, follow' : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1';
+const jsonLd = type === 'article'
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'BlogPosting',
+      headline: title,
+      description,
+      url: canonical.href,
+      inLanguage: 'ko-KR',
+      isPartOf: { '@type': 'Blog', name: SITE_TITLE, url: site.href },
+      publisher: { '@type': 'Organization', name: SITE_TITLE, url: site.href },
+      datePublished: publishedTime,
+      dateModified: modifiedTime ?? publishedTime,
+      keywords: tags.join(', '),
+      image: imageUrl.href
+    }
+  : {
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: SITE_TITLE,
+      description: SITE_DESCRIPTION,
+      url: site.href,
+      inLanguage: 'ko-KR',
+      potentialAction: {
+        '@type': 'SearchAction',
+        target: `${site.href}search/?q={search_term_string}`,
+        'query-input': 'required name=search_term_string'
+      }
+    };
+---
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <meta name="robots" content={robots} />
+    <meta name="theme-color" content="#fff7ed" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <link rel="canonical" href={canonical.href} />
+    <link rel="alternate" type="application/rss+xml" href={new URL('/rss.xml', site).href} title={`${SITE_TITLE} RSS`} />
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" />
+
+    <meta property="og:type" content={type} />
+    <meta property="og:locale" content="ko_KR" />
+    <meta property="og:site_name" content={SITE_TITLE} />
+    <meta property="og:title" content={type === 'article' ? title : pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical.href} />
+    <meta property="og:image" content={imageUrl.href} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={type === 'article' ? title : pageTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={imageUrl.href} />
+    {publishedTime && <meta property="article:published_time" content={publishedTime} />}
+    {modifiedTime && <meta property="article:modified_time" content={modifiedTime} />}
+    {tags.map((tag) => <meta property="article:tag" content={tag} />)}
+    <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)} />
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">본문으로 건너뛰기</a>
+    <header class="site-header">
+      <div class="shell nav-shell">
+        <a class="brand" href="/" aria-label={`${SITE_TITLE} 홈`}>
+          <span class="brand-mark">TV</span>
+          <span><strong>{SITE_TITLE}</strong><small>맛집·지역·건강 방송정보</small></span>
+        </a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">메뉴</button>
+        <nav class="site-nav" id="site-nav" aria-label="주요 메뉴">
+          {NAV_ITEMS.map((item) => <a href={item.href}>{item.label}</a>)}
+        </nav>
+      </div>
+    </header>
+    <main id="main-content" class="shell">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="shell footer-grid">
+        <div>
+          <strong>{SITE_TITLE}</strong>
+          <p>방송에 나온 장소와 정보를 공식 출처, 지도, 기사로 확인해 정리합니다.</p>
+        </div>
+        <nav aria-label="푸터 메뉴">
+          <a href="/privacy/">개인정보처리방침</a>
+          <a href="/rss.xml">RSS</a>
+          <a href="/search/">검색</a>
+        </nav>
+      </div>
+    </footer>
+    <script>
+      const toggle = document.querySelector('.nav-toggle');
+      const nav = document.querySelector('.site-nav');
+      toggle?.addEventListener('click', () => {
+        const open = toggle.getAttribute('aria-expanded') !== 'true';
+        toggle.setAttribute('aria-expanded', String(open));
+        nav?.classList.toggle('is-open', open);
+      });
+    </script>
+  </body>
+</html>

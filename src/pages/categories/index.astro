@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { CATEGORY_LABELS } from '../../consts';
+
+const categories = Object.entries(CATEGORY_LABELS);
+---
+
+<BaseLayout title="카테고리" description="오늘방송 노트의 방송맛집, 지역·여행, 건강정보, 생활정보 카테고리입니다.">
+  <section class="article-header">
+    <p class="kicker">Categories</p>
+    <h1>카테고리</h1>
+    <p class="lead">방송 소재 성격에 따라 맛집, 지역, 건강, 생활 정보로 나누어 정리합니다.</p>
+  </section>
+  <div class="category-strip">
+    {categories.map(([key, label]) => (
+      <a class="category-card" href={`/categories/${key}/`}>
+        <strong>{label}</strong>
+        <span>관련 글 보기</span>
+      </a>
+    ))}
+  </div>
+</BaseLayout>

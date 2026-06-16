@@ -1,0 +1,90 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import { CATEGORY_LABELS, SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { getPublishedPosts } from '../utils/posts';
+
+const posts = getPublishedPosts(await getCollection('posts'));
+const [featured, ...latest] = posts;
+const categoryCounts = Object.keys(CATEGORY_LABELS).map((key) => ({
+  key,
+  label: CATEGORY_LABELS[key],
+  count: posts.filter((post) => post.data.category === key).length
+}));
+const programs = ['2TV 생생정보', '6시 내고향', '오늘N', '생방송 투데이', '생활의 달인', '한국인의 밥상', '생로병사의 비밀', '엄지의 제왕'];
+---
+
+<BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
+  <section class="hero">
+    <div>
+      <p class="kicker">Korean TV Broadcast Guide</p>
+      <h1>오늘 방송에 나온 맛집과 지역 이야기를 빠르게 정리합니다.</h1>
+      <p class="lead">6시 내고향, 생생정보, 오늘N, 생활의 달인, 건강 프로그램까지. 방송 직후 확인 가능한 공식 정보와 지도 데이터를 교차 검증해 보기 좋게 모읍니다.</p>
+      <div class="hero-actions">
+        <a class="button primary" href="/search/">방송 정보 검색</a>
+        <a class="button" href="/programs/">대상 프로그램 보기</a>
+      </div>
+    </div>
+    <aside class="hero-panel" aria-label="운영 원칙">
+      <div class="stat-card"><strong>{posts.length}</strong><span>발행 글</span></div>
+      <div class="stat-card"><strong>4단계</strong><span>방송·기사·지도·공식 출처 검증</span></div>
+      <div class="stat-card"><strong>주의</strong><span>건강 정보는 의학적 단정 없이 정리</span></div>
+    </aside>
+  </section>
+
+  <section aria-labelledby="category-title">
+    <div class="section-head">
+      <div>
+        <h2 id="category-title">카테고리</h2>
+        <p>맛집, 지역, 건강, 생활 정보로 나누어 빠르게 찾을 수 있게 구성했습니다.</p>
+      </div>
+    </div>
+    <div class="category-strip">
+      {categoryCounts.map((category) => (
+        <a class="category-card" href={`/categories/${category.key}/`}>
+          <strong>{category.label}</strong>
+          <span>{category.count}개 글</span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section aria-labelledby="latest-title">
+    <div class="section-head">
+      <div>
+        <h2 id="latest-title">최신 방송 정리</h2>
+        <p>방송일과 업데이트일 기준으로 최신 정보를 보여줍니다.</p>
+      </div>
+      <a class="button" href="/rss.xml">RSS</a>
+    </div>
+    {featured ? (
+      <div class="grid two">
+        <PostCard post={featured} />
+        <div class="grid">
+          {latest.slice(0, 3).map((post) => <PostCard post={post} compact />)}
+        </div>
+      </div>
+    ) : (
+      <p class="empty">아직 발행된 방송 글이 없습니다. 첫 글은 방송 자료 검증 후 추가됩니다.</p>
+    )}
+  </section>
+
+  <section aria-labelledby="program-title">
+    <div class="section-head">
+      <div>
+        <h2 id="program-title">우선 모니터링 프로그램</h2>
+        <p>어른들이 즐겨 보고 남녀노소 검색 수요가 있는 프로그램부터 시작합니다.</p>
+      </div>
+    </div>
+    <div class="grid three">
+      {programs.map((program) => (
+        <div class="info-card">
+          <p class="kicker">Program</p>
+          <h3>{program}</h3>
+          <p>공식 회차 정보, 클립/자막, 기사, 지도 정보를 함께 확인합니다.</p>
+        </div>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

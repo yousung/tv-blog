@@ -1,0 +1,84 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="검색" description="오늘방송 노트에서 프로그램, 지역, 맛집, 건강 정보를 검색합니다." noindex={true}>
+  <section class="article-header">
+    <p class="kicker">Search</p>
+    <h1>방송 정보 검색</h1>
+    <p class="lead">프로그램명, 지역명, 상호명, 건강 키워드로 글을 찾아보세요.</p>
+    <form class="search-box" role="search">
+      <input id="search-input" name="q" type="search" placeholder="예: 생생정보 부산 보리밥" autocomplete="off" />
+      <button type="submit">검색</button>
+    </form>
+  </section>
+  <div id="search-results" class="grid two" aria-live="polite"></div>
+</BaseLayout>
+
+<script is:inline>
+  const form = document.querySelector('.search-box');
+  const input = document.getElementById('search-input');
+  const results = document.getElementById('search-results');
+  const params = new URLSearchParams(location.search);
+  const initial = params.get('q') || '';
+  if (input instanceof HTMLInputElement) input.value = initial;
+
+  async function runSearch(query) {
+    if (!results) return;
+    const q = String(query || '').trim().toLowerCase();
+    const index = await fetch('/search-index.json').then((res) => res.json());
+    const matches = q
+      ? index.filter((item) => [item.title, item.description, item.program, item.region, item.placeName, item.tags.join(' ')].join(' ').toLowerCase().includes(q))
+      : [];
+    results.replaceChildren();
+
+    if (!matches.length) {
+      const empty = document.createElement('p');
+      empty.className = 'empty';
+      empty.textContent = q ? '검색 결과가 없습니다.' : '검색어를 입력하세요.';
+      results.append(empty);
+      return;
+    }
+
+    for (const item of matches) {
+      const article = document.createElement('article');
+      article.className = 'post-card';
+
+      const topline = document.createElement('div');
+      topline.className = 'card-topline';
+      const category = document.createElement('span');
+      category.className = 'pill';
+      category.textContent = item.category;
+      const program = document.createElement('span');
+      program.textContent = item.program;
+      topline.append(category, program);
+
+      const title = document.createElement('h2');
+      const link = document.createElement('a');
+      link.href = item.url;
+      link.textContent = item.title;
+      title.append(link);
+
+      const description = document.createElement('p');
+      description.textContent = item.description;
+
+      const footer = document.createElement('footer');
+      for (const value of [item.region, item.placeName].filter(Boolean)) {
+        const span = document.createElement('span');
+        span.textContent = value;
+        footer.append(span);
+      }
+
+      article.append(topline, title, description, footer);
+      results.append(article);
+    }
+  }
+
+  form?.addEventListener('submit', (event) => {
+    event.preventDefault();
+    const query = input instanceof HTMLInputElement ? input.value : '';
+    history.replaceState(null, '', query ? `/search/?q=${encodeURIComponent(query)}` : '/search/');
+    runSearch(query);
+  });
+  runSearch(initial);
+</script>
