@@ -12,13 +12,14 @@ broadcastDate: "2026-06-16"
 region: "충남 서천군 서천읍"
 placeName: "서천특화시장"
 address: "충청남도 서천군 서천읍 충절로 42"
-image: "/images/broadcast/kbs-2tv-broadcast-note.svg"
-imageAlt: "KBS 2TV 생생정보 방송 정보 대표 이미지"
+image: "/images/posts/2tv-live-info-seocheon-specialty-market/hero.jpg"
+imageAlt: "서천특화시장 실제 방송·시장 장면"
 tags: ["서천 가볼만한곳", "서천특화시장", "서천 시장", "충남 전통시장", "서천 수산물", "2TV 생생정보", "방송 시장"]
 source:
   - "충청남도 보도: 화재 이후 활기 되찾고 있는 서천특화시장"
   - "뉴시스: 화재 피해 서천특화시장, 임시시장 및 복합판매시설 재건"
   - "위키트리: 2TV 생생정보 2026-06-16 방송 코너 정리"
+  - "이미지 출처: KBS 전통시장 유튜브 썸네일"
 ---
 
 > 발행 보류(draft): 2024년 1월 화재 이후 정식 시장이 재건 중이라, 현재 영업이 이뤄지는 임시시장의 정확한 위치·주소·운영 동(棟) 정보를 추가 확인한 뒤 published로 전환합니다. 시조식당·금희다방·수정냉면 등 방송에 비친 개별 점포의 상호·주소·메뉴도 교차검증이 필요합니다.

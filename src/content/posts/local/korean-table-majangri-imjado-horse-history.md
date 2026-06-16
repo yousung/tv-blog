@@ -9,13 +9,14 @@ program: "한국인의 밥상"
 episode: "2026-01-01 방송분"
 broadcastDate: "2026-01-01"
 region: "충북 옥천군·전남 신안군"
-image: "/images/broadcast/kbs-2tv-broadcast-note.svg"
-imageAlt: "KBS 한국인의 밥상 방송 정보 대표 이미지"
+image: "/images/posts/korean-table-majangri-imjado-horse-history/hero.jpg"
+imageAlt: "한국인의 밥상 병오년 새해 밥상 실제 공식 영상 장면"
 tags: ["한국인의 밥상", "병오년", "옥천 마장리", "말무덤", "임자도 마방촌", "신안 임자도", "지역 역사", "최수종", "새해 밥상"]
 source:
   - "KBS 한국인의 밥상 2026-01-01 방송: 2026 달리는 희망, 기운찬 새 밥을 짓다"
   - "KBS Delicious Korea 공식 유튜브: 2026년 병오년 건강과 복을 담은 새해 첫 밥상"
   - "KBS 한국인의 밥상 프로그램 소개: 지역의 음식과 삶, 역사 이야기를 다루는 시사교양 프로그램"
+  - "이미지 출처: KBS Delicious Korea 공식 유튜브 썸네일"
 ---
 
 2026년은 **병오년**, 붉은 말의 해입니다. 그래서인지 KBS **한국인의 밥상** 새해 첫 방송은 단순히 “새해 음식”만 보여주지 않았습니다. 말과 인연이 깊은 마을, 말이 지나간 길, 말이 남긴 이름을 따라가며 지역의 기억을 꺼냈습니다.

@@ -16,8 +16,9 @@ source:
   - "KBS 2TV 생생정보 2549회 VOD 페이지(2026-06-10 방송)"
   - "로컬맵 당진시 두리찾기 해나루 일반음식점 정보"
   - "방송맛집 보조 검색 결과: 2TV 생생정보 2549회 당진 해나루 언급 자료"
-image: "/images/broadcast/kbs-2tv-broadcast-note.svg"
-imageAlt: "KBS 2TV 생생정보 당진 해나루 게장·꽃게탕 방송 정보 대표 이미지"
+  - "이미지 출처: 다이닝코드 해나루 방문자 사진"
+image: "/images/posts/2tv-live-info-dangjin-haenaroo-gejang/hero.jpg"
+imageAlt: "당진 해나루 게장 상차림 실제 사진"
 ---
 
 ## 방송에 나온 곳은 어디인가요
