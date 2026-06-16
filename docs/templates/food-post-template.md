@@ -23,8 +23,7 @@ program: "2TV 생생정보"
 episode: "0000회"
 broadcastDate: "2026-06-16"
 region: "부산 해운대구"
-placeName: "확인 후 입력"
-address: "확인 후 입력"
+# placeName / address 는 공식·지도 확인 후에만 추가 (확인 전에는 생략)
 tags: ["2TV 생생정보", "방송맛집", "부산", "해운대", "밀면"]
 source:
   - "방송사 공식 회차 정보"
