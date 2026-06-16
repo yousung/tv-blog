@@ -2,7 +2,7 @@
 title: "2TV 생생정보 태안 청어람 우럭젓국 위치｜정보 할매의 16첩 반찬 한상"
 slug: "2tv-live-info-ureok-jeotguk-halmeoni"
 description: "2TV 생생정보 할매~ 밥 됩니까? 정보 할매의 우럭젓국 편에 나온 태안 청어람 위치, 지도, 대표 메뉴와 방송 장면을 정리했습니다."
-date: "2026-06-16"
+date: "2026-04-28"
 updatedDate: "2026-06-16"
 status: "published"
 category: "food"
