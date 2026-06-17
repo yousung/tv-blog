@@ -12,6 +12,8 @@ broadcastDate: "2026-06-16"
 region: "서울 영등포구 문래동"
 placeName: "문래밤아"
 address: "서울 영등포구 도림로141가길 24-3"
+mapLat: 37.5158826
+mapLng: 126.8905511
 image: "/images/posts/saengbangsong-today-mullae-bama-kkeokdaegi-suyuk/hero.jpg"
 imageAlt: "문래밤아 껍데기 항정살 수육 실제 음식 사진"
 tags: ["문래동 맛집", "문래동 술집", "영등포 술집", "껍데기 수육", "문래밤아", "생방송 투데이", "방송맛집", "문래동 안주"]

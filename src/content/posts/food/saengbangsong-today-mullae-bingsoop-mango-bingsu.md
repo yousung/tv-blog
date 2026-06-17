@@ -12,6 +12,8 @@ broadcastDate: "2026-06-16"
 region: "서울 영등포구 문래동"
 placeName: "빙숲문래"
 address: "서울 영등포구 도림로141길 15 1층"
+mapLat: 37.5149370
+mapLng: 126.8930220
 image: "/images/posts/saengbangsong-today-mullae-bingsoop-mango-bingsu/hero.jpg"
 imageAlt: "빙숲문래 생망고 빙수 실제 방송·리뷰 영상 장면"
 tags: ["문래동 맛집", "문래동 빙수", "영등포 빙수 맛집", "생망고 빙수", "빙숲문래", "생방송 투데이", "방송맛집", "문래동 카페"]

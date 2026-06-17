@@ -12,6 +12,8 @@ broadcastDate: "2026-06-16"
 region: "충북 영동군 용화면"
 placeName: "영동 편백 치유의 숲"
 address: "충청북도 영동군 용화면 자계리 산1-3"
+mapLat: 36.0741417
+mapLng: 127.8221400
 image: "/images/posts/2tv-live-info-yeongdong-cypress-healing-forest/hero.jpg"
 imageAlt: "영동 편백 치유의 숲 실제 숲길 장면"
 tags: ["영동 가볼만한곳", "영동 편백나무 숲", "충북 산림욕", "치유의 숲", "편백 피톤치드", "2TV 생생정보", "방송 명소"]

@@ -12,6 +12,8 @@ broadcastDate: "2026-06-16"
 region: "경기 고양시 덕양구"
 placeName: "중남미문화원"
 address: "경기도 고양시 덕양구 대양로285번길 33-15"
+mapLat: 37.7039827
+mapLng: 126.8953977
 image: "/images/posts/2tv-live-info-goyang-latin-america-cultural-center/hero.jpg"
 imageAlt: "고양 중남미문화원 현장 방문 영상 장면"
 tags: ["고양 가볼만한곳", "고양 중남미문화원", "덕양구 가볼만한곳", "고양 박물관", "수도권 데이트 코스", "2TV 생생정보", "방송 명소"]
