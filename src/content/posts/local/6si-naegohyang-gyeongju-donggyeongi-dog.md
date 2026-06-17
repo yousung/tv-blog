@@ -60,6 +60,8 @@ source:
 
 - [대전 계족산 황톳길, 맨발로 걷는 숲길 여행](/posts/6si-naegohyang-daejeon-gyejoksan-hwangtotgil/)
 - [대전 빵버스투어, 빵의 도시를 한 바퀴 도는 법](/posts/6si-naegohyang-daejeon-bbang-bus-tour/)
+- [대전 영춘모찌, 오전에만 파는 수제 찹쌀떡](/posts/6si-naegohyang-daejeon-yeongchun-mozzi/)
+- [대전 미미제과점, 갈마동 명란소금빵](/posts/6si-naegohyang-daejeon-mimi-myeongnan-saltbread/)
 
 ## 출처
 

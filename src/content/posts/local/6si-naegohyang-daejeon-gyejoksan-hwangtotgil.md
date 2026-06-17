@@ -60,6 +60,8 @@ source:
 
 - [대전 빵버스투어, 빵의 도시를 한 바퀴 도는 법](/posts/6si-naegohyang-daejeon-bbang-bus-tour/)
 - [경주개 동경이, 꼬리 짧은 천연기념물 토종개 이야기](/posts/6si-naegohyang-gyeongju-donggyeongi-dog/)
+- [대전 경동오징어국수, 두부오징어두루치기 노포](/posts/6si-naegohyang-daejeon-gyeongdong-ojingeo-guksu/)
+- [대전 하레하레 둔산점, 쌀빵·늑구빵 베이커리카페](/posts/6si-naegohyang-daejeon-harehare-ssalppang/)
 
 ## 출처
 
