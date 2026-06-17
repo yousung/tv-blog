@@ -55,8 +55,8 @@ imageAlt: "2TV 생생정보 우럭젓국 편에 나온 태안 청어람식당의
 처음부터 우럭젓국 냄비만 크게 보여주는 구성이 아니었습니다. 포구 분위기가 먼저 나오고, 그다음에 상차림이 이어집니다. 이 흐름이 좋았습니다. 그냥 “태안군 맛집 검색해서 나온 식당”이 아니라, 바다 냄새 나는 동네에서 오래 장사한 밥집 느낌이 납니다.
 
 <figure>
-  <img src="/images/posts/ureok-jeotguk/scene-060.jpg" alt="청어람 주방에서 손맛을 설명하는 정보 할매의 모습" loading="lazy" />
-  <figcaption>주방에서 이어지는 정보 할매의 손맛 이야기. 메뉴 하나보다 오래 손님을 맞아온 집의 분위기가 더 기억에 남습니다. 출처: KBS LIFE 공식 YouTube, 2TV 생생정보 2026-04-28 방송 클립.</figcaption>
+  <img src="/images/posts/ureok-jeotguk/scene-480.jpg" alt="태안 모항항 바닷가와 포구 풍경" loading="lazy" />
+  <figcaption>식당 이야기로 들어가기 전 비친 태안 포구 풍경. 방송의 지역 분위기를 보여주는 사람 없는 장면입니다. 출처: KBS LIFE 공식 YouTube, 2TV 생생정보 2026-04-28 방송 클립.</figcaption>
 </figure>
 
 상에 올라오는 반찬도 과하게 꾸민 느낌이 아닙니다. 생선구이, 나물, 조림 같은 반찬이 옆에 붙고, 가운데 우럭젓국이 놓입니다. 이런 밥상은 사진보다 실제로 앉았을 때 더 좋습니다. 특히 어른들은 “이 정도면 됐다” 하실 만한 구성입니다.
@@ -92,8 +92,8 @@ imageAlt: "2TV 생생정보 우럭젓국 편에 나온 태안 청어람식당의
 ## 모항항, 만리포, 천리포까지 묶으면 동선이 좋다
 
 <figure>
-  <img src="/images/posts/ureok-jeotguk/scene-760.jpg" alt="손님들이 우럭젓국과 반찬을 먹으며 맛을 이야기하는 장면" loading="lazy" />
-  <figcaption>손님들이 우럭젓국과 반찬을 먹는 장면. 국물, 우럭살, 반찬 구성이 한 번에 보여서 실제로 가보고 싶어지는 컷입니다. 출처: KBS LIFE 공식 YouTube, 2TV 생생정보 2026-04-28 방송 클립.</figcaption>
+  <img src="/images/posts/ureok-jeotguk/scene-180.jpg" alt="태안 청어람식당 우럭젓국과 반찬 한상" loading="lazy" />
+  <figcaption>우럭젓국과 반찬 구성이 한 번에 보이는 사람 없는 상차림 컷입니다. 출처: KBS LIFE 공식 YouTube, 2TV 생생정보 2026-04-28 방송 클립.</figcaption>
 </figure>
 
 청어람식당은 식당 하나만 보고 멀리 왕복하기보다 태안 북부 여행에 끼워 넣는 편이 좋습니다. 모항항에서 밥을 먹고, 만리포해수욕장이나 천리포수목원으로 움직이면 하루 코스가 깔끔합니다.

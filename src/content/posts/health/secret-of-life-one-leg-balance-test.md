@@ -9,8 +9,6 @@ program: "생로병사의 비밀"
 episode: "E991"
 broadcastDate: "2026-04-29"
 region: "전국"
-image: "/images/posts/secret-of-life-one-leg-balance-test/hero.jpg"
-imageAlt: "생로병사의 비밀 한 발 서기 운동법 실제 영상 장면"
 tags: ["한발서기", "한 발로 10초", "균형 테스트", "낙상 예방", "중장년 건강", "근감소증", "생로병사의 비밀", "건강 습관"]
 source:
   - "KBS 생로병사의 비밀 공식 프로그램: 건강·의학 시사교양 프로그램"
