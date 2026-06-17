@@ -7,7 +7,9 @@
     "dev": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",
-    "check": "astro check"
+    "check": "astro check",
+    "geocode:posts": "node scripts/geocode-posts.mjs",
+    "audit:post-assets": "node scripts/audit-post-assets.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.9",
