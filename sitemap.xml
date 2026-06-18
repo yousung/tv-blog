@@ -2,35 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tv.lovizu.com/</loc>
-    <lastmod>2026-06-18T09:14:57.907Z</lastmod>
+    <lastmod>2026-06-18T14:18:43.062Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/programs/</loc>
-    <lastmod>2026-06-18T09:14:57.907Z</lastmod>
+    <lastmod>2026-06-18T14:18:43.062Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/</loc>
-    <lastmod>2026-06-18T09:14:57.907Z</lastmod>
+    <lastmod>2026-06-18T14:18:43.062Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/food/</loc>
-    <lastmod>2026-06-18T09:14:57.907Z</lastmod>
+    <lastmod>2026-06-18T14:18:43.062Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/local/</loc>
-    <lastmod>2026-06-18T09:14:57.907Z</lastmod>
+    <lastmod>2026-06-18T14:18:43.062Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/health/</loc>
-    <lastmod>2026-06-18T09:14:57.907Z</lastmod>
+    <lastmod>2026-06-18T14:18:43.062Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/life/</loc>
-    <lastmod>2026-06-18T09:14:57.907Z</lastmod>
+    <lastmod>2026-06-18T14:18:43.062Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/privacy/</loc>
-    <lastmod>2026-06-18T09:14:57.907Z</lastmod>
+    <lastmod>2026-06-18T14:18:43.062Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-boryeong-wonsando-jogae-gui/</loc>
+    <lastmod>2026-06-18T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-goyang-latin-america-cultural-center/</loc>
@@ -53,12 +57,20 @@
     <lastmod>2026-06-17T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-siheung-yedaga-ssambap/</loc>
+    <lastmod>2026-06-18T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-sokcho-tourist-fishery-market/</loc>
     <lastmod>2026-06-17T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-ureok-jeotguk-halmeoni/</loc>
     <lastmod>2026-06-16T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-wonju-janggun-bonga-boksung-bulgogi/</loc>
+    <lastmod>2026-06-18T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-yeongdong-cypress-healing-forest/</loc>
@@ -137,6 +149,10 @@
     <lastmod>2026-06-18T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-eunpyeong-oreumjip-gopchang/</loc>
+    <lastmod>2026-06-18T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-haenam-cheonil-tteokgalbi/</loc>
     <lastmod>2026-06-18T00:00:00.000Z</lastmod>
   </url>
@@ -162,6 +178,10 @@
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-songpa-bumpogu-sukseonghoe/</loc>
+    <lastmod>2026-06-18T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-suwon-donggang-songeohoe/</loc>
     <lastmod>2026-06-18T00:00:00.000Z</lastmod>
   </url>
   <url>
