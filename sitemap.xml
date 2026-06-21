@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tv.lovizu.com/</loc>
-    <lastmod>2026-06-20T14:20:58.207Z</lastmod>
+    <lastmod>2026-06-21T09:15:36.926Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/programs/</loc>
-    <lastmod>2026-06-20T14:20:58.207Z</lastmod>
+    <lastmod>2026-06-21T09:15:36.926Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/</loc>
-    <lastmod>2026-06-20T14:20:58.207Z</lastmod>
+    <lastmod>2026-06-21T09:15:36.926Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/food/</loc>
-    <lastmod>2026-06-20T14:20:58.207Z</lastmod>
+    <lastmod>2026-06-21T09:15:36.926Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/local/</loc>
-    <lastmod>2026-06-20T14:20:58.207Z</lastmod>
+    <lastmod>2026-06-21T09:15:36.926Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/health/</loc>
-    <lastmod>2026-06-20T14:20:58.207Z</lastmod>
+    <lastmod>2026-06-21T09:15:36.926Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/life/</loc>
-    <lastmod>2026-06-20T14:20:58.207Z</lastmod>
+    <lastmod>2026-06-21T09:15:36.926Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/privacy/</loc>
-    <lastmod>2026-06-20T14:20:58.207Z</lastmod>
+    <lastmod>2026-06-21T09:15:36.926Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-boryeong-wonsando-jogae-gui/</loc>
@@ -181,8 +181,20 @@
     <lastmod>2026-01-01T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/lifemaster-changdong-gyeori-kaisendon/</loc>
+    <lastmod>2026-06-21T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/lifemaster-mia-kimgunne-jjamppong/</loc>
+    <lastmod>2026-06-21T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/lifemaster-sadang-mandumyeongga-damwon-kkwabaegi/</loc>
     <lastmod>2026-06-20T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/lifemaster-seogyo-popobread-vegan-bread/</loc>
+    <lastmod>2026-06-21T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/lifemaster-yeongdeungpo-bbongssine-eolkeun-sujebi/</loc>
@@ -249,6 +261,10 @@
     <lastmod>2026-06-18T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-hwaseong-onyudam-dubu/</loc>
+    <lastmod>2026-06-21T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-incheon-samdae-gejang/</loc>
     <lastmod>2026-06-20T00:00:00.000Z</lastmod>
   </url>
@@ -295,6 +311,10 @@
   <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-suwon-donggang-songeohoe/</loc>
     <lastmod>2026-06-18T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-yeoksam-ttati-kimchijjigae/</loc>
+    <lastmod>2026-06-21T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/secret-of-life-anemia-warning/</loc>
