@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">6시 내고향 대전 영춘모찌, 오전에만 파는 수제 찹쌀떡 사러 가는 법 대표 정보 카드</title>
+  <desc id="desc">방송사 마크가 아닌 글 주제별 대표 정보 카드 이미지</desc>
+  <rect width="1200" height="630" fill="#fff7ed"/>
+  <rect x="54" y="54" width="1092" height="522" rx="28" fill="#ffffff" stroke="#fed7aa" stroke-width="3"/>
+  <circle cx="1010" cy="150" r="78" fill="#fed7aa" opacity="0.9"/>
+  <circle cx="1082" cy="234" r="38" fill="#f97316" opacity="0.22"/>
+  <rect x="80" y="100" width="250" height="46" rx="23" fill="#f97316"/>
+  <text x="105" y="131" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">방송 맛집 정보</text>
+  <text x="80" y="214" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#7c2d12">6시 내고향 대전 영춘모찌,</text>
+  <text x="80" y="272" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#7c2d12">오전에만 파는 수제 찹쌀떡 사러</text>
+  <text x="80" y="330" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#7c2d12">가는 법</text>
+  <line x1="80" y1="448" x2="520" y2="448" stroke="#f97316" stroke-width="6" stroke-linecap="round"/>
+  <text x="80" y="502" font-family="Arial, sans-serif" font-size="26" font-weight="600" fill="#0f766e">BLOA 방문 전 체크 포인트</text>
+  <text x="80" y="540" font-family="Arial, sans-serif" font-size="22" fill="#475569">위치 · 메뉴 · 예약 · 방송 정보 정리</text>
+</svg>

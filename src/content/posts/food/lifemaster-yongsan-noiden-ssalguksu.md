@@ -14,8 +14,8 @@ placeName: "노이덴"
 address: "서울 용산구 한강대로 373"
 mapLat: 37.5517116
 mapLng: 126.9719943
-image: "/images/broadcast/sbs-lifemaster-broadcast-note.svg"
-imageAlt: "생활의 달인 966회 용산 노이덴 베트남 쌀국수 달인 방송 소개"
+image: "/images/posts/lifemaster-yongsan-noiden-ssalguksu/hero.svg"
+imageAlt: "용산 노이덴 베트남 쌀국수 달인 대표 정보 카드 이미지"
 tags: ["용산 맛집", "서울역 맛집", "베트남 쌀국수", "쌀국수 맛집", "노이덴", "생활의 달인", "포 맛집", "방송맛집"]
 source:
   - "SBS 생활의 달인 966회 방송정보(2025-01-20 방송분, '베트남 쌀국수 달인')와 SBS TV맛집(matstar) 업체 정보(상호·주소·연락처·대표 메뉴)"

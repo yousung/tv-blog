@@ -14,8 +14,8 @@ placeName: "종로손칼국수"
 address: "서울 동대문구 경동시장로 9"
 mapLat: 37.5797995
 mapLng: 127.0406376
-image: "/images/broadcast/sbs-today-broadcast-note.svg"
-imageAlt: "생방송 투데이 4033회 제기동 종로손칼국수 30년 콩국수 방송 소개"
+image: "/images/posts/saengbangsong-today-jegidong-jongno-sonkalguksu/hero.svg"
+imageAlt: "제기동 콩국수·손칼국수 맛집 종로손칼국수 대표 정보 카드 이미지"
 tags: ["제기동 맛집", "청량리역 맛집", "제기동 칼국수", "콩국수 맛집", "경동시장 맛집", "종로손칼국수", "생방송 투데이", "방송맛집"]
 source:
   - "SBS 생방송 투데이 4033회 방송정보(2026-06-19 방송분, '인생 분식 - 온 마음을 다하여, 30년 콩국수')"

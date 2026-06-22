@@ -14,8 +14,8 @@ placeName: "만두명가담원"
 address: "서울 동작구 동작대로29길 18"
 mapLat: 37.4881647
 mapLng: 126.9809969
-image: "/images/broadcast/sbs-lifemaster-broadcast-note.svg"
-imageAlt: "생활의 달인 973회 동작구 사당 만두명가담원 꽈배기 달인 방송 소개"
+image: "/images/posts/lifemaster-sadang-mandumyeongga-damwon-kkwabaegi/hero.svg"
+imageAlt: "사당 만두명가담원 꽈배기 달인 대표 정보 카드 이미지"
 tags: ["사당 맛집", "사당 꽈배기", "동작구 맛집", "꽈배기 달인", "옛날 꽈배기", "만두명가담원", "생활의 달인", "방송맛집"]
 source:
   - "SBS 생활의 달인 973회 방송정보(2025-03-10 방송분, '꽈배기 달인')와 SBS TV맛집(matstar) 업체 정보(상호·주소·연락처·대표 메뉴)"

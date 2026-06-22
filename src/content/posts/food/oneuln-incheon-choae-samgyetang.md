@@ -20,8 +20,8 @@ source:
   - "MBC 오늘N 6월 17일 방송정보 게시판(imbc.com, evening_info list_id=5468428)"
   - "식신 초애삼계탕: 주소·영업시간·메뉴 가격"
   - "대한민국 구석구석/관광정보(KTOURMAP) 초애삼계탕 위치·좌표"
-image: "/images/broadcast/mbc-oneuln-broadcast-note.svg"
-imageAlt: "오늘N 인천 초애삼계탕 형형색색 삼계탕 편 대표 이미지 (MBC 오늘N 방송 표시)"
+image: "/images/posts/oneuln-incheon-choae-samgyetang/hero.svg"
+imageAlt: "오늘N 인천 초애삼계탕 형형색색 삼계탕 대표 정보 카드 이미지"
 ---
 
 삼계탕이라고 하면 흔히 떠올리는 건 뽀얀 국물 한 가지입니다. 그런데 6월 17일 **MBC 오늘N** '식큐멘터리'가 찾아간 인천 **초애삼계탕**은 한 상에 색이 다 다른 삼계탕이 올라옵니다. 빨갛게 얼큰한 것, 노랗게 카레 향이 도는 것, 진하게 우린 사골 국물까지. '형형색색 삼계탕'이라는 방송 제목이 과장이 아니구나 싶은 집입니다.

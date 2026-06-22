@@ -14,8 +14,8 @@ placeName: "하레하레 둔산점"
 address: "대전광역시 서구 둔산로 155"
 mapLat: 36.3514424
 mapLng: 127.3949930
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 대전 하레하레 둔산점 쌀빵 편 대표 이미지 (KBS 1TV 방송 표시)"
+image: "/images/posts/6si-naegohyang-daejeon-harehare-ssalppang/hero.svg"
+imageAlt: "6시 내고향 대전 하레하레 둔산점, 쌀빵·늑구빵 맛보러 가는 베이커리카페 대표 정보 카드 이미지"
 tags: ["6시 내고향", "대전 쌀빵", "하레하레", "늑구빵", "둔산동 빵집", "대전 서구 맛집", "베이커리카페", "방송맛집"]
 source:
   - "KBS 1TV 6시 내고향 2026년 6월 17일 방송(8559회, 별 볼 일 있는 여행·고향투어) 방송정보"

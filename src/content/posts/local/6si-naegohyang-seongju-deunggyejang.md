@@ -11,8 +11,8 @@ episode: "2026-06-18 방송분 (성주 등겨장)"
 broadcastDate: "2026-06-18"
 region: "경북 성주군"
 placeName: "성주 등겨장(시금장)"
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 성주 등겨장 편 대표 이미지 (KBS 1TV 방송 표시)"
+image: "/images/posts/6si-naegohyang-seongju-deunggyejang/hero.svg"
+imageAlt: "6시 내고향 성주 등겨장(시금장), 보리등겨로 담그는 저염 장 이야기 대표 정보 카드 이미지"
 tags: ["6시 내고향", "성주 등겨장", "시금장", "보리등겨", "경북 성주 특산물", "전통 장", "방송 특산물"]
 source:
   - "KBS 1TV 6시 내고향 2026년 6월 18일 방송분(성주 등겨장) 방송정보"

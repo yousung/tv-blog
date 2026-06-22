@@ -16,8 +16,8 @@ source:
   - "더쎈뉴스 '오늘N' 2026년 6월 18일 방송 총정리 기사(mhns.co.kr, idxno=750697)"
   - "양산신문 '양산시청 남자볼링단 조영선 광저우 아시안게임 금메달' 기사(yangsanilbo.com, idxno=41747)"
   - "웰페어뉴스 '조영선 경남 양산시청 남자볼링, 아시안게임 金 쾌거' 기사(welfarenews.net, idxno=24338)"
-image: "/images/broadcast/mbc-oneuln-broadcast-note.svg"
-imageAlt: "MBC 오늘N 방송 정리 글 안내 이미지"
+image: "/images/posts/oneuln-jo-youngseon-bowling-trickshot/hero.svg"
+imageAlt: "오늘N 볼링 트릭샷 조영선, 아시안게임 금메달리스트의 별난 볼링 대표 정보 카드 이미지"
 ---
 
 볼링장에서 공을 다리 사이로 굴려 스트라이크를 내는 사람을 보면, 보통 둘 중 하나로 생각합니다. 운이 좋았거나, 우연한 묘기거나. 그런데 6월 18일 **MBC 오늘N** 2740회 'YOU, 별난 이야기'에 나온 사람은 그 반대였습니다. 다리 사이로 굴리고, 수건 위에 공을 얹어 던지는 묘기를 아무렇지 않게 반복했고, 알고 보니 묘기가 본업이 아니라 선수 출신이었습니다.

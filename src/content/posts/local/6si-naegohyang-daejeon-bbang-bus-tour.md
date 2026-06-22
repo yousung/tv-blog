@@ -11,8 +11,8 @@ episode: "8559회 / 2026-06-17 방송 (별 볼 일 있는 여행·고향투어)"
 broadcastDate: "2026-06-17"
 region: "대전광역시"
 placeName: "대전 빵시투어 (빵버스투어)"
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 대전 빵버스투어 편 대표 이미지 (KBS 1TV 방송 표시)"
+image: "/images/posts/6si-naegohyang-daejeon-bbang-bus-tour/hero.svg"
+imageAlt: "6시 내고향 대전 빵버스투어, 빵의 도시를 한 바퀴 도는 법과 예약 확인 대표 정보 카드 이미지"
 tags: ["6시 내고향", "대전 빵투어", "빵시투어", "대전 빵버스투어", "대전 여행", "대전 시티투어", "대전 빵집", "방송 위치"]
 source:
   - "KBS 1TV 6시 내고향 2026년 6월 17일 방송(8559회, 별 볼 일 있는 여행·고향투어)"

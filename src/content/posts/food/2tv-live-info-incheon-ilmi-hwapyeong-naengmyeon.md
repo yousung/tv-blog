@@ -12,8 +12,10 @@ broadcastDate: "2017-06-26"
 region: "인천 동구 화평동"
 placeName: "일미화평동냉면"
 address: "인천광역시 동구 화평로 18"
-image: "/images/broadcast/kbs-2tv-broadcast-note.svg"
-imageAlt: "2TV 생생정보 인천 일미화평동냉면 수박냉면 편 대표 이미지 (KBS 2TV 방송 표시)"
+mapLat: 37.4784213
+mapLng: 126.6295589
+image: "/images/posts/2tv-live-info-incheon-ilmi-hwapyeong-naengmyeon/hero.svg"
+imageAlt: "인천 화평동 일미화평동냉면 수박냉면 대표 정보 카드 이미지"
 tags: ["인천 냉면", "화평동 냉면", "세숫대야냉면", "수박냉면", "일미화평동냉면", "인천 동구 맛집", "2TV 생생정보", "방송맛집"]
 source:
   - "서울경제: '생생정보' 수박냉면 맛집, 위치는?…인천 '일미화평동냉면' (2TV 생생정보 유별난 맛집, 2017-06-26 방송)"

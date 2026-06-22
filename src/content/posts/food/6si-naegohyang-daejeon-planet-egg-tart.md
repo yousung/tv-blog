@@ -12,8 +12,10 @@ broadcastDate: "2026-06-17"
 region: "대전 서구"
 placeName: "플래닛에그타르트"
 address: "대전광역시 서구 갈마역로25번길 21"
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 대전 플래닛에그타르트 편 대표 이미지 (KBS 1TV 방송 표시)"
+mapLat: 36.3527888
+mapLng: 127.3722582
+image: "/images/posts/6si-naegohyang-daejeon-planet-egg-tart/hero.svg"
+imageAlt: "6시 내고향 대전 플래닛에그타르트, 갈마동 에그타르트 사러 갈 때 알아둘 점 대표 정보 카드 이미지"
 tags: ["6시 내고향", "대전 에그타르트", "플래닛에그타르트", "갈마동 디저트", "대전 서구 맛집", "대전 빵집", "방송맛집"]
 source:
   - "KBS 1TV 6시 내고향 2026년 6월 17일 방송(8559회, 별 볼 일 있는 여행·고향투어) 방송정보"

@@ -12,8 +12,10 @@ broadcastDate: "2026-06-17"
 region: "대전 유성구"
 placeName: "꿈돌이하우스 2호점"
 address: "대전광역시 유성구 대덕대로 480"
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 대전 꿈돌이라면 편 대표 이미지 (KBS 1TV 방송 표시)"
+mapLat: 36.3768953
+mapLng: 127.3816388
+image: "/images/posts/6si-naegohyang-daejeon-kkumdori-ramyeon/hero.svg"
+imageAlt: "6시 내고향 대전 꿈돌이라면, 엑스포 꿈돌이하우스에서 라면 한 그릇 먹는 법 대표 정보 카드 이미지"
 tags: ["6시 내고향", "대전 꿈돌이라면", "꿈돌이하우스", "엑스포과학공원", "대전 유성구 맛집", "대전 여행", "방송 위치"]
 source:
   - "KBS 1TV 6시 내고향 2026년 6월 17일 방송(8559회, 별 볼 일 있는 여행·고향투어) 방송정보"

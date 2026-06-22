@@ -12,8 +12,10 @@ broadcastDate: "2026-06-18"
 region: "충북 제천시 수산면"
 placeName: "진성체리농원"
 address: "충청북도 제천시 수산면 대전리 719"
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 제천 체리 편 대표 이미지 (KBS 1TV 방송 표시)"
+mapLat: 36.904109
+mapLng: 128.238829
+image: "/images/posts/6si-naegohyang-jecheon-jinseong-cherry/hero.svg"
+imageAlt: "6시 내고향 제천 체리, 진성체리농원에서 국산 체리 사기 전 알아둘 점 대표 정보 카드 이미지"
 tags: ["6시 내고향", "제천 체리", "진성체리농원", "제천 수산면", "국산 체리", "체리 농장 직거래", "방송맛집"]
 source:
   - "KBS 1TV 6시 내고향 2026년 6월 18일 방송분(제천 국산 체리) 방송정보"

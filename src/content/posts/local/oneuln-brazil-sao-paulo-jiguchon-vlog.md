@@ -16,8 +16,8 @@ source:
   - "브라질 정부(SECOM)·IBGE 2024년 인구 발표: 상파울루 시 약 1,190만 명"
   - "ITDP, Four Years of Car Free Sundays on Paulista Avenue(2019-12-05)"
   - "Prefeitura de São Paulo, Feiras Livres 공식 안내 페이지"
-image: "/images/broadcast/mbc-oneuln-broadcast-note.svg"
-imageAlt: "MBC 오늘N 지구촌 브이로그 브라질 상파울루 편 안내 이미지"
+image: "/images/posts/oneuln-brazil-sao-paulo-jiguchon-vlog/hero.svg"
+imageAlt: "오늘N 브라질 상파울루 대표 정보 카드 이미지"
 ---
 
 지구 반대편 도시는 보통 관광 명소 몇 곳으로만 기억됩니다. 그런데 상파울루는 유명한 랜드마크보다 **사람들이 평범하게 사는 모습**이 더 인상적인 도시입니다. 6월 17일 **MBC 오늘N** '지구촌 브이로그'가 비춘 것도 화려한 관광지가 아니라, 일요일에 차를 막아 사람에게 내준 큰길과 동네 거리시장, 그리고 손에 들고 먹는 튀김 간식이었습니다. 방송에 잠깐 스친 장면들이 실제로 어떤 배경을 가진 건지 정리했습니다.

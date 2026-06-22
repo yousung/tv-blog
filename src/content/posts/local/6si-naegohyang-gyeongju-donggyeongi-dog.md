@@ -12,8 +12,10 @@ broadcastDate: "2026-06-17"
 region: "경북 경주시 건천읍"
 placeName: "한국경주개동경이보존협회"
 address: "경북 경주시 건천읍 용명공단길 138-14"
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 경주개 동경이 편 대표 이미지 (KBS 1TV 방송 표시)"
+mapLat: 35.8535205
+mapLng: 129.1048048
+image: "/images/posts/6si-naegohyang-gyeongju-donggyeongi-dog/hero.svg"
+imageAlt: "6시 내고향 경주개 동경이, 꼬리 짧은 천연기념물 토종개와 보존협회 이야기 대표 정보 카드 이미지"
 tags: ["6시 내고향", "경주개 동경이", "동경이", "경주 토종개", "천연기념물 개", "경주 가볼만한곳", "경주 건천", "방송 위치"]
 source:
   - "KBS 1TV 6시 내고향 2026년 6월 17일 방송(8559회, 고향을 부탁해 오!만보기)"

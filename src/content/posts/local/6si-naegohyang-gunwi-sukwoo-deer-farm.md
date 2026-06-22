@@ -20,8 +20,8 @@ tags: ["대구 군위 가볼만한곳", "군위 소보면", "석우사슴농장"
 source:
   - "KBS 1TV 6시 내고향 8561회(2026-06-19 방송) 효도기획 박대리 코너 방송정보"
   - "석우사슴농장 공식 홈페이지: 상호·주소·대표·연락처"
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 대구 군위 석우사슴농장 편 대표 이미지 (KBS 1TV 방송 표시)"
+image: "/images/posts/6si-naegohyang-gunwi-sukwoo-deer-farm/hero.svg"
+imageAlt: "6시 내고향 대구 군위 석우사슴농장 대표 정보 카드 이미지"
 author: "lovizu"
 ---
 

@@ -17,8 +17,8 @@ source:
   - "만디식품 스마트스토어: 발효고추장·취나물장아찌 판매 정보"
   - "연리지관광농원 블로그: 연잎 판매 및 농원 정보"
   - "이제이몰(EJ Mall): 봉채소 판매처 정보"
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 충북 진천 농특산물 편 대표 이미지 (KBS 1TV 방송 표시)"
+image: "/images/posts/6si-naegohyang-jincheon-farm-specialties/hero.svg"
+imageAlt: "6시 내고향 진천 농특산물 주문 가이드 대표 정보 카드 이미지"
 author: "lovizu"
 ---
 

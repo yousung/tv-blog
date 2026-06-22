@@ -14,8 +14,8 @@ placeName: "연풍민락"
 address: "서울 강동구 천호대로157길 18 2층"
 mapLat: 37.5385014
 mapLng: 127.1275006
-image: "/images/broadcast/sbs-today-broadcast-note.svg"
-imageAlt: "생방송 투데이 4026회 강동 천호동 연풍민락 공중부양 볶음우동 야끼소바 방송 소개"
+image: "/images/posts/saengbangsong-today-cheonho-yeonpung-millak-yakisoba/hero.svg"
+imageAlt: "천호동 연풍민락 공중부양 볶음우동(야끼소바) 대표 정보 카드 이미지"
 tags: ["천호동 맛집", "강동 맛집", "야끼소바", "볶음우동", "공중부양 야끼소바", "연풍민락", "생방송 투데이", "방송맛집"]
 source:
   - "SBS 생방송 투데이 4026회 방송정보(2026-06-09 방송분, 'UDT - 동심의 세계로, 천호동')"

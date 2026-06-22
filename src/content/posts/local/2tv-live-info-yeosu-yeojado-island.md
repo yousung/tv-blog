@@ -11,8 +11,8 @@ episode: "2026-05-28 방송분 / KBS 260528 클립 (한눈에 반했~섬)"
 broadcastDate: "2026-05-28"
 region: "전라남도 여수시 화정면 여자도"
 placeName: "여수 여자도"
-image: "/images/broadcast/kbs-2tv-broadcast-note.svg"
-imageAlt: "2TV 생생정보 여수 여자도 편 대표 이미지 (KBS 2TV 방송 표시)"
+image: "/images/posts/2tv-live-info-yeosu-yeojado-island/hero.svg"
+imageAlt: "여수 여자도 둘레길과 배편 정보 대표 정보 카드 이미지"
 tags: ["여수 여행", "여수 섬 여행", "여자도", "여자도 둘레길", "여수 가볼만한곳", "여수 배편", "2TV 생생정보", "방송 여행지"]
 source:
   - "2TV 생생정보 공식 클립(카카오TV): 한눈에 반했~섬(島), 전라남도 여수시 여자도 (KBS 260528)"

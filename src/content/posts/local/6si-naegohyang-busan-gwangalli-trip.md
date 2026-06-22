@@ -19,8 +19,8 @@ source:
   - "KBS 시청자상담실 오늘의 방송정보: 6시 내고향 8562회 광안리를 즐기는 세 가지 방법 (2026-06-22)"
   - "Visit Busan: 광안리해수욕장 관광 정보"
   - "Visit Busan: 민락수변공원 관광 정보"
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 부산 광안리 편 대표 이미지 (KBS 1TV 방송 표시)"
+image: "/images/posts/6si-naegohyang-busan-gwangalli-trip/hero.svg"
+imageAlt: "6시 내고향 부산 광안리 즐길거리 대표 정보 카드 이미지"
 author: "lovizu"
 ---
 

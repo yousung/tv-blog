@@ -14,8 +14,8 @@ placeName: "다솜차반 소서노"
 address: "충남 공주시 월송동현로 86-5"
 mapLat: 36.4684019
 mapLng: 127.1533551
-image: "/images/broadcast/sbs-today-broadcast-note.svg"
-imageAlt: "생방송 투데이 3789회 공주 다솜차반 소서노 수제 만두전골 방송 소개"
+image: "/images/posts/saengbangsong-today-gongju-dasomchaban-mandu-jeongol/hero.svg"
+imageAlt: "공주 다솜차반 소서노 수제 만두전골 대표 정보 카드 이미지"
 tags: ["공주 맛집", "공주 만두전골", "월송동 맛집", "수제 만두", "만두전골", "다솜차반 소서노", "생방송 투데이", "방송맛집"]
 source:
   - "SBS 생방송 투데이 3789회 방송정보(2025-06-13 방송분, '품격 있는 건강한 맛, 수제 만두전골')와 SBS TV맛집(matstar) 업체 정보(상호·주소·연락처·대표 메뉴)"

@@ -15,8 +15,8 @@ source:
   - "BNT뉴스 ‘오늘N’ 2026년 6월 17일 방송 소개 기사(bntnews.co.kr, bnt202606170187)"
   - "2026 충주 다이브 페스티벌 with MyK FESTA 공식 사이트(cjdive.kr, 조회일 2026-06-18)"
   - "중부매일 ‘충주 다이브 페스티벌’ 개막 안내 기사(jbnews.com, idxno=1503495, 2026-05-06)"
-image: "/images/broadcast/mbc-oneuln-broadcast-note.svg"
-imageAlt: "MBC 오늘N 방송 정리 글 안내 이미지"
+image: "/images/posts/oneuln-park-seojin-chungju-dive-festival/hero.svg"
+imageAlt: "오늘N 충주에 나타난 노란 물결, 박서진 팬클럽과 중장년 응원 문화 대표 정보 카드 이미지"
 ---
 
 축제장 한가운데가 노란색으로 물들면 대개 두 가지 중 하나입니다. 행사 주최 측이 깔아 둔 풍선이거나, 한 가수를 보러 단체로 움직인 팬들이거나. 6월 17일 **MBC 오늘N** 2739회 '화제 집중'이 던진 질문, "충주에 나타난 노란 물결의 정체는?"의 답은 후자였습니다. 방송은 충주 축제 현장에 노란 옷을 맞춰 입고 나타난 **가수 박서진 팬클럽**을 비췄습니다.

@@ -12,8 +12,10 @@ broadcastDate: "2026-06-17"
 region: "서울 송파구 방이동"
 placeName: "범포구 방이본점"
 address: "서울 송파구 올림픽로32길 19-15"
-image: "/images/broadcast/sbs-today-broadcast-note.svg"
-imageAlt: "생방송 투데이 송파 방이동 범포구 방이본점 제철 숙성회 방송 소개"
+mapLat: 37.512004
+mapLng: 127.1125125
+image: "/images/posts/saengbangsong-today-songpa-bumpogu-sukseonghoe/hero.svg"
+imageAlt: "송파 방이동 범포구 방이본점 제철 숙성회 대표 정보 카드 이미지"
 tags: ["송파 맛집", "방이동 맛집", "방이동 횟집", "숙성회 맛집", "범포구 방이본점", "생방송 투데이", "방송맛집", "잠실 회식"]
 source:
   - "위키트리: 제철 바다의 맛…17일 생방송 투데이에서 찾아간 맛집(2026-06-17, 범포구 방이본점·제철 해산물 소개)"

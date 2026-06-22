@@ -12,8 +12,10 @@ broadcastDate: "2026-06-18"
 region: "전북 순창군 동계면"
 placeName: "청정매실영농조합"
 address: "전북특별자치도 순창군 동계면 강동로 453-77"
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 순창 매실 편 대표 이미지 (KBS 1TV 방송 표시)"
+mapLat: 35.4520652
+mapLng: 127.2360894
+image: "/images/posts/6si-naegohyang-sunchang-cheongjeong-maesil/hero.svg"
+imageAlt: "6시 내고향 순창 매실, 청정매실영농조합 매실액·장아찌 주문 전 확인 대표 정보 카드 이미지"
 tags: ["6시 내고향", "순창 매실", "청정매실영농조합", "매실액", "매실장아찌", "순창 동계면", "방송맛집"]
 source:
   - "KBS 1TV 6시 내고향 2026년 6월 18일 방송분(순창 매실액·매실장아찌) 방송정보"

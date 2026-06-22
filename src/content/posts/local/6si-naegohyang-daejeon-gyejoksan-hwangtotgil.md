@@ -12,8 +12,10 @@ broadcastDate: "2026-06-17"
 region: "대전광역시 대덕구 장동"
 placeName: "계족산 황톳길"
 address: "대전광역시 대덕구 장동 산91"
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 대전 계족산 황톳길 편 대표 이미지 (KBS 1TV 방송 표시)"
+mapLat: 36.415365
+mapLng: 127.449932
+image: "/images/posts/6si-naegohyang-daejeon-gyejoksan-hwangtotgil/hero.svg"
+imageAlt: "6시 내고향 대전 계족산 황톳길, 맨발로 걷는 숲길 위치와 방문 전 확인 대표 정보 카드 이미지"
 tags: ["6시 내고향", "계족산 황톳길", "대전 여행", "대전 가볼만한곳", "맨발걷기", "대전 계족산", "황톳길 맨발", "방송 위치"]
 source:
   - "KBS 1TV 6시 내고향 2026년 6월 17일 방송(8559회, 별 볼 일 있는 여행·고향투어)"

@@ -14,8 +14,8 @@ placeName: "속초관광수산시장"
 address: "강원특별자치도 속초시 중앙로147번길 12"
 mapLat: 38.2045435
 mapLng: 128.5901443
-image: "/images/broadcast/kbs-2tv-broadcast-note.svg"
-imageAlt: "2TV 생생정보 속초관광수산시장 편 대표 이미지 (KBS 2TV 방송 표시)"
+image: "/images/posts/2tv-live-info-sokcho-tourist-fishery-market/hero.svg"
+imageAlt: "속초관광수산시장 방문 정보 대표 정보 카드 이미지"
 tags: ["속초 가볼만한곳", "속초관광수산시장", "속초 중앙시장", "속초 닭강정", "속초 먹거리", "강원 전통시장", "2TV 생생정보", "방송 시장"]
 source:
   - "2TV 생생정보 공식 클립(카카오TV): 취향 저격! 관광객을 사로잡다, 속초관광수산시장 (KBS 260520)"

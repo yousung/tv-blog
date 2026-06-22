@@ -14,8 +14,8 @@ placeName: "육가공장 2호점"
 address: "경기 부천시 원미구 부일로 439"
 mapLat: 37.4865922
 mapLng: 126.7790304
-image: "/images/broadcast/sbs-today-broadcast-note.svg"
-imageAlt: "생방송 투데이 3790회 부천 육가공장 2호점 산더미 보쌈 정식 방송 소개"
+image: "/images/posts/saengbangsong-today-bucheon-yukgagongjang-bossam/hero.svg"
+imageAlt: "부천 육가공장 2호점 산더미 보쌈정식 대표 정보 카드 이미지"
 tags: ["부천 맛집", "부천 보쌈", "원미구 맛집", "가성비 보쌈", "정육식당", "육가공장", "생방송 투데이", "방송맛집"]
 source:
   - "SBS 생방송 투데이 3790회 방송정보(2025-06-16 방송분, '산더미 보쌈 정식, 단돈 8천 원')와 SBS TV맛집(matstar) 업체 정보(상호·주소·연락처·대표 메뉴)"

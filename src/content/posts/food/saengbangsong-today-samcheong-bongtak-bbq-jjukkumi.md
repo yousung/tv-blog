@@ -12,8 +12,10 @@ broadcastDate: "2026-06-12"
 region: "서울 종로구 삼청동"
 placeName: "봉탁항아리바비큐불쭈꾸미"
 address: "서울특별시 종로구 삼청로 104-3"
-image: "/images/broadcast/sbs-today-broadcast-note.svg"
-imageAlt: "생방송 투데이 삼청동 봉탁항아리바비큐 불쭈꾸미 편 대표 이미지 (SBS 생방송 투데이 방송 표시)"
+mapLat: 37.584619
+mapLng: 126.9824071
+image: "/images/posts/saengbangsong-today-samcheong-bongtak-bbq-jjukkumi/hero.svg"
+imageAlt: "삼청동 봉탁항아리바비큐 불쭈꾸미 대표 정보 카드 이미지"
 tags: ["삼청동 맛집", "삼청동 쭈꾸미", "봉탁항아리바비큐", "불쭈꾸미", "항아리바비큐", "북촌 맛집", "생방송 투데이", "방송맛집"]
 source:
   - "위키트리: 삼청동 인정 맛집…12일 '생방송 투데이'에서 꼽은 BEST 음식 (2026-06-12 방송)"

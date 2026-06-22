@@ -14,8 +14,8 @@ placeName: "경동오징어국수"
 address: "대전광역시 동구 계족로 369"
 mapLat: 36.3447671
 mapLng: 127.4331639
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 대전 경동오징어국수 편 대표 이미지 (KBS 1TV 방송 표시)"
+image: "/images/posts/6si-naegohyang-daejeon-gyeongdong-ojingeo-guksu/hero.svg"
+imageAlt: "6시 내고향 대전 경동오징어국수, 두부오징어두루치기로 유명한 동구 노포 대표 정보 카드 이미지"
 tags: ["6시 내고향", "대전 오징어국수", "경동오징어국수", "두부오징어두루치기", "대전 동구 맛집", "대전 노포", "방송맛집"]
 source:
   - "KBS 1TV 6시 내고향 2026년 6월 17일 방송(8559회, 별 볼 일 있는 여행·고향투어) 방송정보"

@@ -12,13 +12,15 @@ broadcastDate: "2026-06-22"
 region: "강원특별자치도 동해시"
 placeName: "누리다 가자미식해"
 address: "강원특별자치도 동해시 감추5길 25-1 1층"
+mapLat: 37.5147277
+mapLng: 129.1262963
 tags: ["6시 내고향", "동해 가자미식해", "누리다 가자미식해", "서거리", "동해 반찬", "강원도 식해", "택배 주문"]
 source:
   - "KBS 시청자상담실 오늘의 방송정보: 6시 내고향 8562회 인생은 행복海 - 모자(母子)의 도전 (2026-06-22)"
   - "누리다 가자미식해 네이버 스마트스토어"
   - "스타데일리뉴스: 6시내고향, 가자미식해 한 상에 담긴 동해안의 정취"
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 강원 동해 가자미식해 편 대표 이미지 (KBS 1TV 방송 표시)"
+image: "/images/posts/6si-naegohyang-donghae-nurida-gajami-sikhae/hero.svg"
+imageAlt: "6시 내고향 동해 가자미식해 대표 정보 카드 이미지"
 author: "lovizu"
 ---
 

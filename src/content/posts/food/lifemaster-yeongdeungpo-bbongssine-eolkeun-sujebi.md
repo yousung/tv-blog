@@ -14,8 +14,8 @@ placeName: "뽕씨네 얼큰 수제비"
 address: "서울 영등포구 영중로10길 16"
 mapLat: 37.5188603
 mapLng: 126.9069602
-image: "/images/broadcast/sbs-lifemaster-broadcast-note.svg"
-imageAlt: "생활의 달인 967회 영등포 뽕씨네 얼큰 수제비 수제비 뜯기 달인 방송 소개"
+image: "/images/posts/lifemaster-yeongdeungpo-bbongssine-eolkeun-sujebi/hero.svg"
+imageAlt: "영등포 뽕씨네 얼큰 수제비 달인 대표 정보 카드 이미지"
 tags: ["영등포 맛집", "영등포 수제비", "얼큰 수제비", "수제비 달인", "생활의 달인", "영등포역 맛집", "방송맛집", "분식 노포"]
 source:
   - "SBS 생활의 달인 967회 방송정보(2025-01-27 방송분, '수제비 뜯기 달인')와 SBS TV맛집(matstar) 업체 정보(상호·주소·연락처·대표 메뉴)"

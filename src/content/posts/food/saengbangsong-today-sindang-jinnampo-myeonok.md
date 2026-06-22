@@ -14,8 +14,8 @@ placeName: "진남포면옥"
 address: "서울 중구 다산로 108"
 mapLat: 37.5534644
 mapLng: 127.010122
-image: "/images/broadcast/sbs-today-broadcast-note.svg"
-imageAlt: "생방송 투데이 4033회 신당동 진남포면옥 이북식 접시만두 막국수 방송 소개"
+image: "/images/posts/saengbangsong-today-sindang-jinnampo-myeonok/hero.svg"
+imageAlt: "신당동 진남포면옥 이북식 접시만두·막국수 대표 정보 카드 이미지"
 tags: ["신당동 맛집", "약수역 맛집", "이북식 만두", "막국수 맛집", "개성보쌈", "진남포면옥", "생방송 투데이", "방송맛집"]
 source:
   - "SBS 생방송 투데이 4033회 방송정보(2026-06-19 방송분, '인정 맛집 - 신당동 BEST 3')"

@@ -12,8 +12,10 @@ broadcastDate: "2026-06-17"
 region: "대전 서구"
 placeName: "미미제과점"
 address: "대전광역시 서구 갈마역로25번길 17-7"
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 대전 미미제과점 명란소금빵 편 대표 이미지 (KBS 1TV 방송 표시)"
+mapLat: 36.3524531
+mapLng: 127.3725964
+image: "/images/posts/6si-naegohyang-daejeon-mimi-myeongnan-saltbread/hero.svg"
+imageAlt: "6시 내고향 대전 미미제과점, 갈마동 명란소금빵 품절 전에 사는 법 대표 정보 카드 이미지"
 tags: ["6시 내고향", "대전 명란소금빵", "미미제과점", "갈마동 빵집", "대전 소금빵", "대전 서구 맛집", "방송맛집"]
 source:
   - "KBS 1TV 6시 내고향 2026년 6월 17일 방송(8559회, 별 볼 일 있는 여행·고향투어) 방송정보"

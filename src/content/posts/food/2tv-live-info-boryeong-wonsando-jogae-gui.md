@@ -14,8 +14,8 @@ placeName: "베이그릴121"
 address: "충남 보령시 오천면 원산도7길 121"
 mapLat: 36.3690607
 mapLng: 126.3974517
-image: "/images/broadcast/kbs-2tv-broadcast-note.svg"
-imageAlt: "2TV 생생정보 보령 원산도 조개구이 베이그릴121 방송 소개"
+image: "/images/posts/2tv-live-info-boryeong-wonsando-jogae-gui/hero.svg"
+imageAlt: "보령 원산도 조개구이 맛집 베이그릴121 대표 정보 카드 이미지"
 tags: ["보령 맛집", "원산도 맛집", "조개구이 맛집", "원산도 조개구이", "베이그릴121", "2TV 생생정보", "방송맛집", "오봉산해수욕장"]
 source:
   - "톱스타뉴스: '생생정보' 시흥 물왕호수 반반숯불고기쌈밥·보령 원산도 오봉산해수욕장 조개구이 맛집 위치는?(2026-04-06, 2TV생생정보 2511회 '장사의 신')"

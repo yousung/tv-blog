@@ -12,8 +12,10 @@ broadcastDate: "2026-06-15"
 region: "서울 송파구 삼전동"
 placeName: "치킨과국물닭발"
 address: "서울 송파구 백제고분로28길 20"
-image: "/images/broadcast/sbs-today-broadcast-note.svg"
-imageAlt: "생방송 투데이 4030회 송파 삼전동 치킨과국물닭발 산더미 국물닭발 방송 소개"
+mapLat: 37.5011509
+mapLng: 127.0915984
+image: "/images/posts/saengbangsong-today-samjeon-chikingwa-gukmul-dakbal/hero.svg"
+imageAlt: "삼전동 치킨과국물닭발 산더미 국물닭발 대표 정보 카드 이미지"
 tags: ["삼전동 맛집", "송파 맛집", "국물닭발", "닭발 맛집", "산더미 국물닭발", "치킨과국물닭발", "생방송 투데이", "방송맛집"]
 source:
   - "SBS 생방송 투데이 4030회 방송정보(2026-06-15 방송분, '맛의 대식가 - 산더미 국물 닭발')"

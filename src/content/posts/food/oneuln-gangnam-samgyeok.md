@@ -20,8 +20,8 @@ source:
   - "MBC 오늘N 6월 17일 방송정보 게시판(imbc.com, evening_info list_id=5468428)"
   - "삼계옥 업체 정보(Polle·AutoReserve): 주소·영업시간·메뉴 가격"
   - "OpenStreetMap Nominatim 좌표(테헤란로83길 42)"
-image: "/images/broadcast/mbc-oneuln-broadcast-note.svg"
-imageAlt: "오늘N 강남 삼계옥 바질·흑마늘 삼계탕 편 대표 이미지 (MBC 오늘N 방송 표시)"
+image: "/images/posts/oneuln-gangnam-samgyeok/hero.svg"
+imageAlt: "오늘N 강남 삼계옥 바질·흑마늘 삼계탕, 이색 보양식 위치 대표 정보 카드 이미지"
 ---
 
 삼계탕에 바질을 올린다고 하면 처음엔 갸웃하게 됩니다. 그런데 6월 17일 **MBC 오늘N** '식큐멘터리' 형형색색 삼계탕 편에 나온 강남 **삼계옥**은 바로 그 낯선 조합을 간판으로 내건 집입니다. 초록빛 바질 향이 도는 삼계탕, 30일을 숙성한 흑마늘을 넣어 국물이 검게 우러난 삼계탕까지. 익숙한 보양식을 색다르게 풀어낸 한 그릇이 줄줄이 나옵니다.

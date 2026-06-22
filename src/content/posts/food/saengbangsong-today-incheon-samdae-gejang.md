@@ -14,8 +14,8 @@ placeName: "삼대인천게장"
 address: "인천 동구 금곡로81번길 22"
 mapLat: 37.4741846
 mapLng: 126.6449027
-image: "/images/broadcast/sbs-today-broadcast-note.svg"
-imageAlt: "생방송 투데이 3782회 인천 동구 삼대인천게장 간장게장 방송 소개"
+image: "/images/posts/saengbangsong-today-incheon-samdae-gejang/hero.svg"
+imageAlt: "인천 삼대인천게장 간장게장 밥도둑 대표 정보 카드 이미지"
 tags: ["인천 맛집", "인천 간장게장", "동구 맛집", "송림동 맛집", "밥도둑", "삼대인천게장", "생방송 투데이", "방송맛집"]
 source:
   - "SBS 생방송 투데이 3782회 방송정보(2025-06-04 방송분, 간장게장 '원조 밥도둑 최강자' 소개)와 SBS TV맛집(matstar) 업체 정보(상호·주소·연락처·대표 메뉴)"

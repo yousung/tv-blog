@@ -12,8 +12,10 @@ broadcastDate: "2026-06-17"
 region: "대전 중구"
 placeName: "영춘모찌"
 address: "대전광역시 중구 중교로 40"
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 대전 영춘모찌 편 대표 이미지 (KBS 1TV 방송 표시)"
+mapLat: 36.3248833
+mapLng: 127.4206509
+image: "/images/posts/6si-naegohyang-daejeon-yeongchun-mozzi/hero.svg"
+imageAlt: "6시 내고향 대전 영춘모찌, 오전에만 파는 수제 찹쌀떡 사러 가는 법 대표 정보 카드 이미지"
 tags: ["6시 내고향", "대전 찹쌀떡", "영춘모찌", "과일모찌", "대전 중구 맛집", "대전 디저트", "방송맛집"]
 source:
   - "KBS 1TV 6시 내고향 2026년 6월 17일 방송(8559회, 별 볼 일 있는 여행·고향투어) 방송정보"
