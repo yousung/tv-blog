@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">6시 내고향 거제 어기야디어차 대표 정보 카드</title>
+  <desc id="desc">거제 어촌리조트 어기야디어차 위치와 예약 전 확인 포인트를 담은 대표 이미지</desc>
+  <rect width="1200" height="630" fill="#ecfeff"/>
+  <rect x="54" y="54" width="1092" height="522" rx="28" fill="#ffffff" stroke="#a5f3fc" stroke-width="3"/>
+  <circle cx="1010" cy="150" r="78" fill="#a5f3fc" opacity="0.9"/>
+  <circle cx="1082" cy="234" r="38" fill="#0891b2" opacity="0.22"/>
+  <rect x="80" y="100" width="250" height="46" rx="23" fill="#0891b2"/>
+  <text x="105" y="131" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">방송 지역 정보</text>
+  <text x="80" y="214" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#164e63">6시 내고향 거제</text>
+  <text x="80" y="276" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#164e63">어기야디어차 어촌리조트</text>
+  <text x="80" y="338" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#7c3aed">옥계마을 체험형 여행</text>
+  <line x1="80" y1="448" x2="520" y2="448" stroke="#0891b2" stroke-width="6" stroke-linecap="round"/>
+  <text x="80" y="502" font-family="Arial, sans-serif" font-size="26" font-weight="600" fill="#164e63">거제시 하청면 칠천로 275-21</text>
+  <text x="80" y="540" font-family="Arial, sans-serif" font-size="22" fill="#475569">KBS 6시 내고향 8566회 방송 정보 정리</text>
+</svg>
