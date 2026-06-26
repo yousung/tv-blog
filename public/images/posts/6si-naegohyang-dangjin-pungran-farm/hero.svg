@@ -1,0 +1,29 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">당진풍란농장 대표 정보 카드</title>
+  <desc id="desc">6시 내고향에 나온 당진풍란농장과 풍란 감상 포인트를 담은 이미지</desc>
+  <defs>
+    <linearGradient id="bg" x1="42" y1="38" x2="1120" y2="594" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DCFCE7" />
+      <stop offset="1" stop-color="#BFDBFE" />
+    </linearGradient>
+  </defs>
+  <rect x="20" y="20" width="1160" height="590" rx="36" fill="url(#bg)" />
+  <rect x="58" y="58" width="1084" height="514" rx="28" fill="#F8FFFB" />
+  <circle cx="955" cy="154" r="82" fill="#22C55E" fill-opacity="0.22" />
+  <circle cx="888" cy="454" r="108" fill="#60A5FA" fill-opacity="0.18" />
+  <rect x="84" y="92" width="218" height="42" rx="21" fill="#166534" />
+  <text x="193" y="119" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ECFDF5">KBS 6시 내고향</text>
+  <text x="84" y="204" font-family="Arial, sans-serif" font-size="48" font-weight="800" fill="#111827">당진 풍란농장</text>
+  <text x="84" y="264" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#166534">풍란이 왜 특별한지부터</text>
+  <text x="84" y="316" font-family="Arial, sans-serif" font-size="25" font-weight="500" fill="#374151">작은 공간에서도 오래 보는 식물</text>
+  <rect x="84" y="388" width="450" height="112" rx="24" fill="#ECFDF5" />
+  <text x="114" y="430" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#166534">방송일</text>
+  <text x="114" y="468" font-family="Arial, sans-serif" font-size="29" font-weight="800" fill="#14532D">2025년 5월 28일</text>
+  <text x="114" y="498" font-family="Arial, sans-serif" font-size="19" font-weight="500" fill="#14532D">남다른 우아함! 풍란에 빠지다</text>
+  <text x="738" y="214" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111827">방문 전 체크 포인트</text>
+  <text x="738" y="258" font-family="Arial, sans-serif" font-size="21" font-weight="500" fill="#374151">1. 구경인지 구매인지 정하기</text>
+  <text x="738" y="296" font-family="Arial, sans-serif" font-size="21" font-weight="500" fill="#374151">2. 품종과 재고 먼저 확인하기</text>
+  <text x="738" y="334" font-family="Arial, sans-serif" font-size="21" font-weight="500" fill="#374151">3. 방문 가능 시간 연락하기</text>
+  <text x="738" y="372" font-family="Arial, sans-serif" font-size="21" font-weight="500" fill="#374151">4. 집에서 둘 공간 생각하기</text>
+  <text x="84" y="546" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#6B7280">tv.lovizu.com</text>
+</svg>

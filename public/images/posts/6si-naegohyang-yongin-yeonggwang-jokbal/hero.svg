@@ -1,0 +1,29 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">용인중앙시장 영광족발 대표 정보 카드</title>
+  <desc id="desc">6시 내고향에 나온 용인중앙시장 영광족발 방문 포인트를 담은 이미지</desc>
+  <defs>
+    <linearGradient id="bg" x1="48" y1="40" x2="1126" y2="590" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDE68A" />
+      <stop offset="1" stop-color="#FECACA" />
+    </linearGradient>
+  </defs>
+  <rect x="20" y="20" width="1160" height="590" rx="36" fill="url(#bg)" />
+  <rect x="58" y="58" width="1084" height="514" rx="28" fill="#FFFDF8" />
+  <circle cx="943" cy="160" r="86" fill="#F97316" fill-opacity="0.22" />
+  <circle cx="866" cy="448" r="110" fill="#FB7185" fill-opacity="0.18" />
+  <rect x="84" y="92" width="218" height="42" rx="21" fill="#9A3412" />
+  <text x="193" y="119" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#FFF7ED">KBS 6시 내고향</text>
+  <text x="84" y="204" font-family="Arial, sans-serif" font-size="48" font-weight="800" fill="#111827">용인중앙시장 영광족발</text>
+  <text x="84" y="264" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#9A3412">시장 골목에서 족발 찾을 때</text>
+  <text x="84" y="316" font-family="Arial, sans-serif" font-size="25" font-weight="500" fill="#374151">시장 동선과 함께 보면 덜 헷갈립니다</text>
+  <rect x="84" y="388" width="468" height="112" rx="24" fill="#FFF7ED" />
+  <text x="114" y="430" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#9A3412">방송일</text>
+  <text x="114" y="468" font-family="Arial, sans-serif" font-size="29" font-weight="800" fill="#7C2D12">2025년 4월 17일</text>
+  <text x="114" y="498" font-family="Arial, sans-serif" font-size="19" font-weight="500" fill="#7C2D12">힘내라! 전통시장 용인중앙시장 편</text>
+  <text x="742" y="214" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111827">방문 전 체크 포인트</text>
+  <text x="742" y="258" font-family="Arial, sans-serif" font-size="21" font-weight="500" fill="#374151">1. 시장 구경과 함께 갈지</text>
+  <text x="742" y="296" font-family="Arial, sans-serif" font-size="21" font-weight="500" fill="#374151">2. 포장 위주인지 식사 위주인지</text>
+  <text x="742" y="334" font-family="Arial, sans-serif" font-size="21" font-weight="500" fill="#374151">3. 주차보다 대중교통이 편한지</text>
+  <text x="742" y="372" font-family="Arial, sans-serif" font-size="21" font-weight="500" fill="#374151">4. 다른 시장 메뉴와 함께 볼지</text>
+  <text x="84" y="546" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#6B7280">tv.lovizu.com</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#FFF5F2"/>
+  <rect x="44" y="44" width="1112" height="542" rx="28" fill="#FFFFFF"/>
+  <rect x="84" y="84" width="284" height="462" rx="24" fill="#F97316"/>
+  <circle cx="226" cy="214" r="82" fill="#FFE4D6"/>
+  <circle cx="190" cy="193" r="36" fill="#DC2626"/>
+  <circle cx="258" cy="193" r="36" fill="#EA580C"/>
+  <circle cx="224" cy="252" r="42" fill="#EF4444"/>
+  <path d="M225 156C235 143 250 136 265 135" stroke="#166534" stroke-width="10" stroke-linecap="round"/>
+  <path d="M222 154C207 140 191 135 176 136" stroke="#15803D" stroke-width="10" stroke-linecap="round"/>
+  <rect x="132" y="338" width="188" height="92" rx="18" fill="#FFF5F2"/>
+  <text x="226" y="376" text-anchor="middle" fill="#C2410C" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="28" font-weight="700">6시 내고향</text>
+  <text x="226" y="410" text-anchor="middle" fill="#7C2D12" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="26" font-weight="700">퇴촌 토마토축제</text>
+  <text x="430" y="176" fill="#9A3412" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="28" font-weight="700">경기도 광주 6월 축제</text>
+  <text x="430" y="256" fill="#111827" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="56" font-weight="800">일정·체험·방문 포인트</text>
+  <text x="430" y="328" fill="#374151" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="30" font-weight="500">광동삼거리부터 퇴촌한의원 구간</text>
+  <text x="430" y="374" fill="#374151" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="30" font-weight="500">가족 나들이 전 확인할 기준 정리</text>
+  <rect x="430" y="430" width="226" height="58" rx="29" fill="#FEE2E2"/>
+  <text x="543" y="468" text-anchor="middle" fill="#B91C1C" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="28" font-weight="700">2026-06-19 방송</text>
+</svg>
