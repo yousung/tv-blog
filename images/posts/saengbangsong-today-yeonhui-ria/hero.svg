@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">연희동 리아 생방송 투데이 정보 카드</title>
+  <desc id="desc">연희동 리아의 방송 정보와 위치를 정리한 카드 이미지</desc>
+  <rect width="1200" height="630" fill="#f7fbf4"/>
+  <rect x="72" y="70" width="1056" height="490" rx="28" fill="#ffffff" stroke="#b8d7a6" stroke-width="4"/>
+  <path d="M815 236c54-84 202-58 226 36 19 74-39 142-124 142-97 0-151-105-102-178z" fill="#dcefd3"/>
+  <text x="116" y="150" fill="#4f7f32" font-family="Arial, sans-serif" font-size="34" font-weight="700">SBS 생방송 투데이 4038회</text>
+  <text x="116" y="244" fill="#111827" font-family="Arial, sans-serif" font-size="72" font-weight="800">연희동 리아</text>
+  <text x="116" y="320" fill="#374151" font-family="Arial, sans-serif" font-size="34">성게알어란파스타 · 미나리파스타</text>
+  <text x="116" y="410" fill="#4b5563" font-family="Arial, sans-serif" font-size="30">서울 서대문구 연희로11라길 10-8</text>
+  <text x="116" y="486" fill="#6b7280" font-family="Arial, sans-serif" font-size="26">방문 전 예약·대표 메뉴 판매 여부 확인 권장</text>
+</svg>

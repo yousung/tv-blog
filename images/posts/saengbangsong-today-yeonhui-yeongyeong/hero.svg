@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">연경 연희점 생방송 투데이 정보 카드</title>
+  <desc id="desc">연경 연희점 북경오리의 방송 정보와 위치를 정리한 카드 이미지</desc>
+  <rect width="1200" height="630" fill="#fff6f2"/>
+  <rect x="72" y="70" width="1056" height="490" rx="28" fill="#ffffff" stroke="#e9b6a4" stroke-width="4"/>
+  <circle cx="940" cy="246" r="122" fill="#f2c8b7"/>
+  <circle cx="940" cy="246" r="78" fill="#fff6f2"/>
+  <text x="116" y="150" fill="#b54226" font-family="Arial, sans-serif" font-size="34" font-weight="700">SBS 생방송 투데이 4038회</text>
+  <text x="116" y="244" fill="#111827" font-family="Arial, sans-serif" font-size="70" font-weight="800">연경 연희점</text>
+  <text x="116" y="320" fill="#374151" font-family="Arial, sans-serif" font-size="34">연희동 BEST 3 · 북경오리 중식당</text>
+  <text x="116" y="410" fill="#4b5563" font-family="Arial, sans-serif" font-size="30">서울 서대문구 연희로 145</text>
+  <text x="116" y="486" fill="#6b7280" font-family="Arial, sans-serif" font-size="26">방문 전 예약·사전 주문 여부 확인 권장</text>
+</svg>
