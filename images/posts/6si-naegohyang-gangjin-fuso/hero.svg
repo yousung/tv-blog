@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">6시 내고향 강진 푸소 대표 정보 카드</title>
+  <desc id="desc">강진 푸소 숙박과 농가 예약 전 확인 포인트를 담은 대표 이미지</desc>
+  <rect width="1200" height="630" fill="#f0fdf4"/>
+  <rect x="54" y="54" width="1092" height="522" rx="28" fill="#ffffff" stroke="#bbf7d0" stroke-width="3"/>
+  <circle cx="1010" cy="150" r="78" fill="#bbf7d0" opacity="0.9"/>
+  <circle cx="1082" cy="234" r="38" fill="#16a34a" opacity="0.22"/>
+  <rect x="80" y="100" width="250" height="46" rx="23" fill="#15803d"/>
+  <text x="105" y="131" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">방송 지역 정보</text>
+  <text x="80" y="214" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#14532d">6시 내고향 강진 푸소</text>
+  <text x="80" y="276" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#14532d">내미농박·가우펜션·동백골 한옥</text>
+  <text x="80" y="338" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#7c3aed">예약 전 체크리스트</text>
+  <line x1="80" y1="448" x2="520" y2="448" stroke="#15803d" stroke-width="6" stroke-linecap="round"/>
+  <text x="80" y="502" font-family="Arial, sans-serif" font-size="26" font-weight="600" fill="#14532d">푸소 대표 문의 061-430-3314</text>
+  <text x="80" y="540" font-family="Arial, sans-serif" font-size="22" fill="#475569">KBS 6시 내고향 8566회 방송 정보 정리</text>
+</svg>
