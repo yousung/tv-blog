@@ -1,5 +1,5 @@
 ---
-title: "알토란 오이상추냉국 레시피｜599회 김대석 김칫국물 활용 포인트"
+title: "알토란 오이 상추 냉국"
 slug: "altoran-599-oi-sangchu-naengguk-kimdaeseok"
 description: "알토란 599회 김대석 오이상추냉국 레시피를 찾는 분들을 위해 맑은 김칫국물, 오이와 상추 손질, 새콤한 간 맞추기 포인트를 방송 기준으로 정리했습니다."
 date: "2026-06-28"
@@ -78,8 +78,8 @@ author: "lovizu"
 
 ## 같은 방송 다른 이야기
 
-- [알토란 콩나물떡국 레시피｜599회 오영실 건강 집밥 포인트](/posts/altoran-599-kongnamul-tteokguk-ohyoungsil/)
-- [알토란 열무콩가루국수 레시피｜599회 김대석 여름 국수 포인트](/posts/altoran-599-yeolmu-konggaru-guksu-kimdaeseok/)
+- [알토란 콩나물 떡국](/posts/altoran-599-kongnamul-tteokguk-ohyoungsil/)
+- [알토란 열무 콩가루 국수](/posts/altoran-599-yeolmu-konggaru-guksu-kimdaeseok/)
 
 ## 출처
 
