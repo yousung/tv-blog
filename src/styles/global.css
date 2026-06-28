@@ -149,6 +149,7 @@ h1 { margin: 0; font-size: clamp(2.3rem, 7vw, 5rem); max-width: 780px; }
   .post-card, .info-card, .article-header { padding: 1rem; }
   .card-topline, .post-card footer, .article-meta { gap: .4rem; }
   .pill { max-width: 100%; }
+  .article h1, .lead, .notice, .article-body { word-break: normal; overflow-wrap: anywhere; }
   .article-body { font-size: 1rem; }
   .article-body :global(th), .article-body :global(td) { min-width: 8rem; padding: .62rem .7rem; }
 }
