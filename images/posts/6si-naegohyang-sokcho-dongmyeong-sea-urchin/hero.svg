@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">6시 내고향 속초 동명활어센터 후광물산 성게 대표 정보 카드</title>
+  <desc id="desc">속초 동명활어센터 후광물산 성게 방문 전 확인 포인트를 정리한 방송 정보 카드</desc>
+  <rect width="1200" height="630" fill="#ecfeff"/>
+  <rect x="64" y="62" width="1072" height="506" rx="28" fill="#ffffff" stroke="#0891b2" stroke-width="4"/>
+  <path d="M760 376c64-92 186-122 286-68" fill="none" stroke="#67e8f9" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="922" cy="305" r="134" fill="#164e63"/>
+  <g stroke="#cffafe" stroke-width="8" stroke-linecap="round">
+    <path d="M922 130v350"/>
+    <path d="M747 305h350"/>
+    <path d="M798 181l248 248"/>
+    <path d="M1046 181L798 429"/>
+    <path d="M852 147l140 316"/>
+    <path d="M992 147L852 463"/>
+    <path d="M764 236l316 140"/>
+    <path d="M1080 236L764 376"/>
+  </g>
+  <circle cx="922" cy="305" r="68" fill="#f59e0b"/>
+  <text x="94" y="154" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#0e7490">KBS 1TV 6시 내고향 8567회</text>
+  <text x="94" y="230" font-family="Arial, sans-serif" font-size="50" font-weight="800" fill="#164e63">속초 성게</text>
+  <text x="94" y="292" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#155e75">동명활어센터 후광물산</text>
+  <text x="94" y="370" font-family="Arial, sans-serif" font-size="28" fill="#0e7490">영금정로 50 · 방문 전 판매 여부 확인</text>
+  <text x="94" y="430" font-family="Arial, sans-serif" font-size="24" fill="#64748b">방송일 2026.06.29 · 강원 속초시</text>
+  <text x="94" y="504" font-family="Arial, sans-serif" font-size="22" fill="#64748b">tv.lovizu.com</text>
+</svg>

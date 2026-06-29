@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tv.lovizu.com/</loc>
-    <lastmod>2026-06-28T17:45:25.004Z</lastmod>
+    <lastmod>2026-06-29T17:40:43.009Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/programs/</loc>
-    <lastmod>2026-06-28T17:45:25.004Z</lastmod>
+    <lastmod>2026-06-29T17:40:43.009Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/</loc>
-    <lastmod>2026-06-28T17:45:25.004Z</lastmod>
+    <lastmod>2026-06-29T17:40:43.009Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/food/</loc>
-    <lastmod>2026-06-28T17:45:25.004Z</lastmod>
+    <lastmod>2026-06-29T17:40:43.009Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/local/</loc>
-    <lastmod>2026-06-28T17:45:25.004Z</lastmod>
+    <lastmod>2026-06-29T17:40:43.009Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/health/</loc>
-    <lastmod>2026-06-28T17:45:25.004Z</lastmod>
+    <lastmod>2026-06-29T17:40:43.009Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/life/</loc>
-    <lastmod>2026-06-28T17:45:25.004Z</lastmod>
+    <lastmod>2026-06-29T17:40:43.009Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/privacy/</loc>
-    <lastmod>2026-06-28T17:45:25.004Z</lastmod>
+    <lastmod>2026-06-29T17:40:43.009Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-boryeong-wonsando-jogae-gui/</loc>
@@ -209,12 +209,16 @@
     <lastmod>2026-06-18T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-hampyeong-apple-watermelon/</loc>
+    <lastmod>2026-06-30T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-jecheon-jinseong-cherry/</loc>
     <lastmod>2026-06-19T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-jincheon-farm-specialties/</loc>
-    <lastmod>2026-06-23T00:00:00.000Z</lastmod>
+    <lastmod>2026-06-30T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-muan-gallaktang/</loc>
@@ -223,6 +227,10 @@
   <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-seongju-deunggyejang/</loc>
     <lastmod>2026-06-19T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-sokcho-dongmyeong-sea-urchin/</loc>
+    <lastmod>2026-06-30T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-sunchang-cheongjeong-maesil/</loc>
