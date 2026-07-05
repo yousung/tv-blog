@@ -54,4 +54,10 @@ source:
 - [제천 체리, 진성체리농원에서 국산 체리 사기 전 알아둘 점](/posts/6si-naegohyang-jecheon-jinseong-cherry/)
 - [순창 매실액·매실장아찌, 청정매실영농조합 주문 전 확인](/posts/6si-naegohyang-sunchang-cheongjeong-maesil/)
 
+## 출처
+
+- KBS 1TV 6시 내고향 2026년 6월 18일 방송정보
+- 디지털성주문화대전: 등겨장(시금장) 제조법·유래
+- 경북일보: 성주 등겨장, 국제슬로푸드협회 ‘맛의 방주’ 등재 보도
+
 최종 업데이트: 2026-06-19
