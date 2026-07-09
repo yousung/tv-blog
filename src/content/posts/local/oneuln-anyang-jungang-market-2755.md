@@ -90,6 +90,7 @@ imageAlt: "안양시 만안구청에 공개된 안양중앙시장 전경 사진"
 ## 같은 방송 다른 이야기
 
 - [오늘N 홍천 양지말화로구이 고추장 삼겹살｜2755회 위치·메뉴·방문 전 확인](/posts/oneuln-hongcheon-yangjimal-hwarogui-gochujang-samgyeopsal/)
+- [오늘N 익산 황등석산｜지하 콜로세움 전망대 위치·관람시간 확인](/posts/oneuln-iksan-hwangdeung-stone-mountain/)
 
 ## 자주 묻는 질문
 
