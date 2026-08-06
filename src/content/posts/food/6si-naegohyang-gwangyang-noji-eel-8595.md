@@ -12,11 +12,15 @@ broadcastDate: "2026-08-06"
 region: "전남 광양시 봉강면"
 placeName: "노지황토장어"
 address: "전남 광양시 봉강면 중흥로 134-32"
+mapLat: 35.01321
+mapLng: 127.59794
 tags: ["6시 내고향", "노지황토장어", "광양 민물장어", "손질 민물장어", "식재료 원정대", "방송 농산물"]
 image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
 imageAlt: "6시 내고향 8595회 광양 노지황토장어 방송 정보 대표 이미지"
 source:
   - "KBS 시청자상담실 [8월6일(목)] 방송정보, 6시 내고향 8595회"
+  - "KBS VOD 6시 내고향 8595회 (2026-08-06 방송)"
+  - "노지황토장어 공식 스마트스토어"
 author: "lovizu"
 ---
 
