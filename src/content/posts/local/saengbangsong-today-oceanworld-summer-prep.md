@@ -3,8 +3,8 @@ title: "오션월드 2026 운영시간 준비물｜생방송 투데이 TODAY 24 
 slug: "saengbangsong-today-oceanworld-summer-prep"
 description: "생방송 투데이 4035회 TODAY 24 여름을 준비하는 사람들 편에 나온 오션월드를 정리했습니다. 2026 시즌 방문 전에 볼 운영 상황, 위치, 준비물, 체크 포인트를 담았습니다."
 date: "2026-06-23"
-updatedDate: "2026-06-24"
-status: "draft"
+updatedDate: "2026-08-06"
+status: "published"
 category: "local"
 program: "생방송 투데이"
 episode: "4035회 'TODAY 24 - 여름을 준비하는 사람들 24시' (2026-06-23 방송)"
@@ -111,4 +111,4 @@ author: "lovizu"
 - 소노호텔앤리조트 오션월드 운영상황 안내
 - NOL 티켓 오션월드 이용 정보
 
-최종 업데이트: 2026-06-24
+최종 업데이트: 2026-08-06
