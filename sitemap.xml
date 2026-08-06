@@ -2,39 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tv.lovizu.com/</loc>
-    <lastmod>2026-07-02T18:18:28.859Z</lastmod>
+    <lastmod>2026-08-06T18:26:23.941Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/programs/</loc>
-    <lastmod>2026-07-02T18:18:28.859Z</lastmod>
+    <lastmod>2026-08-06T18:26:23.941Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/</loc>
-    <lastmod>2026-07-02T18:18:28.859Z</lastmod>
+    <lastmod>2026-08-06T18:26:23.941Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/food/</loc>
-    <lastmod>2026-07-02T18:18:28.859Z</lastmod>
+    <lastmod>2026-08-06T18:26:23.941Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/local/</loc>
-    <lastmod>2026-07-02T18:18:28.859Z</lastmod>
+    <lastmod>2026-08-06T18:26:23.941Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/health/</loc>
-    <lastmod>2026-07-02T18:18:28.859Z</lastmod>
+    <lastmod>2026-08-06T18:26:23.941Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/categories/life/</loc>
-    <lastmod>2026-07-02T18:18:28.859Z</lastmod>
+    <lastmod>2026-08-06T18:26:23.941Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/privacy/</loc>
-    <lastmod>2026-07-02T18:18:28.859Z</lastmod>
+    <lastmod>2026-08-06T18:26:23.941Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-anyang-gotamgalbi-2559/</loc>
     <lastmod>2026-06-30T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-bangbae-carne-brasil-grill-2564/</loc>
+    <lastmod>2026-07-08T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-boryeong-sapsido-island/</loc>
@@ -53,16 +57,44 @@
     <lastmod>2026-06-24T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-bukchon-artee-pedicab-2565/</loc>
+    <lastmod>2026-07-09T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-bukchon-jeongsegwon-walk/</loc>
     <lastmod>2026-07-02T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-buyeo-406-bus-history-trip-2568/</loc>
+    <lastmod>2026-07-14T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-cafe-sagae-dongtanbanwol-2559/</loc>
     <lastmod>2026-06-30T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-cheongdo-market-luge-course-2553/</loc>
+    <lastmod>2026-07-12T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-chueotang-busanjip-yonggeumok-2559/</loc>
     <lastmod>2026-06-30T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-daegu-48-bunsik-13cheop-bapsang-2566/</loc>
+    <lastmod>2026-07-11T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-daegu-byeogu-palgongsan-haesintang/</loc>
+    <lastmod>2026-07-13T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-daejeon-baekmagang-minmuljangeo/</loc>
+    <lastmod>2026-07-13T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-daejeon-expo-aquarium-2564/</loc>
+    <lastmod>2026-07-08T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-danyang-baengma-jeyuk/</loc>
@@ -73,8 +105,28 @@
     <lastmod>2026-06-26T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-ganghwa-jumundo-2566/</loc>
+    <lastmod>2026-07-10T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-gangseo-dawon-restaurant-deungchon-donkatsu/</loc>
+    <lastmod>2026-07-08T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-geumcheon-uiryeong-memil-2586/</loc>
+    <lastmod>2026-08-07T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-geumsan-ginseng-course-2555/</loc>
+    <lastmod>2026-07-07T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-giant-food-top3-2562/</loc>
     <lastmod>2026-07-03T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-gongju-stardew-tomato-2553/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-goseong-unification-observatory-baekseom-course/</loc>
@@ -93,6 +145,18 @@
     <lastmod>2026-06-25T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-gunsan-seonyudo-course-2565/</loc>
+    <lastmod>2026-07-09T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-haebangchon-trip/</loc>
+    <lastmod>2026-07-14T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-haman-jeil-hanwoo-gukbap-2564/</loc>
+    <lastmod>2026-07-11T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-incheon-boksaengwon-jjajangmyeon/</loc>
     <lastmod>2026-07-02T00:00:00.000Z</lastmod>
   </url>
@@ -101,12 +165,28 @@
     <lastmod>2026-06-17T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-incheon-nongwon-bulgogi-set-2585/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-incheon-sinpo-minareo-hoetjip/</loc>
     <lastmod>2026-06-19T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-jeungpyeong-jwagusan-forest-stay/</loc>
     <lastmod>2026-07-02T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-jongno-bbasak-jokbal-2565/</loc>
+    <lastmod>2026-07-09T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-mountain-unicycle-leopard-muni-2585/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-namwon-gwanghallu-garden-2548/</loc>
+    <lastmod>2026-07-07T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-namwon-inwol-chueotang/</loc>
@@ -127,6 +207,14 @@
   <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-sangam-jungdam-fruit-cupfruit/</loc>
     <lastmod>2026-07-01T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-seongnam-dandae-market-2585/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-seongnam-manwol-jungsik-buffet-2564/</loc>
+    <lastmod>2026-07-08T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-seongsu-onsil-ibul-pasta/</loc>
@@ -157,12 +245,28 @@
     <lastmod>2026-06-19T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-suwon-daddy-childcare-kickboxing-2585/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-tongyeong-541-bus-sea-trip/</loc>
     <lastmod>2026-07-03T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-tongyeong-chudo-mulmegi-2564/</loc>
+    <lastmod>2026-07-11T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-tteok-matjip-top3-2558/</loc>
     <lastmod>2026-06-26T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-tteokgalbi-damyang-gwangju-2565/</loc>
+    <lastmod>2026-07-12T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-uijeongbu-jeil-market-2549/</loc>
+    <lastmod>2026-07-07T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-uljin-jukbyeon-yujeong-gomchiguk/</loc>
@@ -177,8 +281,20 @@
     <lastmod>2026-06-18T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-yangju-retro-valley-trip-2585/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-yeongdeok-bus-sea-trip-2586/</loc>
+    <lastmod>2026-08-07T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-yeongdong-cypress-healing-forest/</loc>
     <lastmod>2026-06-17T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/2tv-live-info-yeonnam-iceartcafe-2564/</loc>
+    <lastmod>2026-07-08T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/2tv-live-info-yeosu-yeojado-island/</loc>
@@ -189,6 +305,18 @@
     <lastmod>2026-06-25T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-boryeong-crab-gejang-8574/</loc>
+    <lastmod>2026-07-11T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-boryeong-mud-festival-trip-8594/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-boseong-juwolsan-yeolseonru-8573/</loc>
+    <lastmod>2026-07-11T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-busan-ami-biseok-village/</loc>
     <lastmod>2026-06-24T00:00:00.000Z</lastmod>
   </url>
@@ -197,8 +325,16 @@
     <lastmod>2026-06-23T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-cheongju-gamasot-chueotang/</loc>
+    <lastmod>2026-07-07T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-cheongyang-gochubbang/</loc>
     <lastmod>2026-06-27T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-cheorwon-direct-market-8572/</loc>
+    <lastmod>2026-07-14T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-daejeon-bbang-bus-tour/</loc>
@@ -249,8 +385,32 @@
     <lastmod>2026-06-27T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-gapyeong-firefly-village/</loc>
+    <lastmod>2026-07-07T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-geoje-eogiyadieocha/</loc>
     <lastmod>2026-06-27T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-gimje-jongeoyeon-jongeo-8594/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-gochang-thepoongcheon-eel/</loc>
+    <lastmod>2026-07-07T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-goesan-sanmak-sejamae/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-goseong-wolpyeongri-corn/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-gunsan-okdol-pension-seonyudo/</loc>
+    <lastmod>2026-07-07T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-gunwi-sukwoo-deer-farm/</loc>
@@ -261,8 +421,16 @@
     <lastmod>2026-06-20T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-gwangyang-noji-eel-8595/</loc>
+    <lastmod>2026-08-07T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-gyeongju-donggyeongi-dog/</loc>
     <lastmod>2026-06-18T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-hadong-tropical-jungle-farm-mango-banana-8565/</loc>
+    <lastmod>2026-07-12T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-haman-gangju-sunflower-festival/</loc>
@@ -273,12 +441,32 @@
     <lastmod>2026-06-30T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-hapcheon-yerang-strawberry-8595/</loc>
+    <lastmod>2026-08-07T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-imsil-chives-daseulgi-jeongol/</loc>
     <lastmod>2026-07-03T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-jecheon-jinseong-cherry/</loc>
     <lastmod>2026-06-19T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-jeju-gujwa-momejon-gingi/</loc>
+    <lastmod>2026-07-08T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-jeju-jocheon-green-tangerine-8594/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-jeongeup-oatrice-8575/</loc>
+    <lastmod>2026-07-11T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-jeonju-dokkaebi-dawn-market/</loc>
+    <lastmod>2026-07-04T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-jincheon-farm-specialties/</loc>
@@ -293,8 +481,20 @@
     <lastmod>2026-07-03T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-paju-gangbyeol-myeonok-cold-noodle/</loc>
+    <lastmod>2026-07-04T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-pyeongchang-daemi-dureup-8595/</loc>
+    <lastmod>2026-08-07T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-seongju-deunggyejang/</loc>
     <lastmod>2026-06-19T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-siheung-summer-ingredients-lotus-goya/</loc>
+    <lastmod>2026-07-10T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-sokcho-dongmyeong-sea-urchin/</loc>
@@ -305,8 +505,16 @@
     <lastmod>2026-06-19T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-uijeongbu-solmoejip-duck/</loc>
+    <lastmod>2026-07-11T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-wando-loquat/</loc>
     <lastmod>2026-06-24T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/6si-naegohyang-wanju-sangol-sanjang-valley/</loc>
+    <lastmod>2026-07-04T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/6si-naegohyang-yeongju-geumseonjeong-valley/</loc>
@@ -341,6 +549,38 @@
     <lastmod>2026-06-29T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/altoran-600-bokryeongcha-sleep-tension/</loc>
+    <lastmod>2026-07-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/altoran-600-dubu-galbijjim-yuhyunsu/</loc>
+    <lastmod>2026-07-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/altoran-600-gamja-jorim-chamgireum-guksu-kimseunghyun/</loc>
+    <lastmod>2026-07-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/altoran-601-haedok-sotbap-jowoojong/</loc>
+    <lastmod>2026-07-13T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/altoran-601-yeoreum-dongchimi-yujeongim/</loc>
+    <lastmod>2026-07-13T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/altoran-604-broccoli-apple-juice-parkhoyoung/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/altoran-604-cabbage-pine-nut-noodles-leeyeonju/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/altoran-604-kimchi-jjigae-oi-muchim-leekyungjin/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/korean-table-boryeong-sea-bass-mulhoe/</loc>
     <lastmod>2026-07-03T00:00:00.000Z</lastmod>
   </url>
@@ -355,6 +595,10 @@
   <url>
     <loc>https://tv.lovizu.com/posts/korean-table-gongju-magoksa-kimchi/</loc>
     <lastmod>2026-06-19T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/korean-table-goseong-georyu-ganjami/</loc>
+    <lastmod>2026-07-10T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/korean-table-goseong-octopus-dmz/</loc>
@@ -381,12 +625,40 @@
     <lastmod>2026-07-03T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/korean-table-wonju-sillim-dotori-mukbap/</loc>
+    <lastmod>2026-07-10T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/korean-table-yeongwol-gonggiri-gamja-ongsimi/</loc>
+    <lastmod>2026-07-10T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/lifemaster-bonghwa-baekdudaegan-arboretum/</loc>
+    <lastmod>2026-07-14T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/lifemaster-bucheon-arisan-tangsuyuk-ganjjajang/</loc>
+    <lastmod>2026-07-14T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/lifemaster-busan-milmyeon-dalimjae/</loc>
+    <lastmod>2026-07-07T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/lifemaster-changdong-gyeori-kaisendon/</loc>
     <lastmod>2026-06-21T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/lifemaster-cheesecake-war-1042/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/lifemaster-dictionary-bible-index-binding/</loc>
     <lastmod>2026-06-24T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/lifemaster-gangneung-donghwagarden-ansongja/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/lifemaster-gumi-playground-cleaning/</loc>
@@ -395,6 +667,10 @@
   <url>
     <loc>https://tv.lovizu.com/posts/lifemaster-gurye-bongseong-pizza-cheese/</loc>
     <lastmod>2026-06-24T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/lifemaster-incheon-kimchi-bossam-truck-uncle/</loc>
+    <lastmod>2026-07-07T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/lifemaster-jeju-dolphin-watching/</loc>
@@ -425,6 +701,14 @@
     <lastmod>2026-06-24T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/lifemaster-seoul-kongguksu-top3-1042/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/lifemaster-tangled-necklace-choi-duhwan/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/lifemaster-yangyang-jangsanri-makguksu/</loc>
     <lastmod>2026-06-30T00:00:00.000Z</lastmod>
   </url>
@@ -439,6 +723,10 @@
   <url>
     <loc>https://tv.lovizu.com/posts/oneuln-andong-sieun-chodang/</loc>
     <lastmod>2026-07-02T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/oneuln-anyang-jungang-market-2755/</loc>
+    <lastmod>2026-07-10T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/oneuln-brazil-sao-paulo-jiguchon-vlog/</loc>
@@ -457,6 +745,10 @@
     <lastmod>2026-07-01T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/oneuln-dongducheon-blueberry-camping/</loc>
+    <lastmod>2026-07-14T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/oneuln-dongducheon-old-house-remodeling/</loc>
     <lastmod>2026-06-19T00:00:00.000Z</lastmod>
   </url>
@@ -469,12 +761,20 @@
     <lastmod>2026-06-18T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/oneuln-gangneung-woorijibmatchan-banchan/</loc>
+    <lastmod>2026-07-08T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/oneuln-gapyeong-bonapjeong-hanok-cafe/</loc>
     <lastmod>2026-06-17T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/oneuln-geumsan-country-hideout-remodeling/</loc>
     <lastmod>2026-06-24T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/oneuln-gijang-yonggung-samgye-jjamppong/</loc>
+    <lastmod>2026-07-14T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/oneuln-gimje-sara-hair-salon/</loc>
@@ -485,12 +785,32 @@
     <lastmod>2026-06-25T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/oneuln-gongju-yeongune-nongjang-camping/</loc>
+    <lastmod>2026-07-08T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/oneuln-gwangju-solbanchan-banchan/</loc>
+    <lastmod>2026-07-14T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/oneuln-gyeongju-vasilla-hanok-garden/</loc>
+    <lastmod>2026-07-14T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/oneuln-hongcheon-bangatgan-makguksu/</loc>
     <lastmod>2026-07-02T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/oneuln-hongcheon-rustic-life-cafe/</loc>
     <lastmod>2026-06-30T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/oneuln-hongcheon-yangjimal-hwarogui-gochujang-samgyeopsal/</loc>
+    <lastmod>2026-07-10T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/oneuln-iksan-hwangdeung-stone-mountain/</loc>
+    <lastmod>2026-07-10T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/oneuln-incheon-bupyeong-jonghap-market/</loc>
@@ -521,12 +841,24 @@
     <lastmod>2026-07-03T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/oneuln-pyeongchang-yujeongsikdang-sanche-jeongsik/</loc>
+    <lastmod>2026-07-07T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/oneuln-seokyong-jihwa-paper-flower/</loc>
     <lastmod>2026-06-17T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/oneuln-taebaek-guwau-sunflower-festival-2772/</loc>
+    <lastmod>2026-08-07T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/oneuln-uijeongbu-pyeongyang-chaekye-tang-makguksu/</loc>
     <lastmod>2026-06-24T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/oneuln-ulsan-jangsaengpo-hydrangea-garden/</loc>
+    <lastmod>2026-07-08T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/oneuln-wando-cheonghaepogu-abalone/</loc>
@@ -541,12 +873,24 @@
     <lastmod>2026-07-01T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/oneuln-yongin-ichangno-nokdu-samgyetang/</loc>
+    <lastmod>2026-07-09T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-4046-hepatitis-b-liver-cirrhosis-cancer/</loc>
+    <lastmod>2026-07-09T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-bongcheon-gamagui-jjimdak-sotbap/</loc>
     <lastmod>2026-06-22T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-buan-chaeseokgang-seafood-mulhoe/</loc>
     <lastmod>2026-06-22T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-bucheon-wangchairu-dosakmyeon/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-bucheon-yukgagongjang-bossam/</loc>
@@ -559,6 +903,18 @@
   <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-cheonho-yeonpung-millak-yakisoba/</loc>
     <lastmod>2026-06-20T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-chuncheon-keungil-nakji-4037/</loc>
+    <lastmod>2026-07-12T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-chungmuro-honam-mulgalbi/</loc>
+    <lastmod>2026-07-07T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-euljiro-balhae-gamjatang/</loc>
+    <lastmod>2026-07-10T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-eunpyeong-bultina-imonejeon/</loc>
@@ -577,8 +933,20 @@
     <lastmod>2026-06-18T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-haenggungdong-jjama-dolpan-jjajang/</loc>
+    <lastmod>2026-07-08T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-haenggungdong-mongsanggaok/</loc>
+    <lastmod>2026-07-08T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-hampyeong-hwarang-yukhoe-bibimbap/</loc>
     <lastmod>2026-06-21T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-hoegi-sambok-dakhanmari-4036/</loc>
+    <lastmod>2026-07-12T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-hwaseong-onyudam-dubu/</loc>
@@ -597,6 +965,18 @@
     <lastmod>2026-06-20T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-incheon-tamlasiktak-dongam/</loc>
+    <lastmod>2026-07-07T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-itaewon-bada-johnson-tang/</loc>
+    <lastmod>2026-07-07T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-itaewon-motorcity-detroit-pizza/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-jegidong-jongno-sonkalguksu/</loc>
     <lastmod>2026-06-20T00:00:00.000Z</lastmod>
   </url>
@@ -613,6 +993,10 @@
     <lastmod>2026-06-19T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-mangwon-noodle-best3/</loc>
+    <lastmod>2026-07-04T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-mukho-hotplace-course/</loc>
     <lastmod>2026-06-30T00:00:00.000Z</lastmod>
   </url>
@@ -623,6 +1007,10 @@
   <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-mullae-bingsoop-mango-bingsu/</loc>
     <lastmod>2026-06-17T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-naju-songhyeon-bulgogi/</loc>
+    <lastmod>2026-07-07T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-paju-manrieaso-hitsumabushi/</loc>
@@ -645,6 +1033,10 @@
     <lastmod>2026-06-20T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-seongsu-cinderella-shoe-cocktail/</loc>
+    <lastmod>2026-07-04T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-sindang-jinnampo-myeonok/</loc>
     <lastmod>2026-06-20T00:00:00.000Z</lastmod>
   </url>
@@ -659,6 +1051,10 @@
   <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-trend-24-doodleworkroom-justin/</loc>
     <lastmod>2026-07-01T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-ulju-yethanwoo-ganwoljae/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-ulsan-bingsu-kongguksu/</loc>
@@ -679,6 +1075,10 @@
   <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-yeonhui-yeongyeong/</loc>
     <lastmod>2026-06-27T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/saengbangsong-today-yeonnam-gwanggye-samgyebaekban/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://tv.lovizu.com/posts/saengbangsong-today-yeouido-8beon-daemuljip-bollak/</loc>
@@ -711,5 +1111,13 @@
   <url>
     <loc>https://tv.lovizu.com/posts/secret-of-life-one-leg-balance-test/</loc>
     <lastmod>2026-04-29T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/secret-of-life-severe-diabetes-blood-sugar-management/</loc>
+    <lastmod>2026-07-09T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tv.lovizu.com/posts/secret-of-life-summer-skin-aging-sunscreen/</loc>
+    <lastmod>2026-08-06T00:00:00.000Z</lastmod>
   </url>
 </urlset>
