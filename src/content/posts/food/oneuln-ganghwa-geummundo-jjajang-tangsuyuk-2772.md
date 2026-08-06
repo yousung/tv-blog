@@ -4,7 +4,7 @@ slug: "oneuln-ganghwa-geummundo-jjajang-tangsuyuk-2772"
 description: "MBC 오늘N 2772회 격파! 중식로드에 나온 강화 금문도 정보를 정리했습니다. 속노랑간짜장, 강화 순무 탕수육, 주소와 예약 전 확인할 점을 담았습니다."
 date: "2026-08-06"
 updatedDate: "2026-08-07"
-status: "published"
+status: "draft"
 category: "food"
 program: "오늘N"
 episode: "2772회 (2026-08-06 방송, 격파! 중식로드)"
@@ -12,6 +12,8 @@ broadcastDate: "2026-08-06"
 region: "인천 강화군 길상면"
 placeName: "금문도"
 address: "인천 강화군 길상면 강화동로 187"
+mapLng: 126.4928106
+mapLat: 37.6560498
 mapAddress: "인천 강화군 길상면 강화동로 187"
 mapPlaceName: "금문도"
 tags: ["오늘N", "강화 금문도", "강화도 중식당", "속노랑간짜장", "강화 순무 탕수육", "격파 중식로드", "방송맛집"]
