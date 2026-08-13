@@ -3,7 +3,7 @@ title: "6시 내고향 포항 어미가｜8601회 물회·해신탕 방송 맛�
 slug: "6si-naegohyang-pohang-eomiga-mulhoe-haesintang-8601"
 description: "6시 내고향 8601회 K-맛있을지도 포항 편에 나온 어미가 물회·해신탕 위치, 영업시간, 방문 전 확인할 점을 정리했습니다."
 date: "2026-08-14"
-updatedDate: "2026-08-15"
+updatedDate: "2026-08-14"
 status: "published"
 category: "food"
 program: "6시 내고향"
@@ -66,8 +66,8 @@ KBS 방송정보와 테이블링 정보는 전화번호와 주소가 일치합�
 
 ## 같은 방송 다른 이야기
 
-- [6시 내고향 단양 한드미마을｜8601회 전국 마을 자랑 위치와 체험 정보](/posts/6si-naegohyang-danyang-handemi-village-8601/)
-- [6시 내고향 서울빙고·대원냉동산업사｜8601회 얼음 가게와 얼음 공장 위치](/posts/6si-naegohyang-seoul-bingo-daewon-ice-8601/)
+- [6시 내고향 단양 한드미마을·소백산벌꿀농장｜8601회 오미자·꿀 문의](/posts/6si-naegohyang-danyang-handemi-honey-8601/)
+- [6시 내고향 서울빙고·대원냉동산업사｜8601회 얼음 가게와 공장 정보](/posts/6si-naegohyang-seoul-ice-shop-bingo-8601/)
 
 ## FAQ
 
@@ -86,4 +86,4 @@ KBS 방송정보 기준 물회와 해신탕 문의처로 어미가가 안내됐�
 - [테이블링 어미가 매장 정보](https://www.tabling.co.kr/place/677cc88866de5f06987713b5)
 - [포항MBC 동네의 발견 어미가 해우탕 촬영처 정보](https://www.phmbc.co.kr/www/television/end_program/village?idx=159564&mode=view&page=5)
 
-최종 업데이트: 2026-08-15 · 작성 관점: 방송을 보고 포항 어미가 물회·해신탕 위치를 찾는 독자가 영업시간, 예약, 재료 준비 여부를 먼저 확인하도록 정리했습니다.
+최종 업데이트: 2026-08-14 · 작성 관점: 방송을 보고 포항 어미가 물회·해신탕 위치를 찾는 독자가 영업시간, 예약, 재료 준비 여부를 먼저 확인하도록 정리했습니다.
