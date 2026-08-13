@@ -12,11 +12,17 @@ broadcastDate: "2026-08-13"
 region: "인천광역시 제물포구 화평동"
 placeName: "화평동세숫대야냉면거리"
 address: "인천광역시 제물포구 화평로 일대"
+mapAddress: "인천광역시 제물포구 화평로 24-2"
+mapPlaceName: "화평동세숫대야냉면거리"
+mapLat: 37.4784213
+mapLng: 126.6295589
 tags: ["2TV 생생정보", "화평동세숫대야냉면거리", "인천 냉면거리", "화평동 냉면", "제물포구 맛집", "방송 여행지"]
 image: "/images/broadcast/kbs-2tv-broadcast-note.svg"
 imageAlt: "2TV 생생정보 2591회 인천 화평동세숫대야냉면거리 방송 정보 대표 이미지"
 source:
   - "KBS 시청자상담실 [8월13일(목)] 방송정보, 2TV 생생정보 2591회"
+  - "네이버 지도, 화평동세숫대야냉면거리 주소 검색"
+  - "OpenStreetMap Nominatim, 인천 제물포구 화평로 24-2 좌표 조회"
 author: "lovizu"
 ---
 
@@ -70,5 +76,6 @@ KBS 방송정보에 공개된 대표 주소는 화평로 일대입니다. 처음
 ## 출처
 
 - [KBS 시청자상담실 2026년 8월 13일 방송정보](https://iaudience.kbs.co.kr/broadcast/11347)
+- [네이버 지도 화평동세숫대야냉면거리 검색](https://map.naver.com/p/search/%EC%9D%B8%EC%B2%9C%20%EC%A0%9C%EB%AC%BC%ED%8F%AC%EA%B5%AC%20%ED%99%94%ED%8F%89%EB%A1%9C%2024-2%20%ED%99%94%ED%8F%89%EB%8F%99%EC%84%B8%EC%88%AB%EB%8C%80%EC%95%BC%EB%83%89%EB%A9%B4%EA%B1%B0%EB%A6%AC)
 
 최종 업데이트: 2026-08-14 · 작성 관점: 방송을 보고 인천 화평동 냉면거리를 찾는 독자가 한 식당만 고집하기보다 거리 동선과 대기 상황을 함께 판단할 수 있게 정리했습니다.

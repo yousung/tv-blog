@@ -12,11 +12,17 @@ broadcastDate: "2026-08-13"
 region: "서울 용산구·종로구·서대문구"
 placeName: "백범김구기념관·경교장·홍제폭포 복합문화센터·독립문 영천시장"
 address: "서울 용산구 임정로 26 외"
+mapAddress: "서울 용산구 임정로 26"
+mapPlaceName: "백범김구기념관"
+mapLat: 37.5440616
+mapLng: 126.9592148
 tags: ["2TV 생생정보", "백범 김구", "서울 역사 여행", "광복절 여행", "백범김구기념관", "경교장", "영천시장"]
 image: "/images/broadcast/kbs-2tv-broadcast-note.svg"
 imageAlt: "2TV 생생정보 2591회 백범 김구 서울 역사 여행 방송 정보 대표 이미지"
 source:
   - "KBS 시청자상담실 [8월13일(목)] 방송정보, 2TV 생생정보 2591회"
+  - "백범김구기념관 공식 홈페이지, 주소·관람 안내"
+  - "OpenStreetMap Nominatim, 서울 용산구 임정로 26 좌표 조회"
 author: "lovizu"
 ---
 
@@ -70,5 +76,6 @@ author: "lovizu"
 ## 출처
 
 - [KBS 시청자상담실 2026년 8월 13일 방송정보](https://iaudience.kbs.co.kr/broadcast/11347)
+- [백범김구기념관 공식 홈페이지](https://kimkoomuseum.org/main/)
 
 최종 업데이트: 2026-08-14 · 작성 관점: 광복절 전후 서울 역사 여행을 계획하는 독자가 백범 김구 관련 장소와 시장 동선을 하루 코스로 판단할 수 있게 정리했습니다.

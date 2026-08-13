@@ -12,11 +12,17 @@ broadcastDate: "2026-08-13"
 region: "부산광역시 중구 광복동"
 placeName: "플러스고기"
 address: "부산광역시 중구 광복중앙로 21 2층"
+mapAddress: "부산광역시 중구 광복중앙로 21 2층"
+mapPlaceName: "플러스고기"
+mapLat: 35.1009844
+mapLng: 129.0310242
 tags: ["2TV 생생정보", "플러스고기", "부산 중구 무한리필", "광복동 고기집", "가격파괴 Why", "방송맛집"]
 image: "/images/broadcast/kbs-2tv-broadcast-note.svg"
 imageAlt: "2TV 생생정보 2591회 부산 플러스고기 방송 정보 대표 이미지"
 source:
   - "KBS 시청자상담실 [8월13일(목)] 방송정보, 2TV 생생정보 2591회"
+  - "네이버 지도, 플러스고기 주소 검색"
+  - "OpenStreetMap Nominatim, 부산 중구 광복중앙로 21 좌표 조회"
 author: "lovizu"
 ---
 
@@ -74,5 +80,6 @@ KBS 방송정보 기준 돼지고기 6종, 우삼겹, 닭갈비, 셀프바 무�
 ## 출처
 
 - [KBS 시청자상담실 2026년 8월 13일 방송정보](https://iaudience.kbs.co.kr/broadcast/11347)
+- [네이버 지도 플러스고기 검색](https://map.naver.com/p/search/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EA%B4%91%EB%B3%B5%EC%A4%91%EC%95%99%EB%A1%9C%2021%202%EC%B8%B5%20%ED%94%8C%EB%9F%AC%EC%8A%A4%EA%B3%A0%EA%B8%B0)
 
 최종 업데이트: 2026-08-14 · 작성 관점: 방송을 보고 부산 광복동 플러스고기를 찾는 독자가 가격보다 이용 방식과 방문 시간을 먼저 확인할 수 있게 정리했습니다.
