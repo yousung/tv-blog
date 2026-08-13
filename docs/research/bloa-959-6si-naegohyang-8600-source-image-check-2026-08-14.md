@@ -28,8 +28,10 @@
 
 4. 청산에 살리라, 이 남자가 사는 법 - 충북 영동
    - 복숭아 구매 문의: 010-5269-9147
-   - 주소 미공개
-   - 발행 판단: 독립 글 발행 보류. 농가명, 주소, 이미지, 택배 조건 추가 확인 필요.
+   - 1차 확인 시 주소 미공개
+   - BLOA-962 Researcher 결과: KBS 공개 문의전화가 박가네농장 공식 사이트 상담문의 번호와 일치. 공식 주소는 충북 영동군 상촌면 상촌로 768.
+   - 좌표: 비즈노 약도 HTML의 NaverMap center 36.1052485929643, 127.922962334851
+   - 발행 판단: 영동 박가네농장 복숭아 상세 글 published 가능.
 
 ## 이미지 확인
 
@@ -48,11 +50,23 @@
   - `/images/posts/6si-naegohyang-sunchang-dokkaebi-catfish-millkit-8600/products.webp`
   - `/images/posts/6si-naegohyang-sunchang-dokkaebi-catfish-millkit-8600/sign.webp`
 
+## 영동 박가네농장 이미지 확인
+
+- 이미지 후보:
+  - 박가네농장 공식 홈페이지 과일 배너 `visual_01.jpg`: 사람 없음, 농장 공식 채널 이미지. 복숭아 단독 컷은 아니지만 농장 공식 홈페이지 대표 이미지로 사용 가능.
+  - 박가네농장 공식 홈페이지 농지 배너 `visual_02.jpg`: 포도밭 이미지로 보여 영동 복숭아 글 대표 이미지로는 오인 가능성이 있어 제외.
+  - 비즈노 약도·Daum Roadview `left_1200.jpg`: 사람 없음, 과수원 주변 컷. 위치 보조 이미지로 사용 가능.
+  - 비즈노 약도·Daum Roadview `front_1200.jpg`, `right_1200.jpg`: 도로/건물 중심이라 본문 사용 제외.
+- 변환:
+  - `/images/posts/6si-naegohyang-yeongdong-parkfarm-peach-8600/hero.webp`
+  - `/images/posts/6si-naegohyang-yeongdong-parkfarm-peach-8600/orchard-roadview.webp`
+
 ## 중복 확인
 
 - 초기 작업 시 저장소 `src/content/posts`, `public`에서 `도깨비농수산`, `도깨비농장`, `순창 메기`, `향어`, `8600회`, `2026-08-13` 검색.
 - 작업 중 원격 master 선행 커밋에서 같은 주제의 `6si-naegohyang-sunchang-dokkaebi-catfish-millkit-8600` 글이 추가된 것을 확인.
 - 중복 발행을 피하기 위해 새 slug 글은 제거하고 기존 slug 글을 이미지·좌표·교차 출처 중심으로 보강.
+- 영동 박가네농장 관련 기존 글은 저장소 검색에서 확인되지 않아 신규 글로 추가.
 - 인접 회차 8599회(2026-08-12) 동해 경동식당, 울진 여행 글은 이미 master에 존재.
 
 ## 메모리 recall
