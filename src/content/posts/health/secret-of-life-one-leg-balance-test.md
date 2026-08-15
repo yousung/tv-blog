@@ -3,7 +3,7 @@ title: "한 발로 10초 서기, 수명 신호일까｜생로병사의 비밀 �
 slug: "secret-of-life-one-leg-balance-test"
 description: "KBS 생로병사의 비밀 ‘한 발로 서면 수명이 보인다’ 편을 바탕으로 한 발 서기 균형 테스트, 낙상 예방, 중장년 근력 관리 포인트를 정리했습니다."
 date: "2026-04-29"
-status: "published"
+status: "draft"
 category: "health"
 program: "생로병사의 비밀"
 episode: "E991"

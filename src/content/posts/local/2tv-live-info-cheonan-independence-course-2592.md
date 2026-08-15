@@ -3,8 +3,8 @@ title: "2TV 생생정보 천안 독립기념관 코스｜2592회 병천순대·�
 slug: "2tv-live-info-cheonan-independence-course-2592"
 description: "2TV 생생정보 2592회 천안 역사 여행에 나온 독립기념관, 아우내독립만세기념공원, 충남집 순대, 병천순대빵 정보를 정리했습니다."
 date: "2026-08-14"
-updatedDate: "2026-08-14"
-status: "published"
+updatedDate: "2026-08-15"
+status: "draft"
 category: "local"
 program: "2TV 생생정보"
 episode: "2592회 (2026-08-14 방송, 천안 역사 여행 코스)"
@@ -77,4 +77,4 @@ author: "lovizu"
 - [KBS 시청자상담실 2026년 8월 14일 방송정보](https://iaudience.kbs.co.kr/broadcast/11348)
 - [다이닝코드 병천순대빵 매장 정보](https://www.diningcode.com/profile.php?rid=ZiAwzoWGMfYo)
 
-최종 업데이트: 2026-08-14 · 작성 관점: 방송을 보고 천안 역사 여행과 병천 먹거리 동선을 찾는 독자가 하루 코스를 무리 없이 줄여 잡을 수 있게 정리했습니다.
+최종 업데이트: 2026-08-15 · 작성 관점: 방송을 보고 천안 역사 여행과 병천 먹거리 동선을 찾는 독자가 하루 코스를 무리 없이 줄여 잡을 수 있게 정리했습니다.

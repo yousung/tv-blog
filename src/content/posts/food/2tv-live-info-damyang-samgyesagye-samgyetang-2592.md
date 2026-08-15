@@ -3,8 +3,8 @@ title: "2TV 생생정보 담양 삼계사계｜2592회 삼계탕 위치와 영�
 slug: "2tv-live-info-damyang-samgyesagye-samgyetang-2592"
 description: "2TV 생생정보 2592회에 나온 담양 삼계사계 삼계탕 위치, 전화, 영업시간, 방문 전 확인할 점을 정리했습니다."
 date: "2026-08-14"
-updatedDate: "2026-08-14"
-status: "published"
+updatedDate: "2026-08-15"
+status: "draft"
 category: "food"
 program: "2TV 생생정보"
 episode: "2592회 (2026-08-14 방송, 담양 삼계사계)"
@@ -77,4 +77,4 @@ KBS 방송정보 기준 11:00~18:00, 월요일 정기 휴무로 안내됐습니�
 - [KBS 시청자상담실 2026년 8월 14일 방송정보](https://iaudience.kbs.co.kr/broadcast/11348)
 - [다이닝코드 삼계사계 매장 정보](https://www.diningcode.com/profile.php?rid=4YCUV5ydzrxw)
 
-최종 업데이트: 2026-08-14 · 작성 관점: 방송을 보고 담양 삼계사계를 찾는 독자가 영업시간, 휴무, 메뉴 확인을 먼저 할 수 있게 정리했습니다.
+최종 업데이트: 2026-08-15 · 작성 관점: 방송을 보고 담양 삼계사계를 찾는 독자가 영업시간, 휴무, 메뉴 확인을 먼저 할 수 있게 정리했습니다.

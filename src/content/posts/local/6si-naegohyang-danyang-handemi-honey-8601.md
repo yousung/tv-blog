@@ -3,8 +3,8 @@ title: "6시 내고향 단양 한드미마을·소백산벌꿀농장｜8601회 �
 slug: "6si-naegohyang-danyang-handemi-honey-8601"
 description: "6시 내고향 8601회 단양 한드미마을과 소백산벌꿀농장 오미자, 포포열매, 꿀 문의 정보를 정리했습니다."
 date: "2026-08-14"
-updatedDate: "2026-08-14"
-status: "published"
+updatedDate: "2026-08-15"
+status: "draft"
 category: "local"
 program: "6시 내고향"
 episode: "8601회 (2026-08-14 방송, 충북 단양 한드미마을·소백산벌꿀농장)"
@@ -87,4 +87,4 @@ KBS 방송정보 기준 오미자, 포포열매, 꿀 문의처로 안내됐습�
 - [웰촌 한드미마을 기본정보](https://www.welchon.com/web/biztownDtlView.do?biztown_seq=134&cont_seq=10&menuIdx=575)
 - [충북나드리 한드미마을 관광명소 정보](https://tour.cb21.net/www/selectTourCntnts.do?key=60&searchMainSe=ATTR&tourNo=2614)
 
-최종 업데이트: 2026-08-14 · 작성 관점: 방송을 보고 단양 한드미마을 여행과 농산물 문의를 함께 찾는 독자가 목적별 연락처와 방문 조건을 구분할 수 있게 정리했습니다.
+최종 업데이트: 2026-08-15 · 작성 관점: 방송을 보고 단양 한드미마을 여행과 농산물 문의를 함께 찾는 독자가 목적별 연락처와 방문 조건을 구분할 수 있게 정리했습니다.

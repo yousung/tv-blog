@@ -3,7 +3,7 @@ title: "오늘N 브라질 상파울루｜지구촌 브이로그 파울리스타 
 slug: "oneuln-brazil-sao-paulo-jiguchon-vlog"
 description: "MBC 오늘N 지구촌 브이로그에 나온 브라질 상파울루. 일요일에 차를 막는 파울리스타 거리, 동네 거리시장(페이라), 열대과일과 파스텔까지 방송 속 상파울루 일상을 공식 자료로 짚었습니다."
 date: "2026-06-18"
-status: "published"
+status: "draft"
 category: "local"
 program: "오늘N"
 episode: "지구촌 브이로그 - 남미 최대 도시, 브라질 상파울루의 매력 (2739회)"
