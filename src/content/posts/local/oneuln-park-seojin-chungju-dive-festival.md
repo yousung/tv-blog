@@ -3,7 +3,7 @@ title: "오늘N 충주에 나타난 노란 물결, 박서진 팬클럽과 중장
 slug: "oneuln-park-seojin-chungju-dive-festival"
 description: "MBC 오늘N에 나온 충주 다이브 페스티벌의 노란 물결 정체를 정리했습니다. 박서진 팬클럽이 보여 준 중장년 트로트 팬덤의 응원 문화가 왜 축제 현장에서 두드러지는지, 어디까지가 방송에서 확인된 사실인지 구분해 풀었습니다."
 date: "2026-06-18"
-status: "published"
+status: "draft"
 category: "local"
 program: "오늘N"
 episode: "2739회"

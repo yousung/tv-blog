@@ -3,7 +3,7 @@ title: "옥천 마장리 말무덤과 임자도 마방촌｜한국인의 밥상 
 slug: "korean-table-majangri-imjado-horse-history"
 description: "한국인의 밥상 2026 병오년 새해 첫 방송에 나온 옥천 마장리 말무덤, 임자도 마방촌, 말과 함께 이어진 지역 역사와 새해 밥상의 의미를 정리했습니다."
 date: "2026-01-01"
-status: "published"
+status: "draft"
 category: "local"
 program: "한국인의 밥상"
 episode: "2026-01-01 방송분"
