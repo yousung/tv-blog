@@ -160,9 +160,14 @@ h1 { margin: 0; font-size: clamp(2.3rem, 7vw, 5rem); max-width: 780px; }
   h1 { font-size: 1.82rem; }
 }
 
-/* Google AdSense slots */
-.ad-slot { margin: 2rem 0; padding: .75rem 0 0; border-top: 1px solid var(--line); min-height: 120px; }
-.ad-slot__label { display: block; margin-bottom: .4rem; color: var(--muted); font-size: .72rem; letter-spacing: .08em; }
-.ad-slot--multiplex { min-height: 280px; }
+/* Google AdSense slots — same card language as article figures, stays inside the 800px article column */
+.ad-slot { margin: 2rem 0; padding: .6rem clamp(.6rem, 2vw, 1rem) clamp(.75rem, 2vw, 1rem); border: 1px solid var(--line); border-radius: 18px; background: var(--surface); box-shadow: 0 12px 32px rgba(124,45,18,.06); overflow: hidden; min-height: 120px; }
+.ad-slot__label { display: block; margin-bottom: .45rem; color: var(--muted); font-size: .72rem; font-weight: 700; letter-spacing: .08em; text-align: center; }
+.ad-slot ins.adsbygoogle { width: 100%; max-width: 100%; margin-inline: auto; }
+.ad-slot--multiplex { min-height: 300px; }
 .ad-slot ins.adsbygoogle[data-ad-status="unfilled"] { display: none !important; }
 .ad-slot:has(ins.adsbygoogle[data-ad-status="unfilled"]) { display: none; }
+@media (max-width: 560px) {
+  .ad-slot { margin: 1.5rem 0; border-radius: 16px; min-height: 280px; }
+  .ad-slot--multiplex { min-height: 420px; }
+}
