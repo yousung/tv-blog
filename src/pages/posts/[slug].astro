@@ -2,7 +2,8 @@
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import NaverMap from '../../components/NaverMap.astro';
-import { CATEGORY_LABELS } from '../../consts';
+import AdSlot from '../../components/AdSlot.astro';
+import { CATEGORY_LABELS, AD_SLOTS } from '../../consts';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -57,14 +58,17 @@ const heroImageAlt = data.imageAlt ?? (broadcasterFallbackImage ? `${data.progra
     {data.address && (data.category === 'food' || data.category === 'local') && (
       <NaverMap address={data.address} placeName={data.placeName} label="방송 맛집 지도" lat={data.mapLat} lng={data.mapLng} />
     )}
+    <AdSlot slot={AD_SLOTS.postTopDisplay} variant="display" />
     <div class="article-body">
       <Content />
     </div>
+    <AdSlot slot={AD_SLOTS.postInArticle} variant="in-article" beforeHeading={3} />
     {data.source.length > 0 && (
       <section class="article-sources">
         <h2>출처 및 확인 자료</h2>
         <ul>{data.source.map((item) => <li>{item}</li>)}</ul>
       </section>
     )}
+    <AdSlot slot={AD_SLOTS.postMultiplex} variant="multiplex" />
   </article>
 </BaseLayout>

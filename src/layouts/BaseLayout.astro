@@ -1,5 +1,5 @@
 ---
-import { SITE_DESCRIPTION, SITE_TITLE, SITE_URL, NAV_ITEMS } from '../consts';
+import { SITE_DESCRIPTION, SITE_TITLE, SITE_URL, NAV_ITEMS, ADSENSE_CLIENT } from '../consts';
 import '../styles/global.css';
 
 interface Props {
@@ -93,6 +93,7 @@ const jsonLd = type === 'article'
     {modifiedTime && <meta property="article:modified_time" content={modifiedTime} />}
     {tags.map((tag) => <meta property="article:tag" content={tag} />)}
     <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)} />
+    <script is:inline async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`} crossorigin="anonymous"></script>
   </head>
   <body>
     <a class="skip-link" href="#main-content">본문으로 건너뛰기</a>

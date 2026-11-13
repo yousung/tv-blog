@@ -1,0 +1,67 @@
+---
+import { ADSENSE_CLIENT } from '../consts';
+
+interface Props {
+  /** AdSense ad unit slot id */
+  slot: string;
+  /** display: responsive display unit, in-article: fluid in-article unit, multiplex: autorelaxed grid */
+  variant: 'display' | 'in-article' | 'multiplex';
+  /**
+   * in-article only: move this ad block in front of the Nth <h2> inside `.article-body`
+   * before the ad is requested. If the body has fewer headings, the ad stays where it was rendered.
+   */
+  beforeHeading?: number;
+}
+
+const { slot, variant, beforeHeading } = Astro.props;
+const id = `ad-${slot}`;
+---
+
+<aside class={`ad-slot ad-slot--${variant}`} id={id} aria-label="광고">
+  <span class="ad-slot__label">광고</span>
+  {variant === 'display' && (
+    <ins
+      class="adsbygoogle"
+      style="display:block"
+      data-ad-client={ADSENSE_CLIENT}
+      data-ad-slot={slot}
+      data-ad-format="auto"
+      data-full-width-responsive="true"
+    ></ins>
+  )}
+  {variant === 'in-article' && (
+    <ins
+      class="adsbygoogle"
+      style="display:block; text-align:center;"
+      data-ad-layout="in-article"
+      data-ad-format="fluid"
+      data-ad-client={ADSENSE_CLIENT}
+      data-ad-slot={slot}
+    ></ins>
+  )}
+  {variant === 'multiplex' && (
+    <ins
+      class="adsbygoogle"
+      style="display:block"
+      data-ad-format="autorelaxed"
+      data-ad-client={ADSENSE_CLIENT}
+      data-ad-slot={slot}
+    ></ins>
+  )}
+</aside>
+<script is:inline define:vars={{ id, beforeHeading }}>
+  (function () {
+    var el = document.getElementById(id);
+    if (!el) return;
+    if (beforeHeading) {
+      var headings = document.querySelectorAll('.article-body h2');
+      var target = headings[beforeHeading - 1];
+      if (target && target.parentNode) target.parentNode.insertBefore(el, target);
+    }
+    try {
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+    } catch (e) {
+      el.hidden = true;
+    }
+  })();
+</script>
