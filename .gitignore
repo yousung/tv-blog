@@ -4,3 +4,12 @@ node_modules/
 
 .DS_Store
 npm-debug.log*
+
+# Local-only operating docs, agent rules and skills (do not publish)
+AGENTS.md
+CLAUDE.md
+docs/
+.claude/
+.omc/
+.agents/
+skills/
