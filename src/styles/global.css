@@ -218,3 +218,6 @@ h1 { margin: 0; font-size: clamp(2.3rem, 7vw, 5rem); max-width: 780px; }
 @media (min-width: 721px) {
   .near-locate { width: auto; justify-self: start; }
 }
+.near-search { flex-direction: row; flex-wrap: nowrap; align-items: center; border-radius: 999px; }
+.near-search button { flex: 0 0 auto; width: auto; }
+.near-locate span[aria-hidden] { margin-right: .35rem; }
