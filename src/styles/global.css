@@ -171,3 +171,50 @@ h1 { margin: 0; font-size: clamp(2.3rem, 7vw, 5rem); max-width: 780px; }
   .ad-slot { margin: 1.5rem 0; border-radius: 16px; min-height: 280px; }
   .ad-slot--multiplex { min-height: 360px; }
 }
+
+/* ---- 근처 방송 맛집 (글 하단) ---- */
+.nearby-posts { margin: 2rem 0; padding: clamp(1rem, 2.5vw, 1.4rem); border-radius: var(--radius); background: var(--surface-warm); border: 1px solid color-mix(in srgb, var(--accent) 22%, var(--line)); }
+.nearby-posts__head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: .4rem 1rem; margin-bottom: .9rem; }
+.nearby-posts__head h2 { margin: 0; font-size: clamp(1.1rem, 2.2vw, 1.3rem); }
+.nearby-posts__more { color: var(--accent-dark); font-weight: 800; font-size: .9rem; text-decoration: none; }
+.nearby-posts__more::after { content: ' →'; }
+.nearby-posts__list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .7rem; }
+.nearby-posts__note { margin: .8rem 0 0; color: var(--muted); font-size: .8rem; }
+.nearby-item, .near-item > a { display: flex; gap: .8rem; align-items: center; padding: .6rem; border-radius: 16px; background: var(--surface); border: 1px solid var(--line); text-decoration: none; transition: border-color .18s ease, transform .18s ease; min-width: 0; }
+.nearby-item:hover, .near-item > a:hover { border-color: color-mix(in srgb, var(--accent) 45%, var(--line)); transform: translateY(-1px); }
+.nearby-item__thumb, .near-item__thumb { flex: 0 0 auto; width: 72px; height: 72px; border-radius: 12px; object-fit: cover; background: #ffedd5; }
+.nearby-item__thumb--empty, .near-item__thumb--empty { display: block; }
+.nearby-item__body, .near-item__body { display: grid; gap: .15rem; min-width: 0; }
+.nearby-item__meta, .near-item__meta { display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; color: var(--muted); font-size: .76rem; font-weight: 700; }
+.nearby-item__distance, .near-item__distance { color: #fff; background: var(--accent); border-radius: 999px; padding: .05rem .5rem; font-weight: 850; }
+.nearby-item__distance[hidden], .near-item__distance[hidden] { display: none; }
+.nearby-item__name, .near-item__name { font-size: 1rem; line-height: 1.35; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.nearby-item__region, .near-item__region { color: var(--muted); font-size: .82rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+/* ---- 내 주변 방송 맛집 찾기 (/near/) ---- */
+.visually-hidden { position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+.near-controls { display: grid; gap: .8rem; margin: 0 0 1.25rem; padding: clamp(1rem, 2.5vw, 1.4rem); border-radius: var(--radius); background: var(--surface); border: 1px solid var(--line); box-shadow: 0 10px 35px rgba(124,45,18,.055); }
+.near-locate { width: 100%; font-size: 1.02rem; cursor: pointer; }
+.near-locate:disabled { opacity: .6; cursor: progress; }
+.near-search { border-radius: 999px; }
+.near-row { display: flex; flex-wrap: wrap; gap: .7rem 1rem; align-items: end; justify-content: space-between; }
+.near-select { display: grid; gap: .3rem; flex: 1 1 240px; min-width: 0; color: var(--muted); font-size: .82rem; font-weight: 800; }
+.near-select select { width: 100%; min-height: 44px; padding: .55rem .8rem; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); color: var(--text); font: inherit; font-size: .95rem; }
+.near-radius { display: inline-flex; flex-wrap: wrap; gap: .35rem; }
+.near-radius button { min-height: 40px; padding: .45rem .85rem; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--muted); font: inherit; font-weight: 800; cursor: pointer; }
+.near-radius button[aria-pressed="true"] { background: var(--text); border-color: var(--text); color: #fff; }
+.near-status { margin: 0; color: var(--muted); font-size: .88rem; }
+.near-map-card { margin: 0 0 1.25rem; overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); box-shadow: 0 18px 50px rgba(124,45,18,.08); }
+.near-map { width: 100%; height: clamp(300px, 46vw, 440px); display: grid; place-items: center; color: var(--muted); background: #f8fafc; }
+.near-map-hint { margin: 0; padding: .55rem 1rem; color: var(--muted); font-size: .8rem; border-top: 1px solid var(--line); }
+.near-origin-pin { display: block; width: 22px; height: 22px; border-radius: 50%; background: var(--blue); border: 4px solid #fff; box-shadow: 0 0 0 2px var(--blue), 0 4px 12px rgba(37,99,235,.35); }
+.near-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .7rem; }
+.near-item[hidden] { display: none; }
+.near-footnote { color: var(--muted); font-size: .82rem; }
+
+@media (max-width: 720px) {
+  .nearby-posts__list, .near-list { grid-template-columns: 1fr; }
+}
+@media (min-width: 721px) {
+  .near-locate { width: auto; justify-self: start; }
+}

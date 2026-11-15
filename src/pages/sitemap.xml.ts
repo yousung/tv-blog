@@ -11,6 +11,7 @@ export async function GET() {
     '/categories/local/',
     '/categories/health/',
     '/categories/life/',
+    '/near/',
     '/privacy/'
   ];
 

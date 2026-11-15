@@ -1,0 +1,43 @@
+---
+import type { NearbyPost } from '../utils/geo';
+import { formatDistance } from '../utils/geo';
+import { CATEGORY_LABELS } from '../consts';
+
+interface Props {
+  items: NearbyPost[];
+  placeName?: string;
+}
+
+const { items, placeName } = Astro.props;
+---
+
+{items.length > 0 && (
+  <section class="nearby-posts" aria-labelledby="nearby-posts-title">
+    <div class="nearby-posts__head">
+      <h2 id="nearby-posts-title">{placeName ? `${placeName} 근처 다른 방송 맛집` : '이 근처 다른 방송 맛집'}</h2>
+      <a class="nearby-posts__more" href="/near/">내 주변 방송 맛집 찾기</a>
+    </div>
+    <ul class="nearby-posts__list">
+      {items.map(({ post, km }) => (
+        <li>
+          <a class="nearby-item" href={`/posts/${post.data.slug}/`}>
+            {post.data.image ? (
+              <img class="nearby-item__thumb" src={post.data.image} alt="" loading="lazy" decoding="async" />
+            ) : (
+              <span class="nearby-item__thumb nearby-item__thumb--empty" aria-hidden="true"></span>
+            )}
+            <span class="nearby-item__body">
+              <span class="nearby-item__meta">
+                <span class="nearby-item__distance">{formatDistance(km)}</span>
+                <span>{CATEGORY_LABELS[post.data.category]} · {post.data.program}</span>
+              </span>
+              <strong class="nearby-item__name">{post.data.placeName ?? post.data.title}</strong>
+              {post.data.region && <span class="nearby-item__region">{post.data.region}</span>}
+            </span>
+          </a>
+        </li>
+      ))}
+    </ul>
+    <p class="nearby-posts__note">직선거리 기준입니다. 실제 이동 거리와 영업 여부는 지도에서 다시 확인해 주세요.</p>
+  </section>
+)}

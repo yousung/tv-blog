@@ -15,6 +15,7 @@ export const NAV_ITEMS = [
   { href: '/', label: '홈' },
   { href: '/programs/', label: '프로그램' },
   { href: '/categories/', label: '카테고리' },
+  { href: '/near/', label: '내 주변' },
   { href: '/search/', label: '검색' }
 ];
 

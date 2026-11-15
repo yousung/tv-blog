@@ -3,16 +3,23 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import NaverMap from '../../components/NaverMap.astro';
 import AdSlot from '../../components/AdSlot.astro';
+import NearbyPosts from '../../components/NearbyPosts.astro';
+import { getNearbyPosts } from '../../utils/geo';
 import { CATEGORY_LABELS, AD_SLOTS } from '../../consts';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
-  return posts
-    .filter((post) => post.data.status === 'published')
-    .map((post) => ({ params: { slug: post.data.slug }, props: { post } }));
+  const published = posts.filter((post) => post.data.status === 'published');
+  return published.map((post) => ({
+    params: { slug: post.data.slug },
+    props: {
+      post,
+      nearby: post.data.category === 'food' || post.data.category === 'local' ? getNearbyPosts(post, published) : []
+    }
+  }));
 }
 
-const { post } = Astro.props;
+const { post, nearby } = Astro.props;
 const { Content } = await render(post);
 const data = post.data;
 const displayDate = data.broadcastDate ?? data.date;
@@ -69,6 +76,7 @@ const heroImageAlt = data.imageAlt ?? (broadcasterFallbackImage ? `${data.progra
         <ul>{data.source.map((item) => <li>{item}</li>)}</ul>
       </section>
     )}
+    <NearbyPosts items={nearby} placeName={data.placeName} />
     <AdSlot slot={AD_SLOTS.postMultiplex} variant="multiplex" />
   </article>
 </BaseLayout>

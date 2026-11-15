@@ -1,0 +1,441 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import { AD_SLOTS, CATEGORY_LABELS } from '../../consts';
+import { getPublishedPosts } from '../../utils/posts';
+import { hasCoordinates } from '../../utils/geo';
+import { getNaverClientKey } from '../../utils/naver';
+
+const PROVINCE_ALIASES: Record<string, string> = {
+  경기도: '경기',
+  강원특별자치도: '강원',
+  강원도: '강원',
+  전북특별자치도: '전북',
+  전라북도: '전북',
+  전라남도: '전남',
+  경상북도: '경북',
+  경상남도: '경남',
+  충청북도: '충북',
+  충청남도: '충남',
+  인천광역시: '인천',
+  광주광역시: '광주',
+  전남광주: '광주',
+  부산광역시: '부산',
+  대구광역시: '대구',
+  대전광역시: '대전',
+  울산광역시: '울산',
+  서울특별시: '서울',
+  제주특별자치도: '제주'
+};
+const PROVINCE_ORDER = ['서울', '인천', '경기', '강원', '충북', '충남', '대전', '세종', '전북', '전남', '광주', '경북', '경남', '대구', '울산', '부산', '제주'];
+
+const places = getPublishedPosts(await getCollection('posts'))
+  .filter(hasCoordinates)
+  .map((post) => {
+    const tokens = (post.data.region ?? '').trim().split(/\s+/).filter(Boolean);
+    const province = PROVINCE_ALIASES[tokens[0] ?? ''] ?? tokens[0] ?? '기타';
+    const district = tokens[1] ?? '';
+    return {
+      slug: post.data.slug,
+      title: post.data.title,
+      placeName: post.data.placeName ?? post.data.title,
+      region: post.data.region ?? '',
+      address: post.data.address ?? '',
+      program: post.data.program,
+      category: CATEGORY_LABELS[post.data.category],
+      image: post.data.image ?? '',
+      lat: post.data.mapLat as number,
+      lng: post.data.mapLng as number,
+      province,
+      areaKey: district ? `${province} ${district}` : province
+    };
+  })
+  .sort((a, b) => {
+    const pa = PROVINCE_ORDER.indexOf(a.province);
+    const pb = PROVINCE_ORDER.indexOf(b.province);
+    return (pa === -1 ? 99 : pa) - (pb === -1 ? 99 : pb) || a.areaKey.localeCompare(b.areaKey, 'ko');
+  });
+
+// 지역 선택용: 시·도 > 시·군·구, 각 묶음의 좌표 중심을 기준점으로 쓴다.
+const areaMap = new Map<string, { province: string; label: string; lat: number; lng: number; count: number }>();
+for (const place of places) {
+  const entry = areaMap.get(place.areaKey) ?? { province: place.province, label: place.areaKey, lat: 0, lng: 0, count: 0 };
+  entry.lat += place.lat;
+  entry.lng += place.lng;
+  entry.count += 1;
+  areaMap.set(place.areaKey, entry);
+}
+const areaGroups = new Map<string, Array<{ label: string; lat: number; lng: number; count: number }>>();
+for (const area of areaMap.values()) {
+  const list = areaGroups.get(area.province) ?? [];
+  list.push({ label: area.label, lat: area.lat / area.count, lng: area.lng / area.count, count: area.count });
+  areaGroups.set(area.province, list);
+}
+
+const naverKey = getNaverClientKey();
+const sdkUrl = naverKey
+  ? `https://oapi.map.naver.com/openapi/v3/maps.js?ncpKeyId=${encodeURIComponent(naverKey)}&submodules=geocoder`
+  : '';
+---
+
+<BaseLayout
+  title="내 주변 방송 맛집 찾기"
+  description="현재 위치나 원하는 지역·역·주소를 기준으로 생생정보, 생방송 투데이, 오늘N 등 TV에 나온 맛집을 가까운 순서로 찾아보세요."
+>
+  <section class="article-header near-header">
+    <p class="kicker">Near Me</p>
+    <h1>내 주변 방송 맛집 찾기</h1>
+    <p class="lead">현재 위치나 가고 싶은 지역을 고르면, 방송에 나온 맛집을 가까운 순서로 보여 드립니다. 지금 {places.length}곳이 지도에 등록되어 있어요.</p>
+  </section>
+
+  <section class="near-controls" aria-label="기준 위치 선택">
+    <button type="button" class="button primary near-locate" id="near-locate"><span aria-hidden="true">📍</span> 내 위치로 찾기</button>
+    <form class="search-box near-search" id="near-search" role="search">
+      <label class="visually-hidden" for="near-query">지역, 역, 주소 또는 상호</label>
+      <input id="near-query" type="search" placeholder="예: 종로5가역, 해운대, 안산 상록구" autocomplete="off" />
+      <button type="submit">찾기</button>
+    </form>
+    <div class="near-row">
+      <label class="near-select">
+        <span>지역 선택</span>
+        <select id="near-area">
+          <option value="">시·군·구를 고르세요</option>
+          {[...areaGroups.entries()].map(([province, areas]) => (
+            <optgroup label={province}>
+              {areas.map((area) => (
+                <option value={area.label} data-lat={area.lat.toFixed(6)} data-lng={area.lng.toFixed(6)}>
+                  {area.label} ({area.count})
+                </option>
+              ))}
+            </optgroup>
+          ))}
+        </select>
+      </label>
+      <div class="near-radius" role="group" aria-label="반경">
+        <button type="button" data-radius="3">3km</button>
+        <button type="button" data-radius="10">10km</button>
+        <button type="button" data-radius="30">30km</button>
+        <button type="button" data-radius="0" aria-pressed="true">전체</button>
+      </div>
+    </div>
+    <p class="near-status" id="near-status" aria-live="polite">기준 위치를 고르면 가까운 순서로 정렬됩니다. 현재 위치는 이 브라우저 안에서 거리 계산에만 쓰이며, 이 사이트 서버로 보내거나 저장하지 않습니다.</p>
+  </section>
+
+  {naverKey && (
+    <section class="near-map-card" aria-label="방송 맛집 지도">
+      <div id="near-map" class="near-map"><p>지도를 불러오는 중입니다.</p></div>
+      <p class="near-map-hint">지도를 누르면 그 지점을 기준으로 다시 찾습니다.</p>
+    </section>
+  )}
+
+  <ol class="near-list" id="near-list">
+    {places.map((place) => (
+      <li
+        class="near-item"
+        data-lat={place.lat}
+        data-lng={place.lng}
+        data-search={[place.placeName, place.region, place.address, place.title].join(' ').toLowerCase()}
+        data-name={place.placeName}
+        data-address={place.address}
+        data-url={`/posts/${place.slug}/`}
+      >
+        <a href={`/posts/${place.slug}/`}>
+          {place.image ? (
+            <img class="near-item__thumb" src={place.image} alt="" loading="lazy" decoding="async" />
+          ) : (
+            <span class="near-item__thumb near-item__thumb--empty" aria-hidden="true"></span>
+          )}
+          <span class="near-item__body">
+            <span class="near-item__meta">
+              <span class="near-item__distance" hidden></span>
+              <span>{place.category} · {place.program}</span>
+            </span>
+            <strong class="near-item__name">{place.placeName}</strong>
+            <span class="near-item__region">{place.address || place.region}</span>
+          </span>
+        </a>
+      </li>
+    ))}
+  </ol>
+
+  <AdSlot slot={AD_SLOTS.postTopDisplay} variant="display" />
+
+  <p class="near-footnote">거리는 직선거리 기준입니다. 방송 이후 영업시간·가격·휴무가 바뀌었을 수 있으니 방문 전 지도나 공식 채널에서 다시 확인해 주세요.</p>
+
+  {naverKey && <script is:inline src={sdkUrl}></script>}
+  <script is:inline>
+    (() => {
+      const list = document.getElementById('near-list');
+      const status = document.getElementById('near-status');
+      const locateBtn = document.getElementById('near-locate');
+      const form = document.getElementById('near-search');
+      const queryInput = document.getElementById('near-query');
+      const areaSelect = document.getElementById('near-area');
+      const radiusButtons = Array.from(document.querySelectorAll('.near-radius button'));
+      const mapEl = document.getElementById('near-map');
+      if (!list) return;
+
+      const items = Array.from(list.querySelectorAll('.near-item')).map((el) => ({
+        el,
+        lat: Number(el.dataset.lat),
+        lng: Number(el.dataset.lng),
+        search: el.dataset.search || '',
+        name: el.dataset.name || '',
+        address: el.dataset.address || '',
+        url: el.dataset.url || '',
+        distEl: el.querySelector('.near-item__distance'),
+        km: Infinity
+      }));
+
+      let origin = null;
+      let originLabel = '';
+      let radius = 0;
+      let map = null;
+      let originMarker = null;
+      const FALLBACK_COUNT = 6;
+      let reqId = 0;
+      let mapFailed = false;
+      let skipFit = false;
+
+      function setStatus(text) {
+        if (status) status.textContent = text;
+      }
+
+      function distanceKm(a, b) {
+        const R = 6371;
+        const rad = (d) => (d * Math.PI) / 180;
+        const dLat = rad(b.lat - a.lat);
+        const dLng = rad(b.lng - a.lng);
+        const h = Math.sin(dLat / 2) ** 2 + Math.cos(rad(a.lat)) * Math.cos(rad(b.lat)) * Math.sin(dLng / 2) ** 2;
+        return 2 * R * Math.asin(Math.min(1, Math.sqrt(h)));
+      }
+
+      function formatDistance(km) {
+        if (km < 1) return `${Math.max(50, Math.round((km * 1000) / 10) * 10)}m`;
+        if (km < 10) return `${km.toFixed(1)}km`;
+        return `${Math.round(km)}km`;
+      }
+
+      function render() {
+        if (!origin || !items.length) return;
+        for (const item of items) item.km = distanceKm(origin, item);
+        const sorted = [...items].sort((a, b) => a.km - b.km);
+        const inRadius = radius > 0 ? sorted.filter((item) => item.km <= radius) : sorted;
+        const visible = inRadius.length ? inRadius : sorted.slice(0, FALLBACK_COUNT);
+        const visibleSet = new Set(visible);
+
+        for (const item of sorted) {
+          list.append(item.el);
+          item.el.hidden = !visibleSet.has(item);
+          if (item.distEl) {
+            item.distEl.textContent = formatDistance(item.km);
+            item.distEl.hidden = false;
+          }
+        }
+
+        const nearest = sorted[0];
+        if (radius > 0 && !inRadius.length) {
+          setStatus(`${originLabel} 반경 ${radius}km 안에는 등록된 곳이 없어 가장 가까운 ${FALLBACK_COUNT}곳을 보여 드려요. 가장 가까운 곳은 ${formatDistance(nearest.km)} 거리입니다.`);
+        } else {
+          setStatus(`${originLabel} 기준 ${radius > 0 ? `반경 ${radius}km 안 ${inRadius.length}곳` : `가까운 순 ${sorted.length}곳`}. 가장 가까운 곳은 ${nearest.name} (${formatDistance(nearest.km)})입니다.`);
+        }
+        updateMap(visible.slice(0, 10));
+      }
+
+      function setOrigin(point, label, fromArea = false) {
+        reqId += 1;
+        if (!fromArea && areaSelect) areaSelect.value = '';
+        origin = point;
+        originLabel = label;
+        render();
+      }
+
+      // ---- 반경 ----
+      for (const btn of radiusButtons) {
+        btn.addEventListener('click', () => {
+          radius = Number(btn.dataset.radius) || 0;
+          for (const b of radiusButtons) b.setAttribute('aria-pressed', String(b === btn));
+          if (origin) render();
+          else setStatus('먼저 기준 위치를 골라 주세요.');
+        });
+      }
+
+      // ---- 현재 위치 ----
+      locateBtn?.addEventListener('click', () => {
+        if (!('geolocation' in navigator)) {
+          setStatus('이 브라우저는 위치 찾기를 지원하지 않아요. 지역을 선택하거나 검색해 주세요.');
+          return;
+        }
+        setStatus('현재 위치를 확인하는 중입니다…');
+        locateBtn.disabled = true;
+        const myReq = ++reqId;
+        let settled = false;
+        const finish = () => {
+          settled = true;
+          locateBtn.disabled = false;
+        };
+        // 권한 창을 응답 없이 닫으면 콜백이 오지 않는 브라우저가 있어 안전 타이머를 둔다.
+        setTimeout(() => {
+          if (settled) return;
+          finish();
+          if (myReq === reqId) setStatus('위치 확인이 지연되고 있어요. 다시 시도하거나 지역을 선택·검색해 주세요.');
+        }, 15000);
+        navigator.geolocation.getCurrentPosition(
+          (pos) => {
+            if (settled) return;
+            finish();
+            if (myReq !== reqId) return;
+            setOrigin({ lat: pos.coords.latitude, lng: pos.coords.longitude }, '현재 위치');
+          },
+          (err) => {
+            if (settled) return;
+            finish();
+            if (myReq !== reqId) return;
+            const messages = {
+              1: '위치 권한이 거부되었어요. 브라우저 설정에서 허용하거나, 지역을 선택·검색해 주세요.',
+              2: '현재 위치를 확인할 수 없어요. 지역을 선택하거나 검색해 주세요.',
+              3: '위치 확인 시간이 초과되었어요. 다시 시도하거나 지역을 선택해 주세요.'
+            };
+            const previous = origin ? ` (목록은 이전 기준 ${originLabel} 그대로예요.)` : '';
+            setStatus((messages[err.code] || messages[2]) + previous);
+          },
+          { enableHighAccuracy: false, timeout: 10000, maximumAge: 300000 }
+        );
+      });
+
+      // ---- 지역 선택 ----
+      areaSelect?.addEventListener('change', () => {
+        const opt = areaSelect.selectedOptions[0];
+        if (!opt || !opt.value) return;
+        setOrigin({ lat: Number(opt.dataset.lat), lng: Number(opt.dataset.lng) }, opt.value, true);
+      });
+
+      // ---- 검색: 등록된 상호·지역·주소·제목 먼저, 없으면 네이버 주소 검색(지오코더) ----
+      function geocode(query) {
+        return new Promise((resolve) => {
+          const service = window.naver?.maps?.Service;
+          if (!service?.geocode) return resolve(null);
+          const timer = setTimeout(() => resolve(null), 4000);
+          try {
+            service.geocode({ query }, (statusCode, response) => {
+              clearTimeout(timer);
+              const first = statusCode === service.Status.OK ? response?.v2?.addresses?.[0] : null;
+              resolve(first ? { lat: Number(first.y), lng: Number(first.x) } : null);
+            });
+          } catch {
+            clearTimeout(timer);
+            resolve(null);
+          }
+        });
+      }
+      const squash = (v) => v.replace(/\s+/g, '');
+
+      form?.addEventListener('submit', async (event) => {
+        event.preventDefault();
+        const raw = (queryInput?.value || '').trim();
+        if (!raw) return;
+        const q = raw.toLowerCase();
+        const exact = items.find((item) => squash(item.name.toLowerCase()) === squash(q));
+        if (exact) return setOrigin({ lat: exact.lat, lng: exact.lng }, `'${exact.name}'`);
+
+        const terms = q.split(/\s+/).filter(Boolean);
+        const matches = items.filter((item) => terms.every((t) => item.search.includes(t)));
+        if (matches.length) {
+          const center = matches.reduce((acc, m) => ({ lat: acc.lat + m.lat / matches.length, lng: acc.lng + m.lng / matches.length }), { lat: 0, lng: 0 });
+          return setOrigin(center, `'${raw}'`);
+        }
+
+        setStatus(`'${raw}' 위치를 찾는 중입니다…`);
+        const myReq = ++reqId;
+        const geo = await geocode(raw);
+        if (myReq !== reqId) return;
+        if (geo && Number.isFinite(geo.lat) && Number.isFinite(geo.lng)) return setOrigin(geo, `'${raw}'`);
+        setStatus(`'${raw}' 위치를 찾지 못했어요. 시·군·구 이름으로 검색하거나 지역 선택, 지도에서 직접 골라 주세요.`);
+      });
+
+      // ---- 지도 (네이버 키가 있을 때만) ----
+      function makeInfo(item) {
+        const box = document.createElement('div');
+        box.className = 'naver-map-info';
+        const link = document.createElement('a');
+        link.href = item.url;
+        const strong = document.createElement('strong');
+        strong.textContent = item.name;
+        link.append(strong);
+        const addr = document.createElement('div');
+        addr.textContent = item.address;
+        box.append(link, addr);
+        return box;
+      }
+
+      function initMap(maps) {
+        if (!mapEl || mapFailed) return;
+        mapEl.textContent = '';
+        map = new maps.Map(mapEl, {
+          center: new maps.LatLng(36.4, 127.8),
+          zoom: 7,
+          scaleControl: true,
+          logoControl: true,
+          mapDataControl: false,
+          zoomControl: true,
+          zoomControlOptions: { position: maps.Position.TOP_RIGHT }
+        });
+        const info = new maps.InfoWindow({ content: '' });
+        for (const item of items) {
+          const marker = new maps.Marker({ position: new maps.LatLng(item.lat, item.lng), map, title: item.name });
+          maps.Event.addListener(marker, 'click', () => {
+            info.setContent(makeInfo(item));
+            info.open(map, marker);
+          });
+        }
+        maps.Event.addListener(map, 'click', (e) => {
+          skipFit = true;
+          setOrigin({ lat: e.coord.lat(), lng: e.coord.lng() }, '지도에서 고른 지점');
+          skipFit = false;
+        });
+        if (origin) render();
+      }
+
+      function updateMap(nearest) {
+        const maps = window.naver?.maps;
+        if (!map || !maps || !origin) return;
+        const pos = new maps.LatLng(origin.lat, origin.lng);
+        if (!originMarker) {
+          originMarker = new maps.Marker({
+            position: pos,
+            map,
+            title: '기준 위치',
+            zIndex: 1000,
+            icon: { content: '<span class="near-origin-pin" aria-hidden="true"></span>', anchor: new maps.Point(11, 11) }
+          });
+        } else {
+          originMarker.setPosition(pos);
+        }
+        if (skipFit) return;
+        let bounds = new maps.LatLngBounds(pos, pos);
+        for (const item of nearest.slice(0, 5)) bounds = bounds.extend(new maps.LatLng(item.lat, item.lng)) || bounds;
+        map.fitBounds(bounds, { top: 40, right: 40, bottom: 40, left: 40 });
+      }
+
+      if (mapEl) {
+        window.navermap_authFailure = () => {
+          mapFailed = true;
+          mapEl.classList.add('naver-map-fallback');
+          mapEl.textContent = '지도를 불러오지 못했어요. 아래 목록에서 가까운 곳을 확인해 주세요.';
+          map = null;
+        };
+        let attempt = 0;
+        (function wait() {
+          if (window.naver?.maps?.Map) return initMap(window.naver.maps);
+          if (++attempt > 80) {
+            mapEl.classList.add('naver-map-fallback');
+            mapEl.textContent = '지도를 불러오지 못했어요. 아래 목록에서 가까운 곳을 확인해 주세요.';
+            return;
+          }
+          setTimeout(wait, 100);
+        })();
+      }
+    })();
+  </script>
+</BaseLayout>
