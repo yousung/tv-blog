@@ -6,6 +6,7 @@ import AdSlot from '../../components/AdSlot.astro';
 import NearbyPosts from '../../components/NearbyPosts.astro';
 import { getNearbyPosts } from '../../utils/geo';
 import { CATEGORY_LABELS, AD_SLOTS } from '../../consts';
+import { provinceOf, provinceSlug } from '../../utils/places';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -38,10 +39,29 @@ const broadcasterFallbackImage = /MBC|오늘N/.test(data.program)
       ? broadcasterFallbackImages.kbs
       : undefined;
 const heroImage = data.image ?? broadcasterFallbackImage;
+const isPlace = data.category === 'food' || data.category === 'local';
+const regionProvince = provinceOf(data.region);
+const regionSlug = isPlace && typeof data.mapLat === 'number' ? provinceSlug(regionProvince) : undefined;
+const regionLink = regionSlug ? { href: `/near/${regionSlug}/`, label: `${regionProvince} 방송 맛집 지도` } : undefined;
+// 식당 글은 Restaurant 구조화 데이터를 함께 넣어 검색엔진이 상호·주소·좌표를 읽게 한다.
+const restaurantJsonLd =
+  data.category === 'food' && data.placeName && data.address
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'Restaurant',
+        name: data.placeName,
+        address: { '@type': 'PostalAddress', streetAddress: data.address, addressCountry: 'KR' },
+        ...(typeof data.mapLat === 'number' && typeof data.mapLng === 'number'
+          ? { geo: { '@type': 'GeoCoordinates', latitude: data.mapLat, longitude: data.mapLng } }
+          : {}),
+        ...(data.image ? { image: new URL(data.image, Astro.site ?? 'https://tv.lovizu.com').href } : {}),
+        subjectOf: { '@type': 'BlogPosting', headline: data.title, url: new URL(Astro.url.pathname, Astro.site ?? 'https://tv.lovizu.com').href }
+      }
+    : undefined;
 const heroImageAlt = data.imageAlt ?? (broadcasterFallbackImage ? `${data.program} 방송 정보 대표 이미지` : data.title);
 ---
 
-<BaseLayout title={data.title} description={data.description} type="article" publishedTime={published} modifiedTime={modified} tags={data.tags} image={heroImage}>
+<BaseLayout title={data.title} description={data.description} type="article" publishedTime={published} modifiedTime={modified} tags={data.tags} image={heroImage} extraJsonLd={restaurantJsonLd}>
   <article class="article">
     <header class="article-header">
       <p class="kicker">{CATEGORY_LABELS[data.category]} · {data.program}</p>
@@ -49,7 +69,7 @@ const heroImageAlt = data.imageAlt ?? (broadcasterFallbackImage ? `${data.progra
       <p class="lead">{data.description}</p>
       <div class="article-meta">
         <time datetime={published}>작성일 {new Intl.DateTimeFormat('ko-KR', { dateStyle: 'long' }).format(displayDate)}</time>
-        {data.region && <span>{data.region}</span>}
+        {data.region && (regionLink ? <a href={regionLink.href}>{data.region}</a> : <span>{data.region}</span>)}
         {data.placeName && <span>{data.placeName}</span>}
       </div>
       {heroImage && (
@@ -76,7 +96,7 @@ const heroImageAlt = data.imageAlt ?? (broadcasterFallbackImage ? `${data.progra
         <ul>{data.source.map((item) => <li>{item}</li>)}</ul>
       </section>
     )}
-    <NearbyPosts items={nearby} placeName={data.placeName} />
+    <NearbyPosts items={nearby} placeName={data.placeName} regionLink={regionLink} />
     <AdSlot slot={AD_SLOTS.postMultiplex} variant="multiplex" />
   </article>
 </BaseLayout>

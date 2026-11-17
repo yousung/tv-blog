@@ -11,6 +11,8 @@ interface Props {
   modifiedTime?: string;
   tags?: string[];
   noindex?: boolean;
+  /** 페이지별로 추가할 JSON-LD (예: Restaurant) */
+  extraJsonLd?: Record<string, unknown>;
 }
 
 const {
@@ -21,7 +23,8 @@ const {
   publishedTime,
   modifiedTime,
   tags = [],
-  noindex = false
+  noindex = false,
+  extraJsonLd
 } = Astro.props as Props;
 
 const site = Astro.site ?? new URL(SITE_URL);
@@ -93,6 +96,7 @@ const jsonLd = type === 'article'
     {modifiedTime && <meta property="article:modified_time" content={modifiedTime} />}
     {tags.map((tag) => <meta property="article:tag" content={tag} />)}
     <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)} />
+    {extraJsonLd && <script type="application/ld+json" is:inline set:html={JSON.stringify(extraJsonLd)} />}
     <script is:inline async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`} crossorigin="anonymous"></script>
   </head>
   <body>

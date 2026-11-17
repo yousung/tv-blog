@@ -1,0 +1,35 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import NearFinder from '../../components/NearFinder.astro';
+import RegionLinks from '../../components/RegionLinks.astro';
+import { getPublishedPosts } from '../../utils/posts';
+import { buildPlaces, provinceCounts, MIN_INDEXED, type Place } from '../../utils/places';
+
+export async function getStaticPaths() {
+  const places = buildPlaces(getPublishedPosts(await getCollection('posts')));
+  return provinceCounts(places).map((p) => ({
+    params: { province: p.slug },
+    props: { name: p.name, places: places.filter((place) => place.province === p.name), all: places }
+  }));
+}
+
+const { name, places, all } = Astro.props as { name: string; places: Place[]; all: Place[] };
+const { province } = Astro.params;
+const programs = [...new Set(places.map((p) => p.program))];
+const districts = [...new Set(places.map((p) => p.areaKey.replace(`${name} `, '')).filter((d) => d && d !== name))];
+const title = `${name} 방송 맛집 ${places.length}곳 지도`;
+const description = `${programs.slice(0, 4).join(', ')} 등 TV에 나온 ${name} 맛집 ${places.length}곳을 지도와 목록으로 모았습니다. ${districts.slice(0, 6).join('·')} 등 가고 싶은 동네 기준으로 가까운 순서로 찾아보세요.`;
+---
+
+<BaseLayout title={title} description={description} noindex={places.length < MIN_INDEXED}>
+  <section class="near-intro">
+    <p class="kicker"><a href="/near/">방송 맛집 지도</a> › {name}</p>
+    <h1>{name} 방송 맛집 지도</h1>
+    <p>{programs.slice(0, 4).join(', ')} 등 TV에 나온 {name} 맛집 {places.length}곳. 놀러 갈 동네나 역 이름으로 검색하면 가까운 순으로 보여 드려요.</p>
+  </section>
+
+  <NearFinder places={places} autoLocate="never" pageSize={20} allLabel={`${name} 방송 맛집`} placeholder={`예: ${districts[0] ?? name}, 역 이름, 상호`} />
+
+  <RegionLinks places={all} current={province} title="다른 지역 방송 맛집" />
+</BaseLayout>

@@ -1,0 +1,26 @@
+---
+import type { Place } from '../utils/places';
+import { provinceCounts } from '../utils/places';
+
+interface Props {
+  places: Place[];
+  current?: string;
+  title?: string;
+}
+
+const { places, current, title = '지역별 방송 맛집' } = Astro.props;
+const provinces = provinceCounts(places);
+---
+
+<section class="region-links" aria-labelledby="region-links-title">
+  <h2 id="region-links-title">{title}</h2>
+  <ul>
+    {provinces.map((p) => (
+      <li>
+        <a href={`/near/${p.slug}/`} aria-current={p.slug === current ? 'page' : undefined}>
+          {p.name} <span>{p.count}</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</section>

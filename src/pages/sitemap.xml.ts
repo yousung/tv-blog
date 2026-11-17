@@ -1,4 +1,6 @@
 import { getCollection } from 'astro:content';
+import { getPublishedPosts } from '../utils/posts';
+import { buildPlaces, provinceCounts, MIN_INDEXED } from '../utils/places';
 
 export async function GET() {
   const site = 'https://tv.lovizu.com';
@@ -12,6 +14,7 @@ export async function GET() {
     '/categories/health/',
     '/categories/life/',
     '/near/',
+    ...provinceCounts(buildPlaces(getPublishedPosts(posts))).filter((p) => p.count >= MIN_INDEXED).map((p) => `/near/${p.slug}/`),
     '/privacy/'
   ];
 

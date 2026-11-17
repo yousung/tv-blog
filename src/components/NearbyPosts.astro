@@ -6,16 +6,17 @@ import { CATEGORY_LABELS } from '../consts';
 interface Props {
   items: NearbyPost[];
   placeName?: string;
+  regionLink?: { href: string; label: string };
 }
 
-const { items, placeName } = Astro.props;
+const { items, placeName, regionLink } = Astro.props;
 ---
 
 {items.length > 0 && (
   <section class="nearby-posts" aria-labelledby="nearby-posts-title">
     <div class="nearby-posts__head">
       <h2 id="nearby-posts-title">{placeName ? `${placeName} 근처 다른 방송 맛집` : '이 근처 다른 방송 맛집'}</h2>
-      <a class="nearby-posts__more" href="/near/">내 주변 방송 맛집 찾기</a>
+      <a class="nearby-posts__more" href={regionLink?.href ?? '/near/'}>{regionLink?.label ?? '내 주변 방송 맛집 찾기'}</a>
     </div>
     <ul class="nearby-posts__list">
       {items.map(({ post, km }) => (
