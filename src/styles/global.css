@@ -224,6 +224,7 @@ h1 { margin: 0; font-size: clamp(2.3rem, 7vw, 5rem); max-width: 780px; }
 .naver-map-info { padding: .7rem .9rem; font-size: 13px; line-height: 1.5; color: #1b1714; white-space: nowrap; background: #fff; border-radius: 12px; box-shadow: 0 2px 6px rgba(27,23,20,.10), 0 12px 28px rgba(27,23,20,.16); }
 .naver-map-info strong { font-size: 14px; }
 .naver-map-info a { text-decoration: none; color: inherit; }
+.naver-map-info__distance { display: block; margin: .15rem 0 .1rem; color: var(--blue); font-weight: 800; }
 .naver-map-info__more { display: block; margin-top: .35rem; font-weight: 800; color: var(--accent) !important; }
 
 /* 장소 카드 (지도 목록 · 글 하단 근처 맛집 공용) */

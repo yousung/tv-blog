@@ -428,6 +428,12 @@ const sdkUrl = naverKey
       link.append(strong);
       const meta = document.createElement('div');
       meta.textContent = item.meta;
+      if (origin && Number.isFinite(item.km) && item.km > 0.005) {
+        const dist = document.createElement('span');
+        dist.className = 'naver-map-info__distance';
+        dist.textContent = `${originLabel || '기준점'}에서 ${formatDistance(item.km)}`;
+        meta.prepend(dist);
+      }
       const more = document.createElement('a');
       more.href = item.url;
       more.className = 'naver-map-info__more';
