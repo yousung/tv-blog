@@ -43,46 +43,44 @@ const sdkUrl = naverKey
 ---
 
 <div class="near-finder" id="near-finder" data-auto-locate={autoLocate} data-page-size={pageSize} data-all-label={allLabel} data-latest-url={latest ? `/posts/${latest.slug}/` : ''}>
-{naverKey && (
-  <section class="near-map-card" aria-label="방송 맛집 지도">
-    <div id="near-map" class="near-map"><p>지도를 불러오는 중입니다.</p></div>
-  </section>
-)}
-
-<section class="near-controls" aria-label="기준 위치 선택">
-  <div class="near-primary">
-    <button type="button" class="button primary near-locate" id="near-locate"><span aria-hidden="true">📍</span> 내 위치</button>
-    <form class="search-box near-search" id="near-search" role="search">
-      <label class="visually-hidden" for="near-query">지역, 역, 주소 또는 상호</label>
-      <input id="near-query" type="search" placeholder={placeholder} autocomplete="off" />
-      <button type="submit">찾기</button>
-    </form>
-  </div>
-  <div class="near-row">
-    <label class="near-select">
-      <span class="visually-hidden">지역 선택</span>
-      <select id="near-area">
-        <option value="">시·군·구 선택</option>
-        {[...areaGroups.entries()].map(([province, areas]) => (
-          <optgroup label={province}>
-            {areas.map((area) => (
-              <option value={area.label} data-lat={area.lat.toFixed(6)} data-lng={area.lng.toFixed(6)}>
-                {area.label} ({area.count})
-              </option>
-            ))}
-          </optgroup>
-        ))}
-      </select>
-    </label>
-    <div class="near-radius" role="group" aria-label="반경">
-      <button type="button" data-radius="3">3km</button>
-      <button type="button" data-radius="10">10km</button>
-      <button type="button" data-radius="30">30km</button>
-      <button type="button" data-radius="0" aria-pressed="true">전체</button>
-    </div>
-  </div>
-  <p class="near-status" id="near-status" aria-live="polite">내 위치나 지역을 고르면 가까운 순서로 정렬됩니다. 지도를 눌러 기준점을 바꿀 수도 있어요. 위치는 이 브라우저 안에서 거리 계산에만 쓰고 서버로 보내지 않습니다.</p>
+<section class:list={['nf-stage', { 'nf-stage--nomap': !naverKey }]} aria-label="방송 맛집 지도와 검색">
+  {naverKey && <div id="near-map" class="near-map"><p>지도를 불러오는 중…</p></div>}
+  <form class="nf-search" id="near-search" role="search">
+    <svg class="nf-search__icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>
+    <label class="visually-hidden" for="near-query">지역, 역, 주소 또는 상호</label>
+    <input id="near-query" type="search" placeholder={placeholder} autocomplete="off" enterkeyhint="search" />
+    <button type="submit">검색</button>
+  </form>
+  <button type="button" class="nf-locate" id="near-locate">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4" /><path d="M12 2v3M12 19v3M2 12h3M19 12h3" /></svg>
+    <span>내 위치</span>
+  </button>
 </section>
+
+<div class="nf-filters">
+  <label class="nf-chip nf-chip--select">
+    <span class="visually-hidden">지역 선택</span>
+    <select id="near-area">
+      <option value="">동네 선택</option>
+      {[...areaGroups.entries()].map(([province, areas]) => (
+        <optgroup label={province}>
+          {areas.map((area) => (
+            <option value={area.label} data-lat={area.lat.toFixed(6)} data-lng={area.lng.toFixed(6)}>
+              {area.label} ({area.count})
+            </option>
+          ))}
+        </optgroup>
+      ))}
+    </select>
+  </label>
+  <div class="near-radius" role="group" aria-label="반경">
+    <button type="button" data-radius="3">3km</button>
+    <button type="button" data-radius="10">10km</button>
+    <button type="button" data-radius="30">30km</button>
+    <button type="button" data-radius="0" aria-pressed="true">전체</button>
+  </div>
+</div>
+<p class="near-status" id="near-status" aria-live="polite">내 위치를 허용하면 가까운 순으로 보여 드려요. 지도를 눌러 기준점을 바꿀 수도 있어요.</p>
 
 <p class="near-list-title" id="near-list-title">{allLabel} {places.length}곳 · 지역순</p>
 <div class="near-empty" id="near-empty" hidden>
@@ -123,7 +121,7 @@ const sdkUrl = naverKey
 
 <AdSlot slot={AD_SLOTS.postTopDisplay} variant="display" />
 
-<p class="near-footnote">거리는 직선거리 기준입니다. 방송 이후 영업시간·가격·휴무가 바뀌었을 수 있으니 방문 전 지도나 공식 채널에서 다시 확인해 주세요.</p>
+<p class="near-footnote">거리는 직선거리 기준이에요. 위치는 이 브라우저 안에서 거리 계산에만 쓰고 서버로 보내지 않습니다. 방송 이후 영업시간·가격이 바뀌었을 수 있으니 방문 전 다시 확인해 주세요.</p>
 
 {naverKey && <script is:inline src={sdkUrl}></script>}
 <script is:inline>
@@ -272,7 +270,7 @@ const sdkUrl = naverKey
       if (radius > 0 && !inRadius.length) {
         setStatus(`${originLabel} 반경 ${radius}km 안에는 등록된 곳이 없어 가장 가까운 ${FALLBACK_COUNT}곳을 보여 드려요. 가장 가까운 곳은 ${formatDistance(nearest.km)} 거리입니다.`);
       } else {
-        setStatus(`${originLabel} 기준 ${radius > 0 ? `반경 ${radius}km 안 ${inRadius.length}곳` : `가까운 순 ${sorted.length}곳`}. 가장 가까운 곳은 ${nearest.name} (${formatDistance(nearest.km)})입니다.`);
+        setStatus(`가장 가까운 곳은 ${nearest.name}, ${formatDistance(nearest.km)} 거리예요.`);
       }
       updateMap(radius > 0 && inRadius.length ? visible.slice(0, 10) : visible, false);
     }
@@ -442,10 +440,9 @@ const sdkUrl = naverKey
         scaleControl: true,
         logoControl: true,
         mapDataControl: false,
-        zoomControl: true,
-        zoomControlOptions: { position: maps.Position.TOP_RIGHT }
+        zoomControl: false
       });
-      const info = new maps.InfoWindow({ content: '' });
+      const info = new maps.InfoWindow({ content: '', borderWidth: 0, backgroundColor: 'transparent', anchorColor: '#fff', anchorSize: new maps.Size(14, 9), pixelOffset: new maps.Point(0, -6) });
       for (const item of items) {
         const marker = new maps.Marker({ position: new maps.LatLng(item.lat, item.lng), map, title: item.name });
         item.marker = marker;

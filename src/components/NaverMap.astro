@@ -91,7 +91,12 @@ const sdkUrl = naverApiKey
           });
           const marker = new maps.Marker({ position, map, title: place });
           const infoWindow = new maps.InfoWindow({
-            content: `<div class="naver-map-info"><strong>${place}</strong><br>${address}</div>`
+            content: `<div class="naver-map-info"><strong>${place}</strong><br>${address}</div>`,
+            borderWidth: 0,
+            backgroundColor: 'transparent',
+            anchorColor: '#fff',
+            anchorSize: new maps.Size(14, 9),
+            pixelOffset: new maps.Point(0, -6)
           });
           infoWindow.open(map, marker);
         }
