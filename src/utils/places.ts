@@ -61,6 +61,8 @@ export interface Place {
   lng: number;
   province: string;
   areaKey: string;
+  /** 등록(작성)일 ms — 기준 위치가 없을 때 가장 최근 등록된 곳을 지도 시작점으로 쓴다. */
+  date: number;
 }
 
 export function provinceOf(region: string | undefined): string {
@@ -96,7 +98,8 @@ export function buildPlaces(posts: Post[]): Place[] {
         lat: post.data.mapLat as number,
         lng: post.data.mapLng as number,
         province,
-        areaKey: district ? `${province} ${district}` : province
+        areaKey: district ? `${province} ${district}` : province,
+        date: post.data.date.getTime()
       };
     })
     .sort((a, b) => order(a.province) - order(b.province) || a.areaKey.localeCompare(b.areaKey, 'ko'));
