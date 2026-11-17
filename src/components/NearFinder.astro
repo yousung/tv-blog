@@ -14,9 +14,11 @@ interface Props {
   allLabel?: string;
   /** 검색창 예시 */
   placeholder?: string;
+  /** full: 지도를 화면 가득, 목록은 옆(PC)·아래(모바일) 패널로 */
+  layout?: 'stack' | 'full';
 }
 
-const { places, autoLocate = 'never', pageSize = 0, allLabel = '방송 맛집 전체', placeholder = '예: 종로5가역, 해운대, 안산 상록구' } = Astro.props;
+const { places, autoLocate = 'never', pageSize = 0, allLabel = '방송 맛집 전체', placeholder = '예: 종로5가역, 해운대, 안산 상록구', layout = 'stack' } = Astro.props;
 
 // 지역 선택용: 시·도 > 시·군·구, 각 묶음의 좌표 중심을 기준점으로 쓴다.
 const areaMap = new Map<string, { province: string; label: string; lat: number; lng: number; count: number }>();
@@ -42,7 +44,7 @@ const sdkUrl = naverKey
   : '';
 ---
 
-<div class="near-finder" id="near-finder" data-auto-locate={autoLocate} data-page-size={pageSize} data-all-label={allLabel} data-latest-url={latest ? `/posts/${latest.slug}/` : ''}>
+<div class:list={['near-finder', `near-finder--${layout}`]} id="near-finder" data-auto-locate={autoLocate} data-page-size={pageSize} data-all-label={allLabel} data-latest-url={latest ? `/posts/${latest.slug}/` : ''}>
 <section class:list={['nf-stage', { 'nf-stage--nomap': !naverKey }]} aria-label="방송 맛집 지도와 검색">
   {naverKey && <div id="near-map" class="near-map"><p>지도를 불러오는 중…</p></div>}
   <form class="nf-search" id="near-search" role="search">
@@ -57,6 +59,8 @@ const sdkUrl = naverKey
   </button>
 </section>
 
+<div class="nf-panel">
+<slot />
 <div class="nf-filters">
   <label class="nf-chip nf-chip--select">
     <span class="visually-hidden">지역 선택</span>
@@ -122,6 +126,7 @@ const sdkUrl = naverKey
 <AdSlot slot={AD_SLOTS.postTopDisplay} variant="display" />
 
 <p class="near-footnote">거리는 직선거리 기준이에요. 위치는 이 브라우저 안에서 거리 계산에만 쓰고 서버로 보내지 않습니다. 방송 이후 영업시간·가격이 바뀌었을 수 있으니 방문 전 다시 확인해 주세요.</p>
+</div>
 
 {naverKey && <script is:inline src={sdkUrl}></script>}
 <script is:inline>

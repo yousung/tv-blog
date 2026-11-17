@@ -257,6 +257,23 @@ h1 { margin: 0; font-size: clamp(2.3rem, 7vw, 5rem); max-width: 780px; }
 .region-links a[aria-current="page"] { background: var(--text); border-color: var(--text); color: #fff; }
 .region-links a[aria-current="page"] span { color: rgba(255,255,255,.7); }
 
+/* 내 주변: 지도 전체 화면 (PC는 왼쪽 목록 패널) */
+main.shell:has(.near-finder--full) { padding-top: 0; }
+.nf-panel__title { margin: 0 0 .2rem; font-size: 1.2rem; font-weight: 850; letter-spacing: -.03em; }
+@media (min-width: 721px) {
+  .near-finder--full { display: grid; grid-template-columns: 400px minmax(0, 1fr); height: calc(100svh - 61px); margin-inline: calc((100% - 100vw) / 2); border-bottom: 1px solid var(--line); }
+  .near-finder--full .nf-stage { order: 2; height: 100%; border-radius: 0; box-shadow: none; }
+  .near-finder--full .near-map { height: 100%; }
+  .near-finder--full .nf-panel { order: 1; overflow-y: auto; padding: 1.1rem 1rem 1.5rem 1.4rem; border-right: 1px solid var(--line); background: var(--bg); }
+  .near-finder--full .nf-filters { margin-top: .6rem; }
+  .near-finder--full .near-list { grid-template-columns: 1fr; }
+  .near-finder--full:has(.nf-stage--nomap) { display: block; height: auto; margin-inline: 0; border: 0; }
+}
+@media (max-width: 720px) {
+  .near-finder--full .near-map { height: calc(100svh - 57px - 120px); min-height: 360px; }
+  .near-finder--full .nf-panel { padding-top: .9rem; }
+}
+
 /* 헤더 메뉴 아이콘 */
 .nav-toggle svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; }
 

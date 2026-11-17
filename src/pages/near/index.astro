@@ -13,12 +13,9 @@ const places = buildPlaces(getPublishedPosts(await getCollection('posts')));
   title="내 주변 방송 맛집 찾기"
   description="현재 위치나 원하는 지역·역·주소를 기준으로 생생정보, 생방송 투데이, 오늘N 등 TV에 나온 맛집을 가까운 순서로 찾아보세요."
 >
-  <section class="near-intro">
-    <h1>내 주변 방송 맛집 찾기</h1>
-    <p>지금 위치에서 가까운 TV 방송 맛집 {places.length}곳을 지도와 목록으로 보여 드려요.</p>
-  </section>
-
-  <NearFinder places={places} autoLocate="always" pageSize={20} />
+  <NearFinder places={places} autoLocate="always" pageSize={20} layout="full">
+    <h1 class="nf-panel__title">내 주변 방송 맛집</h1>
+  </NearFinder>
 
   <RegionLinks places={places} />
 </BaseLayout>
