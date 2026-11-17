@@ -26,7 +26,7 @@ const categoryCounts = Object.keys(CATEGORY_LABELS)
     <p>생생정보·생방송 투데이·6시 내고향·오늘N에 나온 맛집 {places.length}곳. 내 위치나 놀러 갈 지역을 고르면 가까운 순으로 보여 드려요.</p>
   </section>
 
-  <NearFinder places={places} autoLocate="granted" pageSize={12} />
+  <NearFinder places={places} autoLocate="always" pageSize={12} />
 
   <RegionLinks places={places} />
 
