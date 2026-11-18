@@ -7,6 +7,10 @@ export const SITE_AUTHOR = 'lovizu';
 export const ADSENSE_CLIENT = 'ca-pub-1322828698634218';
 // Google Analytics 4 (러비쥬 account, property "tv.lovizu.com", web stream "tv.lovizu.com 웹")
 export const GA_MEASUREMENT_ID = 'G-SB143C6V4K';
+// Naver Analytics site "러비쥬 TV 맛집" (https://tv.lovizu.com/) — separate from blog.lovizu.com's ID
+export const NAVER_ANALYTICS_ID = '88fdd60b47c728';
+// Naver Search Advisor ownership meta for https://tv.lovizu.com
+export const NAVER_SITE_VERIFICATION = '7489d8eafda7b12dbfb85a469974a87c22af1314';
 export const AD_SLOTS = {
   postTopDisplay: '6838397081', // "tv 글 상단 디스플레이" — responsive display
   postInArticle: '3703987348', // "tv 글 본문 인아티클" — in-article fluid
