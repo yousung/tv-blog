@@ -5,6 +5,8 @@ export const SITE_AUTHOR = 'lovizu';
 
 // Google AdSense (account pub-1322828698634218, site lovizu.com covers tv.lovizu.com)
 export const ADSENSE_CLIENT = 'ca-pub-1322828698634218';
+// Google Analytics 4 (러비쥬 account, property "tv.lovizu.com", web stream "tv.lovizu.com 웹")
+export const GA_MEASUREMENT_ID = 'G-SB143C6V4K';
 export const AD_SLOTS = {
   postTopDisplay: '6838397081', // "tv 글 상단 디스플레이" — responsive display
   postInArticle: '3703987348', // "tv 글 본문 인아티클" — in-article fluid

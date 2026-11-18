@@ -1,5 +1,5 @@
 ---
-import { SITE_DESCRIPTION, SITE_TITLE, SITE_URL, NAV_ITEMS, ADSENSE_CLIENT } from '../consts';
+import { SITE_DESCRIPTION, SITE_TITLE, SITE_URL, NAV_ITEMS, ADSENSE_CLIENT, GA_MEASUREMENT_ID } from '../consts';
 import '../styles/global.css';
 
 interface Props {
@@ -97,6 +97,14 @@ const jsonLd = type === 'article'
     {tags.map((tag) => <meta property="article:tag" content={tag} />)}
     <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)} />
     {extraJsonLd && <script type="application/ld+json" is:inline set:html={JSON.stringify(extraJsonLd)} />}
+    <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}></script>
+    <script is:inline define:vars={{ gaId: GA_MEASUREMENT_ID }}>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      window.gtag = gtag;
+      gtag('js', new Date());
+      gtag('config', gaId);
+    </script>
     <script is:inline async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`} crossorigin="anonymous"></script>
   </head>
   <body>
