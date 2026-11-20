@@ -3,7 +3,7 @@ title: "봉천동 가마구이찌 찜닭 솥밥정식｜생방송 투데이 3787
 slug: "saengbangsong-today-bongcheon-gamagui-jjimdak-sotbap"
 description: "생방송 투데이 3787회에 나온 봉천동 가마구이찌 가마솥밥한상차림. 8천 원 찜닭·목살 김치찜 솥밥정식과 위치, 방문 전 확인할 점을 정리했습니다."
 date: "2025-06-11"
-updatedDate: "2026-06-22"
+updatedDate: "2026-11-20"
 status: "published"
 category: "food"
 program: "생방송 투데이"
@@ -14,19 +14,19 @@ placeName: "가마구이찌 가마솥밥한상차림"
 address: "서울 관악구 봉천로 457"
 mapLat: 37.4825891182285
 mapLng: 126.950823539035
-image: "https://matstar.sbs.co.kr/images/cms/c09a4ad9-6fa8-4a06-b4d2-09597ec2d13c.jpg"
-imageAlt: "생방송 투데이 3787회 가마구이찌 찜닭 솥밥정식 방송 장면"
+image: "/images/posts/saengbangsong-today-bongcheon-gamagui-jjimdak-sotbap/broadcast-jjimdak-jeongsik-set.jpg"
+imageAlt: "나무 받침 위 스테인리스 솥에 담긴 흰 솥밥과 반찬 3종 식판, 검은 뚝배기에 담긴 매콤 찜닭이 차려지고 ‘찜닭 + 솥밥 + 반찬 3종 = 단돈 8’ 자막이 들어간 방송 장면"
 tags: ["봉천동 맛집", "관악구 맛집", "서울대입구 밥집", "가마구이찌", "찜닭 정식", "솥밥정식", "생방송 투데이", "방송맛집"]
 source:
   - "SBS 생방송 투데이 3787회 다시보기 메타 정보(2025-06-11 방송분, '막 퍼주는 집, 얼만데요?' 코너)"
   - "SBS TV맛집 가마구이찌 가마솥밥한상차림 업체 정보(상호·주소·좌표·대표 메뉴·방송 클립 썸네일)"
+  - "SBS 생방송 투데이 3787회 공식 클립 '단돈 8천 원! 골라 먹는 찜닭×목살 김치찜 솥밥 정식' https://allvod.sbs.co.kr/main/00000338038/OC475153447"
 ---
 
 서울에서 점심 한 상을 8천 원 안팎으로 해결하려면 메뉴 선택지가 금방 좁아진다. 그런데 솥밥에 찜닭, 반찬까지 붙는 구성이라면 이야기가 달라진다. 생방송 투데이 3787회에 나온 봉천동 **가마구이찌 가마솥밥한상차림**은 '찜닭 정식도 8천 원'이라는 가격과 구성으로 방송에 소개된 집이다. 가격만 보고 달려가기보다, 점심 한상형 식당이라는 성격을 알고 가는 편이 만족도가 높다.
 
-![가마구이찌 찜닭 솥밥정식 방송 장면](https://matstar.sbs.co.kr/images/cms/c09a4ad9-6fa8-4a06-b4d2-09597ec2d13c.jpg)
-
-> 사진 출처: SBS TV맛집, 생방송 투데이 3787회 가마구이찌 가마솥밥한상차림 방송 정보 기준.
+![나무 받침 위 스테인리스 솥에 담긴 흰 솥밥과 반찬 3종 식판, 검은 뚝배기에 담긴 매콤 찜닭이 차려지고 '찜닭 + 솥밥 + 반찬 3종 = 단돈 8' 자막이 들어간 방송 장면](/images/posts/saengbangsong-today-bongcheon-gamagui-jjimdak-sotbap/broadcast-jjimdak-jeongsik-set.jpg)
+*사진: SBS 생방송 투데이 3787회(2025-06-11) 방송 장면, SBS 공식 클립 '단돈 8천 원! 골라 먹는 찜닭×목살 김치찜 솥밥 정식'*
 
 ## 방송에 나온 곳은 어디인가요
 
@@ -42,9 +42,18 @@ source:
 
 방송 포인트는 가격 대비 구성입니다. 솥밥이 따로 나오고, 메인 메뉴와 반찬이 붙는 방식이라 혼밥보다 직장인 점심이나 근처 주민의 한 끼 식사에 더 가까운 집으로 보입니다.
 
+![흰 메뉴판에 '1인 가마솥 한상차림(가마솥밥+메뉴+국+반찬 3종)' 제목 아래 가마구이찌 김치찜 9,500원, 목살 김치찜 보통 8,000원·특 9,000원, 매콤찜닭 8,000원, 등갈비 김치찜 11,500원이 적힌 방송 장면](/images/posts/saengbangsong-today-bongcheon-gamagui-jjimdak-sotbap/broadcast-menu-board.jpg)
+*사진: SBS 생방송 투데이 3787회(2025-06-11) 방송 장면, SBS 공식 클립 '단돈 8천 원! 골라 먹는 찜닭×목살 김치찜 솥밥 정식'*
+
 ## 8천 원 정식이라고 무조건 가성비만 보면 안 됩니다
 
 이 집을 찾는다면 '싸다'보다 '한 끼가 완성되어 나온다'는 점을 먼저 봐야 합니다. 찜닭이나 목살 김치찜처럼 양념이 있는 메뉴는 밥과 함께 먹을 때 만족도가 큽니다. 솥밥을 좋아하고, 반찬까지 한 번에 차려지는 식사를 선호한다면 방송에서 보인 장점이 잘 맞을 수 있습니다.
+
+![검은 뚝배기 안에 붉은 양념이 밴 닭고기와 채소가 자작한 국물에 담긴 매콤 찜닭 클로즈업 방송 장면](/images/posts/saengbangsong-today-bongcheon-gamagui-jjimdak-sotbap/broadcast-maekom-jjimdak.jpg)
+*사진: SBS 생방송 투데이 3787회(2025-06-11) 방송 장면, SBS 공식 클립 '단돈 8천 원! 골라 먹는 찜닭×목살 김치찜 솥밥 정식'*
+
+![붉게 끓는 목살 김치찜 위에 두부 두 조각과 푹 익은 김치, 목살이 보이는 클로즈업 방송 장면](/images/posts/saengbangsong-today-bongcheon-gamagui-jjimdak-sotbap/broadcast-moksal-kimchijjim.jpg)
+*사진: SBS 생방송 투데이 3787회(2025-06-11) 방송 장면, SBS 공식 클립 '단돈 8천 원! 골라 먹는 찜닭×목살 김치찜 솥밥 정식'*
 
 다만 방송 가격은 방문 시점에 달라질 수 있습니다. 원재료비나 점심 특선 운영 방식이 바뀌면 메뉴명은 같아도 구성과 가격이 조정될 수 있으니, 일부러 멀리 간다면 지도나 매장 안내를 한 번 더 확인하는 편이 안전합니다.
 
@@ -67,5 +76,5 @@ source:
 - [화성 동탄 두부 맛집 온유담, 빙수 콩국수·두부 한상 위치](/posts/saengbangsong-today-hwaseong-onyudam-dubu/)
 - [공주 다솜차반 소서노 수제 만두전골, 씨간장 육수 먹기 전 확인](/posts/saengbangsong-today-gongju-dasomchaban-mandu-jeongol/)
 
-최종 업데이트: 2026-06-22
+최종 업데이트: 2026-11-20
 

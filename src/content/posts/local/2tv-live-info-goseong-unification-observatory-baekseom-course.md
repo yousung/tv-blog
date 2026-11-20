@@ -3,7 +3,7 @@ title: "고성 통일전망대·백섬해상전망대 코스｜2TV 생생정보 
 slug: "2tv-live-info-goseong-unification-observatory-baekseom-course"
 description: "2TV 생생정보 2026년 6월 24일 방송에 나온 고성 이야기로 코스를 정리했습니다. 통일전망대, 백섬해상전망대, 거진전통시장, 건봉사와 방문 전 체크 포인트를 담았습니다."
 date: "2026-06-24"
-updatedDate: "2026-06-25"
+updatedDate: "2026-11-20"
 status: "published"
 category: "local"
 program: "2TV 생생정보"
@@ -14,8 +14,8 @@ placeName: "고성 통일전망대 코스"
 address: "강원특별자치도 고성군 현내면 금강산로 481"
 mapLat: 38.5867148
 mapLng: 128.3754411
-image: "https://www.gwgs.go.kr/images/tour/sub01/sub01_0102_img04.jpg"
-imageAlt: "고성 통일전망대에서 바라본 동해와 전망대 전경"
+image: "/images/posts/2tv-live-info-goseong-unification-observatory-baekseom-course/goseong-unification-tower.jpg"
+imageAlt: "고성 통일전망대의 ㄷ자 모양 고성통일전망타워 외관"
 tags: ["2TV 생생정보", "고성 가볼만한곳", "통일전망대", "백섬해상전망대", "거진전통시장", "건봉사", "강원도 여행", "방송명소"]
 source:
   - "KBS 시청자상담실: 2TV 생생정보 2557회 2026년 6월 24일 취재 연락처"
@@ -46,10 +46,8 @@ KBS 취재 연락처에 나온 고성 코스의 핵심 지점은 `백섬해상�
 
 이 코스가 좋은 이유는 `예쁜 곳만 모은 여행`이 아니라는 데 있습니다. 바다, 시장, 절, 전망대가 이어지면서 고성이 가진 분위기가 한 방향으로 쌓입니다.
 
-<figure>
-  <img src="https://www.gwgs.go.kr/images/tour/sub01/sub01_0102_img04.jpg" alt="고성 통일전망대에서 바라본 동해와 전망대 전경" loading="lazy" />
-  <figcaption>고성 통일전망대 전경입니다. 고성 여행 코스에서 마지막에 두면 풍경과 감정의 여운이 가장 크게 남는 장소입니다. 이미지 출처: 고성군 관광포털.</figcaption>
-</figure>
+![고성 백섬해상전망대 해상데크가 바다 위 바위섬 백섬까지 이어진 모습과 안내판](/images/posts/2tv-live-info-goseong-unification-observatory-baekseom-course/baekseom-sea-deck.jpg)
+*사진: 고성 백섬해상전망대 — 고성군 관광포털(강원 고성군청) 관광지 소개 사진*
 
 ## 왜 백섬해상전망대부터 시작하는 편이 좋을까
 
@@ -61,13 +59,25 @@ KBS 취재 연락처에 나온 고성 코스의 핵심 지점은 `백섬해상�
 
 거진전통시장은 단순히 먹거리 몇 개를 사는 곳으로 보기엔 아까운 장소입니다. 한국관광공사 자료를 보면 1965년 개설된 상설시장이고, 5일장 날짜는 `1일과 6일`입니다. 거진항과 맞닿아 있어 예전에는 지역 경제의 중심 역할을 했고, 지금도 고성의 생활 결을 가까이서 보기 좋습니다.
 
+![거진전통시장 주변 거리에 간판을 단 상점들이 줄지어 있는 모습](/images/posts/2tv-live-info-goseong-unification-observatory-baekseom-course/geojin-market-street.jpg)
+*사진: 고성 거진전통시장 일대 거리 — 고성군 관광포털(강원 고성군청) 관광지 소개 사진*
+
 건봉사는 분위기가 완전히 다릅니다. 고성군 관광포털은 건봉사를 신라 법흥왕 때 지어진 오래된 사찰이자 전국 4대 사찰 가운데 하나로 소개합니다. 여행 동선에서 시장 다음에 건봉사를 넣으면, 바다 쪽의 활기에서 한 번 호흡을 낮추고 다시 고성의 시간 깊이로 들어가는 느낌이 납니다.
+
+![건봉사 계곡 위 돌다리 능파교 너머로 보이는 사찰 전각](/images/posts/2tv-live-info-goseong-unification-observatory-baekseom-course/geonbongsa-temple.jpg)
+*사진: 고성 건봉사 능파교와 전각 — 고성군 관광포털(강원 고성군청) 관광지 소개 사진*
 
 이 두 곳이 같은 코스에 묶이는 이유는 거리 때문만이 아닙니다. `사람 사는 풍경`과 `오래 남은 시간`을 한 번에 붙여 볼 수 있기 때문입니다.
 
 ## 통일전망대는 풍경보다 절차를 먼저 확인해야 합니다
 
 통일전망대는 고성 여행에서 가장 상징적인 장소지만, 아무 때나 바로 올라가는 일반 전망대와는 다릅니다. 두루누비와 열린관광 자료 기준으로 통일안보공원에서 출입 신고를 하고 들어가야 하고, 계절별 최종 입장 시간도 다릅니다.
+
+![고성 통일전망대 일대에 세워진 ㄷ자 모양의 고성통일전망타워 건물](/images/posts/2tv-live-info-goseong-unification-observatory-baekseom-course/goseong-unification-tower.jpg)
+*사진: 고성통일전망타워 — 고성군 관광포털(강원 고성군청) 관광지 소개 사진*
+
+![통일전망대에서 내려다본 동해안 백사장과 북쪽으로 이어지는 해안선, 멀리 해금강 방향 산봉우리](/images/posts/2tv-live-info-goseong-unification-observatory-baekseom-course/unification-observatory-view.jpg)
+*사진: 통일전망대에서 바라본 북쪽 해안 풍경 — 고성군 관광포털(강원 고성군청) 관광지 소개 사진*
 
 방문 전에 특히 체크할 점은 아래 네 가지입니다.
 

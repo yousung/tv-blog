@@ -3,7 +3,7 @@ title: "2TV 생생정보 인천 화평동세숫대야냉면거리｜2591회 냉�
 slug: "2tv-live-info-hwapyeongdong-naengmyeon-street-2591"
 description: "2TV 생생정보 2591회 핫 플레이스 NOW에 나온 인천 화평동세숫대야냉면거리와 원조할머니냉면, 일미화평동냉면, 중국관, 몽실불고기냉면 정보를 정리했습니다."
 date: "2026-08-13"
-updatedDate: "2026-08-16"
+updatedDate: "2026-11-20"
 status: "published"
 category: "local"
 program: "2TV 생생정보"
@@ -17,18 +17,22 @@ mapPlaceName: "화평동세숫대야냉면거리"
 mapLat: 37.4784213
 mapLng: 126.6295589
 tags: ["2TV 생생정보", "화평동세숫대야냉면거리", "인천 냉면거리", "화평동 냉면", "제물포구 맛집", "방송 여행지"]
-image: "/images/broadcast/kbs-2tv-broadcast-note.svg"
-imageAlt: "2TV 생생정보 2591회 인천 화평동세숫대야냉면거리 방송 정보 대표 이미지"
+image: "/images/posts/2tv-live-info-hwapyeongdong-naengmyeon-street-2591/hwapyeongdong-naengmyeon-street.jpg"
+imageAlt: "인천 화평동 냉면거리에 일미화평동냉면 주황색 간판과 중국관 간판이 이어진 거리 풍경"
 source:
   - "KBS 시청자상담실 [8월13일(목)] 방송정보, 2TV 생생정보 2591회"
   - "네이버 지도, 화평동세숫대야냉면거리 주소 검색"
   - "OpenStreetMap Nominatim, 인천 제물포구 화평로 24-2 좌표 조회"
+  - "한국관광공사 대한민국 구석구석: 인천 화평동 세숫대야 냉면 거리 사진"
 author: "lovizu"
 ---
 
 여름에 냉면집을 검색할 때는 메뉴보다 먼저 줄과 동선을 봐야 합니다. 특히 한 골목에 여러 식당이 붙어 있는 냉면거리는 “어느 한 집”보다 거리 전체의 분위기와 대기 상황이 더 중요할 때가 많습니다. **2TV 생생정보 2591회** `핫 플레이스 NOW`는 인천 **화평동세숫대야냉면거리**를 소개했습니다.
 
 KBS 공식 방송정보에는 원조할머니냉면, 일미화평동냉면, 중국관, 몽실불고기냉면이 함께 공개됐습니다. 같은 거리라도 영업시간과 휴무, 대표 메뉴는 가게마다 다를 수 있습니다.
+
+![인천 화평동 냉면거리에 일미화평동냉면 주황색 간판과 중국관 간판이 이어진 거리 풍경](/images/posts/2tv-live-info-hwapyeongdong-naengmyeon-street-2591/hwapyeongdong-naengmyeon-street.jpg)
+*사진: 화평동 냉면거리 풍경(일미화평동냉면·중국관 간판) — 한국관광공사 대한민국 구석구석(TourAPI) 관광지 사진*
 
 ## 2TV 생생정보 화평동 냉면거리 방송 정보
 
@@ -45,7 +49,16 @@ KBS 공식 방송정보에는 원조할머니냉면, 일미화평동냉면, 중�
 
 화평동세숫대야냉면거리는 이름 그대로 세숫대야처럼 큰 그릇에 담긴 냉면 이미지로 알려진 곳입니다. 방송을 보고 한 식당만 정해 움직일 수도 있지만, 여름 성수기에는 대기와 재료 상황이 달라질 수 있습니다.
 
+![하늘 아래 화평동냉면거리 Hwapyeongdong Naengmyeon Street라고 적힌 파란색 아치형 거리 간판](/images/posts/2tv-live-info-hwapyeongdong-naengmyeon-street-2591/hwapyeongdong-naengmyeon-street-arch.jpg)
+*사진: 화평동냉면거리 입구 아치 간판 — 한국관광공사 대한민국 구석구석(TourAPI) 관광지 사진*
+
+![큰 스테인리스 그릇에 살얼음 육수와 빨간 양념, 삶은 달걀, 오이채를 올린 화평동 냉면](/images/posts/2tv-live-info-hwapyeongdong-naengmyeon-street-2591/hwapyeongdong-bibim-naengmyeon.jpg)
+*사진: 화평동 냉면거리의 큰 그릇 냉면(특정 업체 메뉴로 단정하지 않은 거리 소개 사진) — 한국관광공사 대한민국 구석구석(TourAPI) 관광지 사진*
+
 가족과 함께라면 매운맛, 양, 주차, 아이 메뉴를 같이 봐야 합니다. 냉면만 먹을지, 불고기나 중식처럼 다른 메뉴가 있는 곳을 고를지도 미리 정하면 현장에서 덜 헤맵니다.
+
+![화평동냉면거리 안내도 지도에 냉면집 위치와 냉면 그림이 표시된 안내판](/images/posts/2tv-live-info-hwapyeongdong-naengmyeon-street-2591/hwapyeongdong-street-guide-map.jpg)
+*사진: 화평동냉면거리 안내도 — 한국관광공사 대한민국 구석구석(TourAPI) 관광지 사진*
 
 ## 이런 분께 맞습니다
 
@@ -75,6 +88,7 @@ KBS 방송정보에 공개된 대표 주소는 화평로 일대입니다. 처음
 
 ## 출처
 
+- 한국관광공사 대한민국 구석구석, `인천 화평동 세숫대야 냉면 거리` 관광지 사진
 - [KBS 시청자상담실 2026년 8월 13일 방송정보](https://iaudience.kbs.co.kr/broadcast/11347)
 - [네이버 지도 화평동세숫대야냉면거리 검색](https://map.naver.com/p/search/%EC%9D%B8%EC%B2%9C%20%EC%A0%9C%EB%AC%BC%ED%8F%AC%EA%B5%AC%20%ED%99%94%ED%8F%89%EB%A1%9C%2024-2%20%ED%99%94%ED%8F%89%EB%8F%99%EC%84%B8%EC%88%AB%EB%8C%80%EC%95%BC%EB%83%89%EB%A9%B4%EA%B1%B0%EB%A6%AC)
 

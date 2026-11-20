@@ -3,7 +3,7 @@ title: "2TV 생생정보 부산 플러스고기｜2591회 돼지고기·우삼�
 slug: "2tv-live-info-busan-plusgogi-unlimited-2591"
 description: "2TV 생생정보 2591회 가격파괴 Why에 나온 부산 중구 플러스고기 위치, 영업시간, 무한리필 방문 전 확인할 점을 정리했습니다."
 date: "2026-08-13"
-updatedDate: "2026-08-16"
+updatedDate: "2026-11-20"
 status: "published"
 category: "food"
 program: "2TV 생생정보"
@@ -17,18 +17,23 @@ mapPlaceName: "플러스고기"
 mapLat: 35.1009844
 mapLng: 129.0310242
 tags: ["2TV 생생정보", "플러스고기", "부산 중구 무한리필", "광복동 고기집", "가격파괴 Why", "방송맛집"]
-image: "/images/broadcast/kbs-2tv-broadcast-note.svg"
-imageAlt: "2TV 생생정보 2591회 부산 플러스고기 방송 정보 대표 이미지"
+image: "/images/posts/2tv-live-info-busan-plusgogi-unlimited-2591/plusgogi-storefront.jpg"
+imageAlt: "부산 중구 광복중앙로 건물 2층의 플러스고기 간판, 구이&샤브 무한리필 2층 문구"
 source:
   - "KBS 시청자상담실 [8월13일(목)] 방송정보, 2TV 생생정보 2591회"
   - "네이버 지도, 플러스고기 주소 검색"
   - "OpenStreetMap Nominatim, 부산 중구 광복중앙로 21 좌표 조회"
+  - "네이버 플레이스 플러스고기 업체 등록 사진"
+  - "네이버 블로그 플러스고기 방문 후기(wall-ha) 사진"
 author: "lovizu"
 ---
 
 무한리필 고깃집은 가격만 보고 가면 생각보다 만족도가 갈립니다. 고기 종류가 많아도 회전율, 셀프바 구성, 이용 시간, 마지막 주문 기준이 맞지 않으면 “싸게 먹었다”보다 “정신없었다”는 기억이 남기 쉽습니다. **2TV 생생정보 2591회** `가격파괴 Why`에 나온 곳은 부산 중구의 **플러스고기**입니다.
 
 KBS 공식 방송정보에는 돼지고기 6종, 우삼겹, 닭갈비, 셀프바 무한리필 구성과 상호·주소·영업시간이 공개됐습니다. 방송 직후에는 대기와 재료 소진 가능성이 있으니 이동 전 운영 여부를 확인하세요.
+
+![플러스고기 2층 계단 옆 벽면 현수막, 돼지고기 무한리필 삼겹살·목살·항정살·대패삼겹살·고추장 오겹살·양념돼지갈비·우삼겹 구성 안내](/images/posts/2tv-live-info-busan-plusgogi-unlimited-2591/plusgogi-menu-wall.jpg)
+*사진: 네이버 블로그 플러스고기 방문 후기 사진(입구 벽면 메뉴 안내)*
 
 ## 2TV 생생정보 플러스고기 방송 정보
 
@@ -45,11 +50,25 @@ KBS 공식 방송정보에는 돼지고기 6종, 우삼겹, 닭갈비, 셀프바
 
 <p><a href="https://map.naver.com/p/search/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EA%B4%91%EB%B3%B5%EC%A4%91%EC%95%99%EB%A1%9C%2021%202%EC%B8%B5%20%ED%94%8C%EB%9F%AC%EC%8A%A4%EA%B3%A0%EA%B8%B0" target="_blank" rel="noopener">네이버 지도에서 플러스고기 위치 보기</a></p>
 
+![부산 중구 광복중앙로 건물 2층의 플러스고기 간판, 「구이&샤브 무한리필 2층」 문구와 1층 입구 안내판](/images/posts/2tv-live-info-busan-plusgogi-unlimited-2591/plusgogi-storefront.jpg)
+*사진: 플러스고기 네이버 플레이스 업체 등록 사진(매장 외관)*
+
 ## 가격보다 먼저 봐야 할 것은 이용 방식입니다
 
 방송정보에는 “돼지고기 6종+우삼겹+닭갈비+셀프바 무한 리필”로 소개됐습니다. 구성만 보면 가족 외식이나 친구 모임에 맞는 편입니다. 다만 무한리필 매장은 테이블 이용 시간, 남긴 음식 기준, 셀프바 운영 방식이 가게마다 다릅니다.
 
+![붉은 조명 아래 여러 부위의 생고기가 칸칸이 담긴 플러스고기 셀프 고기 냉장 쇼케이스](/images/posts/2tv-live-info-busan-plusgogi-unlimited-2591/plusgogi-meat-showcase.jpg)
+*사진: 네이버 블로그 플러스고기 방문 후기 사진(셀프 고기 쇼케이스)*
+
+![플러스고기 셀프바 냉장 진열대, 상추·깻잎 등 쌈채소와 반찬이 스테인리스 통에 담긴 모습](/images/posts/2tv-live-info-busan-plusgogi-unlimited-2591/plusgogi-self-bar.jpg)
+*사진: 네이버 블로그 플러스고기 방문 후기 사진(셀프바)*
+
 점심과 저녁의 혼잡도도 다를 수 있습니다. 광복동·남포동 동선에 있는 식당이라 관광객과 주변 직장인 수요가 겹칠 수 있고, 방송 직후에는 평소보다 대기가 길어질 수 있습니다.
+
+![플러스고기 입구 배너, 영업시간 11:00~22:00·매월 넷째 주 월요일 휴무·ABC마트 주차장 1시간 무료 이용 안내](/images/posts/2tv-live-info-busan-plusgogi-unlimited-2591/plusgogi-info-banner.jpg)
+*사진: 플러스고기 네이버 플레이스 업체 등록 사진(매장 안내 배너)*
+
+배너에는 주차가 인근 ABC마트 주차장(1시간 무료 이용권)으로 안내돼 있습니다. 영업 종료 시각은 배너 기준 22:00, 방송정보 기준 21:40으로 차이가 있으니 늦은 시간 방문이라면 마지막 주문 시각을 전화로 확인하세요.
 
 ## 이런 분께 맞습니다
 
@@ -82,4 +101,4 @@ KBS 방송정보 기준 돼지고기 6종, 우삼겹, 닭갈비, 셀프바 무�
 - [KBS 시청자상담실 2026년 8월 13일 방송정보](https://iaudience.kbs.co.kr/broadcast/11347)
 - [네이버 지도 플러스고기 검색](https://map.naver.com/p/search/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EA%B4%91%EB%B3%B5%EC%A4%91%EC%95%99%EB%A1%9C%2021%202%EC%B8%B5%20%ED%94%8C%EB%9F%AC%EC%8A%A4%EA%B3%A0%EA%B8%B0)
 
-최종 업데이트: 2026-08-14 · 작성 관점: 방송을 보고 부산 광복동 플러스고기를 찾는 독자가 가격보다 이용 방식과 방문 시간을 먼저 확인할 수 있게 정리했습니다.
+최종 업데이트: 2026-11-20 · 작성 관점: 방송을 보고 부산 광복동 플러스고기를 찾는 독자가 가격보다 이용 방식과 방문 시간을 먼저 확인할 수 있게 정리했습니다.

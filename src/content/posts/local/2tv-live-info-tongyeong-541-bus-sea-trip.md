@@ -3,7 +3,7 @@ title: "통영 541번 버스 바다 여행｜2TV 생생정보 이순신공원·�
 slug: "2tv-live-info-tongyeong-541-bus-sea-trip"
 description: "2TV 생생정보 2562회 교통카드면 충분해 통영 541번 버스 여행 코스를 이순신공원, 명가꿀빵, 벅수다찌, 통영케이블카, 충무김밥 중심으로 정리했습니다."
 date: "2026-07-02"
-updatedDate: "2026-07-03"
+updatedDate: "2026-11-20"
 status: "published"
 category: "local"
 program: "2TV 생생정보"
@@ -11,7 +11,7 @@ episode: "2562회 (2026-07-02 방송, 교통카드면 충분해 - 541번 버스�
 broadcastDate: "2026-07-02"
 region: "경남 통영시"
 placeName: "통영 541번 버스 바다 여행 코스"
-image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/View_from_the_Yi_Sun-shin_Park.jpg"
+image: "/images/posts/2tv-live-info-tongyeong-541-bus-sea-trip/yisunsin-park-sea-view.jpg"
 imageAlt: "통영 이순신공원에서 바라본 바다 전망"
 tags: ["2TV 생생정보", "통영 541번 버스", "통영 여행", "이순신공원", "명가꿀빵", "통영케이블카", "충무김밥", "벅수다찌"]
 source:
@@ -30,10 +30,8 @@ author: "lovizu"
 
 이 글은 방송에 언급된 통영 코스를, 실제 여행자가 확인하기 쉬운 장소 중심으로 정리했습니다. 이순신공원에서 바다를 보고, 강구안 일대 먹거리로 내려오고, 케이블카와 다찌까지 선택지로 나누면 무리 없는 하루 코스가 됩니다.
 
-<figure>
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/View_from_the_Yi_Sun-shin_Park.jpg" alt="통영 이순신공원에서 내려다본 바다와 섬 풍경" loading="lazy" />
-  <figcaption>통영 이순신공원에서 바라본 바다 전망입니다. 사진: Wikimedia Commons, CC0 1.0.</figcaption>
-</figure>
+![통영 이순신공원 소나무 너머로 내려다본 해안 산책로와 한려수도 바다, 멀리 이어지는 섬들](/images/posts/2tv-live-info-tongyeong-541-bus-sea-trip/yisunsin-park-sea-view.jpg)
+*사진: 통영 이순신공원에서 바라본 바다 전망 — VaneTrz20, CC0 (Wikimedia Commons)*
 
 ## 2TV 생생정보 통영 541번 버스 코스 핵심 장소
 
@@ -60,7 +58,13 @@ author: "lovizu"
 
 통영 여행에서 꿀빵과 충무김밥은 따로 떼기 어렵습니다. **명가꿀빵**은 통영시 통영해안로 337-2 주소로 확인되고, 통영U투어에는 08:00~21:00 영업 정보가 올라와 있습니다. 선물용으로 살 계획이라면 이동 중 눌리지 않게 포장 상태와 보관 시간을 먼저 보세요.
 
+![참깨를 뿌린 윤기 나는 통영 꿀빵 여러 개가 투명 포장 용기에 담긴 모습](/images/posts/2tv-live-info-tongyeong-541-bus-sea-trip/tongyeong-kkulppang.jpg)
+*사진: 통영 꿀빵 참고 사진(특정 업체 제품 아님) — 쬬미뉘, CC BY 4.0 (Wikimedia Commons)*
+
 **원조향토충무할매김밥**은 통영시 통영해안로 321에 있습니다. 충무김밥은 김밥보다 무김치, 오징어무침, 시락국 같은 곁들임이 만족도를 가릅니다. 방송을 보고 가는 분이라면 "어느 집이 원조냐"보다 내가 이동하는 동선에서 바로 먹을 수 있는지, 포장할지, 앉아서 먹을지를 먼저 정하는 편이 현실적입니다.
+
+![김으로 만 작은 충무김밥 접시 옆에 빨간 무김치와 오징어무침이 곁들여진 상차림](/images/posts/2tv-live-info-tongyeong-541-bus-sea-trip/chungmu-gimbap.jpg)
+*사진: 통영 충무김밥 참고 사진(특정 업체 메뉴 아님) — Junho Jung, CC BY 3.0 (Wikimedia Commons)*
 
 <p><a href="https://map.naver.com/p/search/%ED%86%B5%EC%98%81%20%EB%AA%85%EA%B0%80%EA%BF%80%EB%B9%B5" target="_blank" rel="noopener">네이버 지도에서 명가꿀빵 보기</a></p>
 
@@ -69,6 +73,9 @@ author: "lovizu"
 ## 통영케이블카는 날씨가 절반입니다
 
 통영케이블카는 통영시 발개로 205에 있으며, 운영기관 공식 홈페이지와 통영U투어에서 정보를 확인할 수 있습니다. 운영시간은 09:30~18:00 표기가 확인되지만, 케이블카는 날씨와 점검의 영향을 받습니다. 비나 강풍 예보가 있으면 출발 전 공식 홈페이지 공지부터 보세요.
+
+![미륵산 숲 위로 초록색 지주를 지나 올라가는 통영케이블카 곤돌라와 상부 정류장](/images/posts/2tv-live-info-tongyeong-541-bus-sea-trip/tongyeong-cable-car.jpg)
+*사진: 통영 한려수도 조망 케이블카 — Junho Jung, CC BY-SA 3.0 (Wikimedia Commons)*
 
 케이블카를 넣으면 하루 동선의 중심이 바뀝니다. 강구안 먹거리만 돌 때보다 이동 시간이 늘어나므로, 이순신공원과 케이블카를 둘 다 넣을 계획이라면 식사 장소를 한두 곳으로 줄이는 편이 낫습니다.
 
@@ -106,5 +113,6 @@ author: "lovizu"
 - 통영케이블카 공식 홈페이지
 - 통영U투어 통영케이블카
 - Wikimedia Commons `View from the Yi Sun-shin Park.jpg` (CC0 1.0)
+- Wikimedia Commons `Korea-Tongyeong-Hallyeo Waterway Observation Cable Car-06.jpg` (CC BY-SA 3.0), `Korea-Tongyeong food-Chungmu gimbap-01.jpg` (CC BY 3.0), `Tongyeong-kkulppang.jpg` (CC BY 4.0)
 
 최종 업데이트: 2026-07-03 · 작성 관점: 방송에 나온 장소를 모두 따라가기보다, 대중교통 여행자가 실제로 선택할 수 있는 동선과 방문 전 확인 기준 중심으로 정리했습니다.

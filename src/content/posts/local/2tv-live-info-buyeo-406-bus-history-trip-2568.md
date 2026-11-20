@@ -3,7 +3,7 @@ title: "2TV 생생정보 부여 406번 버스 여행｜정림사지·부소산�
 slug: "2tv-live-info-buyeo-406-bus-history-trip-2568"
 description: "2TV 생생정보 2568회 교통카드면 충분해에 나온 부여 406번 버스 역사 여행을 정리했습니다. 정림사지, 부소산성, 궁남지 중심 동선과 방문 전 확인할 점을 담았습니다."
 date: "2026-07-13"
-updatedDate: "2026-07-14"
+updatedDate: "2026-11-20"
 status: "published"
 category: "local"
 program: "2TV 생생정보"
@@ -15,8 +15,8 @@ address: "충남 부여군 부여읍 동남리 379"
 mapLat: 36.2754
 mapLng: 126.9124
 tags: ["2TV 생생정보", "부여 여행", "406번 버스", "정림사지", "부소산성", "궁남지", "백제역사유적지구", "교통카드면 충분해"]
-image: "https://img.kbs.co.kr/kbs/960x540/https://mediafactory.play.kbs.co.kr/clip/2026/07/13/6a54be947d8d8bebcc881f3f/thumbnail/6a54be947d8d8bebcc881f3f_upload_1783939099417.jpg"
-imageAlt: "KBS 2TV 생생정보 2568회 406번 버스로 떠나는 부여 여행 공식 클립 이미지"
+image: "/images/posts/2tv-live-info-buyeo-406-bus-history-trip-2568/jeongnimsaji-pagoda-site.jpg"
+imageAlt: "부여 정림사지 오층석탑과 뒤편 정림사지 강당 건물이 보이는 넓은 절터 전경"
 source:
   - "KBS VOD 2TV 생생정보 2568회 (2026-07-13) 코너 목록"
   - "KBS 모바일 VOD 클립: 교통카드면 충분해 - 406번 버스로 떠나는 부여 여행"
@@ -28,6 +28,9 @@ author: "lovizu"
 부여 여행은 차가 없어도 갈 수 있지만, 막상 현장에 도착하면 어디서부터 걸어야 할지가 더 어렵습니다. 유적이 한곳에 몰려 있는 듯 보여도 정림사지, 부소산성, 궁남지는 걷는 방향과 쉬는 타이밍을 잘못 잡으면 생각보다 금방 지칩니다. **2TV 생생정보 2568회** `교통카드면 충분해`가 잡은 주제는 바로 이 지점입니다. 2026년 7월 13일 방송 클립 제목은 **406번 버스로 떠나는 부여 여행**으로 확인됩니다.
 
 이 글은 방송에 나온 부여 대중교통 여행 키워드를 기준으로, 처음 가는 사람이 하루 코스를 짤 때 헷갈리기 쉬운 지점을 정리했습니다. 특정 상점이나 체험 상품보다 **백제 역사 유적을 버스와 도보로 이어 보는 법**에 초점을 맞췄습니다.
+
+![부여 정림사지 오층석탑과 뒤편 정림사지 강당 건물이 보이는 넓은 절터 전경](/images/posts/2tv-live-info-buyeo-406-bus-history-trip-2568/jeongnimsaji-pagoda-site.jpg)
+*사진: 부여 정림사지 오층석탑과 절터 전경 — 국가유산청(문화재청) 제공, 공공누리 제1유형 (Wikimedia Commons)*
 
 ## 2TV 생생정보 부여 406번 버스 여행 정보
 
@@ -53,11 +56,20 @@ author: "lovizu"
 
 부소산성은 부여 여행에서 빼기 어려운 곳입니다. 백제 왕궁터와 가까운 산성이고, 낙화암 이야기까지 이어져 역사적 상징이 큽니다. 다만 이름만 보고 짧은 포토 스폿처럼 생각하면 일정이 밀릴 수 있습니다.
 
+![부소산성 숲속에 서 있는 2층 누각 영일루의 단청과 나무 계단](/images/posts/2tv-live-info-buyeo-406-bus-history-trip-2568/busosanseong-pavilion.jpg)
+*사진: 부소산성 안 누각 영일루 — travel oriented, CC BY-SA 2.0 (Wikimedia Commons)*
+
 산성은 걷는 구간이 들어갑니다. 여름에는 그늘과 오르막 체감이 커지므로 정림사지, 박물관, 궁남지를 모두 하루에 넣을 계획이라면 부소산성을 가장 더운 시간대에 두지 않는 편이 낫습니다. 방송을 보고 바로 따라가려는 분도 `버스 이동 시간`보다 `걷는 체력`을 먼저 계산해야 합니다.
+
+![부소산성 낙화암 위 바위와 소나무 사이에 자리한 정자 백화정](/images/posts/2tv-live-info-buyeo-406-bus-history-trip-2568/busosanseong-baekhwajeong.jpg)
+*사진: 부소산성 낙화암 위 백화정 — Bernard Gagnon, CC0 (Wikimedia Commons)*
 
 ## 궁남지는 사진보다 계절을 먼저 봐야 합니다
 
 궁남지는 연못과 연꽃 이미지로 많이 알려져 있습니다. 그래서 사진만 보고 일정을 정하기 쉽지만, 실제 만족도는 계절과 시간대에 따라 차이가 납니다. 여름에는 연꽃과 초록 풍경이 강점이고, 해가 기울 무렵에는 산책 코스로 더 편해집니다.
+
+![궁남지 연못 위로 이어진 붉은 나무다리와 연못 가운데 정자 포룡정](/images/posts/2tv-live-info-buyeo-406-bus-history-trip-2568/gungnamji-poryongjeong.jpg)
+*사진: 부여 궁남지와 포룡정 — travel oriented, CC BY-SA 2.0 (Wikimedia Commons)*
 
 반대로 한낮에 오래 걷기에는 부담스러울 수 있습니다. 406번 버스 여행을 하루 코스로 잡는다면 궁남지는 식사 뒤 짧게 걷거나, 해가 조금 내려간 시간에 넣는 방식이 무난합니다. 아이나 어르신과 같이 간다면 정림사지보다 휴식 시간을 더 넉넉히 잡아야 합니다.
 
@@ -112,5 +124,6 @@ author: "lovizu"
 - KBS 모바일 VOD 클립, `교통카드면 충분해: 406번 버스로 떠나는 부여 여행`
 - UNESCO World Heritage Centre, `Baekje Historic Areas`
 - 국가유산청 국가유산포털, `부여 정림사지 오층석탑` 및 `부여 정림사지` 문화유산 정보
+- 사진: Wikimedia Commons `오층석탑과 정림사지 전경1.jpg`(국가유산청, 공공누리 제1유형), `Busosanseong 016.jpg`·`Gungnamji 011.jpg`(travel oriented, CC BY-SA 2.0), `Baekhwajeon Pavilion.jpg`(Bernard Gagnon, CC0)
 
 최종 업데이트: 2026-07-14 · 작성 관점: 방송에서 확인된 부여 406번 버스 여행 주제를 바탕으로, 실제 방문자는 버스 시간표와 유적지 운영 정보를 당일 기준으로 다시 확인해야 한다는 전제로 정리했습니다.

@@ -3,7 +3,7 @@ title: "여름철 피부 노화와 자외선 차단｜생로병사의 비밀 100
 slug: "secret-of-life-summer-skin-aging-sunscreen"
 description: "KBS 생로병사의 비밀 1003회 여름철 피부 편을 바탕으로 광노화, 자외선 차단제 사용법, 피부암 의심 신호와 진료 전 확인할 점을 정리했습니다."
 date: "2026-08-05"
-updatedDate: "2026-08-06"
+updatedDate: "2026-11-20"
 status: "published"
 category: "health"
 program: "생로병사의 비밀"
@@ -11,8 +11,8 @@ episode: "1003회"
 broadcastDate: "2026-08-05"
 region: "전국"
 tags: ["여름철 피부", "피부 노화", "광노화", "자외선 차단제", "피부암", "기저세포암", "생로병사의 비밀", "건강 습관"]
-image: "https://pbbsres.kbs.co.kr/T2002-0429-04-185153/2026/08/04/3432827_1785805448989.png"
-imageAlt: "KBS 생로병사의 비밀 1003회 여름철 피부 더 젊게 더 건강하게 공식 방송 이미지"
+image: "/images/posts/secret-of-life-summer-skin-aging-sunscreen/sunscreen-spf50-pa-label.jpg"
+imageAlt: "SPF50+와 PA++++ 표시가 인쇄된 자외선 차단제 제품 포장"
 source:
   - "KBS 생로병사의 비밀 1003회, 2026-08-05 방송: 여름철 피부 더 젊게 더 건강하게"
   - "KBS 공식 미리보기 게시판: 1003회 여름철 피부 더 젊게 더 건강하게"
@@ -21,6 +21,7 @@ source:
   - "국가암정보센터: 피부암"
   - "서울아산병원 건강TV: 이런 점이 있다면 피부암을 의심해라"
   - "대한민국 정책브리핑·식품의약품안전처: 자외선차단제 올바른 사용법"
+  - "Wikimedia Commons: Japanese sunscreen (Yiting, CC BY-SA 4.0), White moisturizer (Kulmalukko, CC BY 3.0)"
 ---
 
 여름에 피부가 탄 건 며칠 지나면 가라앉는다고 생각하기 쉽습니다. 그런데 자외선은 붉게 달아오른 흔적만 남기지 않습니다. 눈에 보이지 않는 피부 속 손상이 누적되고, 어느 날 점처럼 보이던 병변이 커지거나 낫지 않는 상처로 나타날 수 있습니다.
@@ -56,6 +57,9 @@ KBS 공식 자료에서 가장 먼저 던진 질문은 “당신의 피부는 �
 ## 자외선 차단제는 지수보다 바르는 방식이 더 중요합니다
 
 자외선 차단제를 고를 때 SPF 숫자만 보는 사람이 많습니다. SPF는 주로 자외선B 차단 효과를, PA는 자외선A 차단 등급을 나타냅니다. 질병관리청은 자외선A와 자외선B를 모두 막을 수 있도록 SPF와 PA 표시가 있는 제품을 확인하라고 안내합니다.
+
+![카펫 위에 놓인 노란 포장의 자외선 차단제, 포장 왼쪽 위에 SPF50+와 PA++++ 표시가 보이는 모습](/images/posts/secret-of-life-summer-skin-aging-sunscreen/sunscreen-spf50-pa-label.jpg)
+*사진: Yiting, Wikimedia Commons (CC BY-SA 4.0) — SPF·PA 표시 예시 참고 사진*
 
 다만 숫자가 높다고 대충 발라도 된다는 뜻은 아닙니다. 질병관리청은 외출 전 충분한 양을 고르게 바르고, 땀이 나거나 햇빛에 오래 노출될 때는 수시로 덧바르라고 설명합니다. 물놀이를 할 때는 내수성 제품을 고르고, 효과 유지를 위해 반복해서 바르는 것이 좋습니다.
 
@@ -94,6 +98,9 @@ KBS 공식 자료에서 가장 먼저 던진 질문은 “당신의 피부는 �
 
 질병관리청의 건강한 피부 관리 안내도 같은 방향입니다. 세안은 미온수로 부드럽게 하고, 세안 뒤에는 보습제를 발라 피부 장벽을 관리하는 것이 좋습니다. 너무 강한 세정, 잦은 스크럽, 뜨거운 물 세안은 피부가 예민한 사람에게 부담이 될 수 있습니다.
 
+![베이지색 바탕 위에 짜 놓은 흰 크림형 보습제 한 덩이](/images/posts/secret-of-life-summer-skin-aging-sunscreen/white-moisturizer-cream.jpg)
+*사진: Kulmalukko, Wikimedia Commons (CC BY 3.0) — 크림형 보습제 참고 사진*
+
 피부 노화가 걱정될수록 새로운 제품을 계속 더하고 싶어집니다. 하지만 여름에는 오히려 단순한 루틴이 오래 갑니다. 아침에는 자외선 차단, 낮에는 덧바르기, 저녁에는 자극 없이 씻고 보습하기. 이 세 가지가 흔들리면 기능성 제품을 여러 개 더해도 체감이 약할 수 있습니다.
 
 ## 방송을 보고 바로 해볼 수 있는 체크리스트
@@ -108,7 +115,7 @@ KBS 공식 자료에서 가장 먼저 던진 질문은 “당신의 피부는 �
 
 정리하면, 생로병사의 비밀 1003회가 남긴 메시지는 “여름에는 선크림을 바르자”에서 끝나지 않습니다. **겉보기 나이와 피부 상태는 다를 수 있고, 자외선 손상은 누적되며, 점과 상처의 변화는 조기에 확인해야 한다**는 쪽에 가깝습니다. 피부를 젊게 지키는 일은 특별한 날의 관리보다, 햇빛을 만나는 매일의 습관에서 먼저 갈립니다.
 
-최종 업데이트: 2026-08-06 · 작성 관점: 방송 사례를 진단이나 치료 권고처럼 단정하지 않고, 여름철 피부 노화와 자외선 차단 정보를 찾는 독자가 생활 루틴과 진료 필요 신호를 구분할 수 있게 작성했습니다.
+최종 업데이트: 2026-11-20 · 작성 관점: 방송 사례를 진단이나 치료 권고처럼 단정하지 않고, 여름철 피부 노화와 자외선 차단 정보를 찾는 독자가 생활 루틴과 진료 필요 신호를 구분할 수 있게 작성했습니다.
 
 ## FAQ
 
@@ -141,3 +148,5 @@ KBS 공식 미리보기 기준 1003회 〈여름철 피부 더 젊게 더 건강
 - [국가암정보센터, 피부암](https://www.cancer.go.kr/lay1/program/S1T211C223/cancer/view.do?cancer_seq=5285&menu_seq=5296)
 - [서울아산병원 건강TV, 이런 점이 있다면 피부암을 의심해라](https://cancer.amc.seoul.kr/asan/healthtv/video/videoDetail.do?videoId=4645)
 - [대한민국 정책브리핑·식품의약품안전처, 자외선차단제 제대로 발라야 효과](https://www.korea.kr/news/policyNewsView.do?newsId=148965990)
+- [Wikimedia Commons, Japanese sunscreen (CC BY-SA 4.0)](https://commons.wikimedia.org/wiki/File:Japanese_sunscreen.jpg)
+- [Wikimedia Commons, White moisturizer (CC BY 3.0)](https://commons.wikimedia.org/wiki/File:White_moisturizer.jpg)

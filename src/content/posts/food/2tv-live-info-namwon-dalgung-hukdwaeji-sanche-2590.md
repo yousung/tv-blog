@@ -3,7 +3,7 @@ title: "2TV 생생정보 남원 달궁휴게소식당｜2590회 흑돼지산채�
 slug: "2tv-live-info-namwon-dalgung-hukdwaeji-sanche-2590"
 description: "2TV 생생정보 2590회 할매 밥 됩니까에 나온 남원 산내면 달궁휴게소식당 흑돼지산채정식 위치와 방문 전 확인할 점을 정리했습니다."
 date: "2026-08-12"
-updatedDate: "2026-08-16"
+updatedDate: "2026-11-20"
 status: "published"
 category: "food"
 program: "2TV 생생정보"
@@ -17,17 +17,21 @@ mapPlaceName: "달궁휴게소식당"
 mapLat: 35.4052933
 mapLng: 127.6154980
 tags: ["2TV 생생정보", "달궁휴게소식당", "남원 흑돼지산채정식", "지리산 맛집", "할매 밥 됩니까", "방송맛집"]
-image: "/images/broadcast/kbs-2tv-broadcast-note.svg"
-imageAlt: "2TV 생생정보 2590회 남원 달궁휴게소식당 방송 정보 대표 이미지"
+image: "/images/posts/2tv-live-info-namwon-dalgung-hukdwaeji-sanche-2590/dalgung-hukdwaeji-sanche-table.jpg"
+imageAlt: "달궁휴게소식당 흑돼지구이와 산나물 반찬, 더덕구이, 약초 백숙이 차려진 야외 평상 상차림"
 source:
   - "KBS 시청자상담실 [8월12일(수)] 방송정보, 2TV 생생정보 2590회"
   - "DiningCode 달궁휴게소식당 매장 정보"
+  - "네이버 플레이스 달궁휴게소식당 업체 등록 사진"
 author: "lovizu"
 ---
 
 지리산 쪽에서 밥집을 찾을 때는 맛보다 먼저 시간을 봐야 합니다. 산길 이동은 예상보다 길어지고, 휴게소형 식당은 성수기와 날씨에 따라 붐비는 시간이 달라집니다. **2TV 생생정보 2590회** `할매~ 밥 됩니까? - 봉순 할매의 흑돼지산채정식`에 나온 곳은 남원 산내면의 **달궁휴게소식당**입니다.
 
 KBS 공식 방송정보에는 상호, 연락처, 주소가 공개됐습니다. 흑돼지산채정식을 보고 방문하려는 분이라면 메뉴 가능 여부와 영업시간을 먼저 확인하고 움직이는 편이 좋습니다.
+
+![달궁휴게소식당 야외 평상 상차림, 흑돼지구이와 산나물 반찬 여러 가지, 쌈채소, 더덕구이, 약재를 넣은 백숙 냄비](/images/posts/2tv-live-info-namwon-dalgung-hukdwaeji-sanche-2590/dalgung-hukdwaeji-sanche-table.jpg)
+*사진: 달궁휴게소식당 네이버 플레이스 업체 등록 사진*
 
 ## 2TV 생생정보 달궁휴게소식당 방송 정보
 
@@ -50,7 +54,18 @@ KBS 공식 방송정보에는 상호, 연락처, 주소가 공개됐습니다. �
 
 공개 매장 정보에는 토종 흑돼지구이, 산채비빔밥, 백숙, 닭볶음탕 같은 메뉴가 함께 안내됩니다. 가격은 확인 시점 기준으로 달라질 수 있으니, 방송에 나온 정식 구성이 지금도 가능한지와 인원수별 주문 기준을 같이 물어보는 편이 안전합니다.
 
+![검은 철판 위에 구운 흑돼지 삼겹살과 볶은 김치, 옆에 마늘·고추 쌈장 반찬](/images/posts/2tv-live-info-namwon-dalgung-hukdwaeji-sanche-2590/dalgung-hukdwaeji-gui.jpg)
+*사진: 달궁휴게소식당 네이버 플레이스 업체 등록 사진(흑돼지구이)*
+
+![산나물 반찬과 계란프라이를 올린 산채비빔밥, 김치찌개 냄비가 놓인 평상 상차림](/images/posts/2tv-live-info-namwon-dalgung-hukdwaeji-sanche-2590/dalgung-sanchae-bibimbap-set.jpg)
+*사진: 달궁휴게소식당 네이버 플레이스 업체 등록 사진(산채비빔밥 상차림)*
+
 남원 시내에서 바로 들르는 식당이라기보다 지리산 산내면 동선에 넣기 좋은 위치입니다. 등산, 계곡, 숙소 이동 전후에 방문한다면 식사 시간을 너무 늦게 잡지 않는 편이 좋습니다. 방송 직후에는 문의와 대기가 늘 수 있습니다.
+
+![지리산 숲 아래 자리한 달궁휴게소식당 건물과 「토종 흑돼지」 간판, 전용주차장 현수막과 야외 평상 천막](/images/posts/2tv-live-info-namwon-dalgung-hukdwaeji-sanche-2590/dalgung-exterior.jpg)
+*사진: 달궁휴게소식당 네이버 플레이스 업체 등록 사진(외관)*
+
+건물 옆에 식당 전용주차장 현수막이 걸려 있고, 계곡 쪽으로 천막을 친 야외 평상 자리가 이어져 있습니다.
 
 ## 이런 분께 맞습니다
 
@@ -83,4 +98,4 @@ KBS 방송정보 기준 `봉순 할매의 흑돼지산채정식`으로 안내됐
 - [KBS 시청자상담실 2026년 8월 12일 방송정보](https://iaudience.kbs.co.kr/broadcast/11346)
 - [DiningCode 달궁휴게소식당 매장 정보](https://www.diningcode.com/profile.php?rid=kQnqXqp9cTaC)
 
-최종 업데이트: 2026-08-12 · 작성 관점: 방송을 보고 남원 달궁휴게소식당을 찾는 독자가 메뉴 가능 여부와 지리산 이동 동선을 먼저 판단할 수 있게 정리했습니다.
+최종 업데이트: 2026-11-20 · 작성 관점: 방송을 보고 남원 달궁휴게소식당을 찾는 독자가 메뉴 가능 여부와 지리산 이동 동선을 먼저 판단할 수 있게 정리했습니다.

@@ -3,7 +3,7 @@ title: "부안 310번 버스 여행 코스｜2TV 생생정보 변산명인바지
 slug: "2tv-live-info-buan-310-bus-trip"
 description: "2TV 생생정보 2026년 6월 23일 방송에 나온 부안 310번 버스 여행 코스를 정리했습니다. 변산명인바지락죽, 슬지제빵소, 곰소염전, 내소사, 격포항까지 묶는 흐름과 방문 전 확인할 점을 담았습니다."
 date: "2026-06-23"
-updatedDate: "2026-06-24"
+updatedDate: "2026-11-20"
 status: "published"
 category: "local"
 program: "2TV 생생정보"
@@ -11,8 +11,8 @@ episode: "2556회 (2026-06-23 방송분)"
 broadcastDate: "2026-06-23"
 region: "전북특별자치도 부안군"
 placeName: "부안 310번 버스 여행 코스"
-image: "https://commons.wikimedia.org/wiki/Special:Redirect/file/Korea-Buan_County-Chaeseokgang-01.jpg"
-imageAlt: "부안 채석강 해안 절벽과 바닷물이 보이는 풍경"
+image: "/images/posts/2tv-live-info-buan-310-bus-trip/chaeseokgang-cliff.jpg"
+imageAlt: "부안 격포 채석강의 책을 쌓아 올린 듯한 층층 해안 절벽과 바닷물"
 tags: ["2TV 생생정보", "부안 가볼만한곳", "부안 여행", "변산명인바지락죽", "슬지제빵소", "곰소염전", "격포항", "내소사"]
 source:
   - "KBS VOD 2TV 생생정보 2556회 (2026-06-23 방송분) 코너 목록"
@@ -29,6 +29,9 @@ author: "lovizu"
 핵심은 한 군데만 찍고 돌아오는 여행이 아니라는 점입니다. **변산명인바지락죽, 슬지제빵소, 곰소염전, 내소사, 격포항**처럼 부안 서쪽 동선을 한 줄로 묶어야 만족도가 올라갑니다. 방송을 보고 "부안 310번 버스 여행"을 다시 찾는 분들이 궁금해할 만한 흐름만 추려 정리했습니다.
 
 > 이 글은 2026년 6월 23일 방송분과 공개 기사에 나온 장소 정보를 바탕으로 정리했습니다. 외부 기사 일부에는 회차 번호가 다르게 적혀 있었지만, KBS VOD 목록상 최신 방송일은 **2026년 6월 23일, 2556회**로 확인됩니다. 버스 시간표와 운영 시간은 계절과 요일에 따라 달라질 수 있으니 출발 전 다시 확인하세요.
+
+![부안 격포항 안쪽 바다에 어선과 여객선이 떠 있고 왼쪽에 작은 산과 항구 건물이 보이는 풍경](/images/posts/2tv-live-info-buan-310-bus-trip/gyeokpo-port.jpg)
+*사진: 부안 격포항 전경 — Steve46814, CC BY-SA 4.0 (Wikimedia Commons)*
 
 ## 2TV 생생정보에 나온 부안 310번 버스 코스는 어떻게 묶으면 좋을까
 
@@ -50,10 +53,8 @@ author: "lovizu"
 
 그다음에는 슬지제빵소처럼 간식 포인트를 넣고, 곰소염전과 내소사, 격포항으로 이동하는 편이 무난합니다. 식사와 풍경을 번갈아 배치하면 걷기만 하거나 먹기만 하는 일정이 되지 않아 훨씬 덜 피곤합니다.
 
-<figure>
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Korea-Buan_County-Chaeseokgang-01.jpg" alt="부안 채석강 해안 절벽과 바닷물이 이어지는 풍경" loading="lazy" />
-  <figcaption>채석강 쪽 해안 풍경입니다. 부안 서쪽 코스를 묶을 때 격포항과 함께 가장 많이 찾는 지점이라, 310번 버스 여행의 분위기를 보여 주는 자료사진으로 넣었습니다. 사진: Republic of Korea, Wikimedia Commons, CC BY 2.0.</figcaption>
-</figure>
+![부안 격포 채석강의 책을 쌓아 올린 듯한 층층 해안 절벽과 아래로 들어온 바닷물](/images/posts/2tv-live-info-buan-310-bus-trip/chaeseokgang-cliff.jpg)
+*사진: 부안 격포 채석강 해안 절벽 — Byungjoon Kim, CC BY 2.0 (Wikimedia Commons). 격포항과 함께 부안 서쪽 코스에서 가장 많이 찾는 지점입니다.*
 
 ## 이런 분께 잘 맞습니다
 
@@ -63,10 +64,8 @@ author: "lovizu"
 
 반대로 `한적한 한 곳에서 오래 쉬는 여행`을 원한다면 이 코스는 다소 분주하게 느껴질 수 있습니다. 그런 경우에는 내소사나 격포항 한 축만 남기고 나머지를 줄이는 편이 낫습니다.
 
-<figure>
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Korea-Buan_County-Naesosa-Bongnaeru-01.jpg" alt="부안 내소사 봉래루와 주변 숲길 풍경" loading="lazy" />
-  <figcaption>내소사 봉래루 풍경입니다. 바다 쪽 동선만 돌기 아쉽다면, 숲길과 사찰 분위기를 더해 여행 리듬을 바꾸기 좋은 지점입니다. 사진: Republic of Korea, Wikimedia Commons, CC BY 2.0.</figcaption>
-</figure>
+![부안 내소사 경내의 오래된 목조 누각 봉래루와 뒤편 능가산 바위 봉우리](/images/posts/2tv-live-info-buan-310-bus-trip/naesosa-bongnaeru.jpg)
+*사진: 부안 내소사 봉래루 — Byungjoon Kim, CC BY 2.0 (Wikimedia Commons). 바다 쪽 동선만 돌기 아쉽다면 숲길과 사찰 분위기로 여행 리듬을 바꾸기 좋은 지점입니다.*
 
 ## 방문 전에 확인할 점
 
@@ -111,5 +110,6 @@ author: "lovizu"
 - 공공데이터포털 전국카페표준데이터: 슬지제빵소 좌표·주소
 - Wikimedia Commons: `Korea-Buan County-Chaeseokgang-01.jpg` (CC BY 2.0)
 - Wikimedia Commons: `Korea-Buan County-Naesosa-Bongnaeru-01.jpg` (CC BY 2.0)
+- Wikimedia Commons: `Gyeokpo Port 13-03902.JPG` (Steve46814, CC BY-SA 4.0)
 
 최종 업데이트: 2026-06-24

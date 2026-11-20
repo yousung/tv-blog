@@ -3,7 +3,7 @@ title: "6시 내고향 동해 경동식당｜8599회 묵호시장 동해 생선 
 slug: "6si-naegohyang-donghae-gyeongdong-sikdang-8599"
 description: "6시 내고향 8599회 수요일엔 수산물 동해 편에 나온 묵호시장 경동식당 위치, 방문 전 확인할 점을 정리했습니다."
 date: "2026-08-12"
-updatedDate: "2026-08-16"
+updatedDate: "2026-11-20"
 status: "published"
 category: "food"
 program: "6시 내고향"
@@ -15,16 +15,21 @@ address: "강원 동해시 묵호진동 묵호시장길 23"
 mapLat: 37.5525608
 mapLng: 129.1150362
 tags: ["6시 내고향", "동해 경동식당", "묵호시장 맛집", "동해 생선", "수요일엔 수산물", "방송맛집"]
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 8599회 동해 경동식당 방송 정보 대표 이미지"
+image: "/images/posts/6si-naegohyang-donghae-gyeongdong-sikdang-8599/gyeongdong-exterior.jpg"
+imageAlt: "6시 내고향 8599회에 나온 동해 묵호시장 경동식당 외관과 간판"
 source:
   - "KBS 시청자상담실 [8월12일(수)] 방송정보, 6시 내고향 8599회"
+  - "네이버 플레이스 경동식당 사진 탭 방문자 리뷰 사진·TV방송정보 (2026-11-20 조회)"
+  - "6시 내고향 공식 유튜브: 대구 철입니다 여러분 동해 묵호항으로 얼른 떠나요 (KBS 260812 방송)"
 author: "lovizu"
 ---
 
 묵호시장 근처에서 방송에 나온 식당을 찾을 때는 메뉴 이름보다 위치를 먼저 확인하는 편이 낫습니다. 시장 골목은 비슷한 상호와 생선 메뉴가 함께 보이기 때문입니다. **6시 내고향 8599회** `수요일엔 수산물 - 동해의 철없는 손님` 편에 공개된 식당 문의처는 **경동식당**입니다.
 
 KBS 공식 방송정보에는 상호, 전화번호, 주소가 함께 안내됐습니다. 방송 메뉴는 당일 수산물 수급에 따라 달라질 수 있으니, 방문 전에는 영업 여부와 가능한 메뉴를 확인하세요.
+
+![묵호시장 골목에 있는 경동식당 외관, 갈색 간판에 전화번호 535-0230과 유리문 메뉴 글씨](/images/posts/6si-naegohyang-donghae-gyeongdong-sikdang-8599/gyeongdong-exterior.jpg)
+*사진: 네이버 플레이스 '경동식당'(동해 묵호시장길 23) 사진 탭 방문자 리뷰 사진*
 
 ## 6시 내고향 동해 경동식당 방송 정보
 
@@ -37,13 +42,24 @@ KBS 공식 방송정보에는 상호, 전화번호, 주소가 함께 안내됐�
 | 주소 | 강원 동해시 묵호진동 묵호시장길 23 |
 | 문의 | 033-535-0230 |
 
+![흰 식탁 위에 대구전, 대구조림, 버너 위 대구맑은탕과 반찬이 차려진 '대구 요리 한 상' 장면](/images/posts/6si-naegohyang-donghae-gyeongdong-sikdang-8599/gyeongdong-kbs-daegu-hansang.jpg)
+*사진: KBS 1TV 6시 내고향 8599회(2026-08-12) '수요일엔 수산물 - 동해의 철없는 손님' 방송 장면 (출처: 6시 내고향 공식 유튜브)*
+
 <p><a href="https://map.naver.com/p/search/%EA%B0%95%EC%9B%90%20%EB%8F%99%ED%95%B4%EC%8B%9C%20%EB%AC%B5%ED%98%B8%EC%A7%84%EB%8F%99%20%EB%AC%B5%ED%98%B8%EC%8B%9C%EC%9E%A5%EA%B8%B8%2023%20%EA%B2%BD%EB%8F%99%EC%8B%9D%EB%8B%B9" target="_blank" rel="noopener">네이버 지도에서 경동식당 위치 보기</a></p>
 
 ## 묵호시장 식당은 당일 수급을 같이 봐야 합니다
 
 수산물 식당은 방송에 나온 장면만 보고 메뉴를 단정하기 어렵습니다. 계절, 조업 상황, 시장 물량에 따라 가능한 생선과 상차림이 달라질 수 있습니다. 묵호항이나 묵호시장 동선에 넣는다면 식사 시간을 넉넉히 잡고 움직이는 편이 좋습니다.
 
+![가스버너 위 냄비에서 얼큰하게 끓고 있는 경동식당 생선탕](/images/posts/6si-naegohyang-donghae-gyeongdong-sikdang-8599/gyeongdong-maeuntang.jpg)
+*사진: 네이버 플레이스 '경동식당'(동해 묵호시장길 23) 사진 탭 방문자 리뷰 사진*
+
 특히 방송 직후에는 문의가 몰릴 수 있습니다. 전화 연결이 어렵다면 피크 시간을 피해 다시 확인하고, 먼 지역에서 이동할 때는 주변 대체 식당도 함께 봐두세요.
+
+![경동식당 벽에 붙은 식사·회·주류 메뉴판과 가자미식해 안내문](/images/posts/6si-naegohyang-donghae-gyeongdong-sikdang-8599/gyeongdong-menu-board.jpg)
+*사진: 네이버 플레이스 '경동식당'(동해 묵호시장길 23) 사진 탭 방문자 리뷰 사진*
+
+메뉴판 가격은 방문 후기 사진 기준이라 현재 가격과 다를 수 있습니다. 주문 전 현장 메뉴판을 다시 확인하세요.
 
 ## 이런 분께 맞습니다
 

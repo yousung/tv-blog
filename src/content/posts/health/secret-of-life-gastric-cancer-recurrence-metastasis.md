@@ -3,7 +3,7 @@ title: "위암 재발과 전이, 무엇을 확인해야 할까｜생로병사의
 slug: "secret-of-life-gastric-cancer-recurrence-metastasis"
 description: "KBS 생로병사의 비밀 998회 2026 위암 보고서 재발과 전이 편을 바탕으로 위암 재발, 전이, 바이오마커 검사와 진료 전 확인할 질문을 정리했습니다."
 date: "2026-07-01"
-updatedDate: "2026-07-02"
+updatedDate: "2026-11-20"
 status: "published"
 category: "health"
 program: "생로병사의 비밀"
@@ -11,14 +11,15 @@ episode: "998회"
 broadcastDate: "2026-07-01"
 region: "전국"
 tags: ["위암", "위암 재발", "위암 전이", "바이오마커 검사", "표적치료", "면역항암제", "생로병사의 비밀", "건강검진"]
-image: "https://scf.static.kbs.co.kr/image/NBCONTENTSMYLOVEKBS/NBCONTENTSMYLOVEKBS_70000000403743_20260630_20260630104100_master_images_01.jpg"
-imageAlt: "KBS 생로병사의 비밀 998회 2026 위암 보고서 재발과 전이 공식 대표 이미지"
+image: "/images/posts/secret-of-life-gastric-cancer-recurrence-metastasis/gastric-cancer-3d-title.jpg"
+imageAlt: "생로병사의 비밀 998회 2026 위암 보고서 재발과 전이 타이틀, 반투명 인체 속 위와 장기를 붉게 표시한 3D 그래픽"
 source:
   - "KBS 생로병사의 비밀 998회, 2026-07-01 방송: 2026 위암 보고서 재발과 전이"
   - "KBS 디지털: 위암 3, 4기 환자에게도 새 희망...최신 위암 치료 전략의 모든 것"
   - "국가암정보센터: 위암 치료현황·생존율"
   - "국가암정보센터: 요약병기별 5년 상대생존율"
   - "서울아산병원 질환백과: 위암"
+  - "Wikimedia Commons: Flexibles Endoskop (Kalumet, CC BY-SA 3.0)"
 ---
 
 위암 수술을 마치고 몇 년을 버틴 사람에게 가장 무서운 말은 “재발”일 수 있습니다. 반대로 처음 진단을 받은 사람은 “몇 기인지”보다 “지금 치료 선택지가 남아 있는지”가 더 급합니다. KBS **생로병사의 비밀 998회 〈2026 위암 보고서 재발과 전이〉**는 바로 그 사이를 다뤘습니다.
@@ -38,6 +39,9 @@ source:
 이번 회차의 중심은 “위암은 재발하면 끝인가”라는 질문이었습니다. KBS 공식 자료에는 위 전절제술 후 완치 판정을 앞두고 재발과 다발성 전이를 겪은 사례, 수술 전 항암치료로 종양 크기가 줄어 수술 범위가 달라진 사례, 전이성 위암에서 바이오마커 검사로 치료 표적을 찾은 사례가 소개됐습니다.
 
 여기서 중요한 건 특정 치료법 하나가 모든 환자에게 답이라는 뜻이 아닙니다. 방송이 보여준 변화는 치료가 점점 **병기만 보는 방식에서 암의 특성과 환자의 몸 상태를 함께 보는 방식**으로 옮겨가고 있다는 점입니다. 같은 위암이라도 재발 위치, 전이 범위, 유전자·단백질 표지자, 체력, 기존 치료 이력에 따라 선택지가 달라질 수 있습니다.
+
+![반투명한 인체 그래픽 안에 위와 소장·대장이 붉게 표시되고 2026 위암 보고서 재발과 전이라는 제목이 적힌 장면](/images/posts/secret-of-life-gastric-cancer-recurrence-metastasis/gastric-cancer-3d-title.jpg)
+*사진: KBS 1TV 생로병사의 비밀 998회(2026-07-01) 〈2026 위암 보고서 재발과 전이〉 방송 장면 (KBS 디지털 공식 기사 이미지)*
 
 ## 위암은 왜 조기 발견과 전이 여부가 크게 갈릴까
 
@@ -76,6 +80,9 @@ source:
 ## 위암 검진과 증상, 어디서부터 챙겨야 할까
 
 위암은 초기에는 특별한 증상이 없거나 소화불량처럼 지나가기 쉽습니다. 서울아산병원 질환백과도 조기 위암은 증상이 없을 수 있고, 진행되면 체중 감소, 복통, 오심·구토, 식욕감퇴, 위장관 출혈 등이 나타날 수 있다고 안내합니다.
+
+![초록색 배경 위에 조작부와 길게 감긴 검은 관으로 이루어진 연성 내시경 기구](/images/posts/secret-of-life-gastric-cancer-recurrence-metastasis/flexible-endoscope.jpg)
+*사진: Kalumet, Wikimedia Commons (CC BY-SA 3.0) — 위내시경 검사에 쓰이는 연성 내시경 기구 참고 사진*
 
 생활에서 먼저 볼 기준은 단순합니다. 한두 번 속이 불편한 것과, **반복되는 변화**는 다르게 봐야 합니다.
 
@@ -124,7 +131,7 @@ source:
 
 정리하면, 생로병사의 비밀 998회가 남긴 핵심은 “위암 3기, 4기도 곧장 포기할 문제로만 보지 말라”보다 조금 더 구체적입니다. **재발과 전이는 빨리 확인해야 하고, 치료 선택은 암의 위치와 표지자, 환자의 몸 상태를 함께 봐야 한다**는 것입니다. 그 기준이 잡혀야 최신 치료라는 말도 내 상황에 맞는 정보가 됩니다.
 
-최종 업데이트: 2026-07-02 · 작성 관점: 방송 사례를 치료 권고처럼 단정하지 않고, 위암 재발·전이 관련 정보를 찾는 독자가 진료 전 확인할 질문과 검진 기준을 정리할 수 있게 작성했습니다.
+최종 업데이트: 2026-11-20 · 작성 관점: 방송 사례를 치료 권고처럼 단정하지 않고, 위암 재발·전이 관련 정보를 찾는 독자가 진료 전 확인할 질문과 검진 기준을 정리할 수 있게 작성했습니다.
 
 ## FAQ
 
@@ -155,3 +162,4 @@ KBS 공식 자료 기준 998회 〈2026 위암 보고서 재발과 전이〉는 
 - [국가암정보센터, 위암 치료현황·생존율](https://www.cancer.go.kr/lay1/program/S1T211C213/cancer/view.do?cancer_seq=4661&menu_seq=4680)
 - [국가암정보센터, 요약병기별 5년 상대생존율](https://cancer.go.kr/lay1/S1T648C652/contents.do)
 - [서울아산병원 질환백과, 위암](https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=30467)
+- [Wikimedia Commons, Flexibles Endoskop (CC BY-SA 3.0)](https://commons.wikimedia.org/wiki/File:Flexibles_Endoskop.jpg)

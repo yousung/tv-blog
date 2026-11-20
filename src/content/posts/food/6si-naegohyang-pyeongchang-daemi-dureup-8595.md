@@ -3,7 +3,7 @@ title: "6시 내고향 평창 대미농원 여름두릅｜8595회 택배 주문 
 slug: "6si-naegohyang-pyeongchang-daemi-dureup-8595"
 description: "6시 내고향 8595회 청산에 살리라에 나온 평창 대미농원 여름두릅 정보를 정리했습니다. 문의처, 스마트스토어, 홈페이지 주문과 보관 팁을 담았습니다."
 date: "2026-08-06"
-updatedDate: "2026-08-16"
+updatedDate: "2026-11-20"
 status: "published"
 category: "food"
 program: "6시 내고향"
@@ -13,19 +13,24 @@ region: "강원 평창"
 placeName: "대미농원"
 address: "강원특별자치도 평창군 방림면 대미길 455-94"
 tags: ["6시 내고향", "대미농원", "평창 여름두릅", "여름두릅", "청산에 살리라", "방송 농산물"]
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 8595회 평창 대미농원 여름두릅 방송 정보 대표 이미지"
+image: "/images/posts/6si-naegohyang-pyeongchang-daemi-dureup-8595/daemi-dureup-field.jpg"
+imageAlt: "6시 내고향 8595회 평창 대미농원 두릅 밭"
 source:
   - "KBS 시청자상담실 [8월6일(목)] 방송정보, 6시 내고향 8595회"
   - "KBS VOD 6시 내고향 8595회 (2026-08-06 방송)"
   - "대미농원 공식 홈페이지"
   - "대미농원 공식 스마트스토어"
+  - "네이버 플레이스 대미농원 업체 등록 사진 (2026-11-20 조회)"
+  - "6시 내고향 공식 유튜브: 언제나 당신과 함께, 귀농 만족도 999% 부부 (KBS 260806 방송)"
 author: "lovizu"
 ---
 
 두릅은 봄나물로만 기억하는 사람이 많지만, 방송에 나온 이름은 **여름두릅**입니다. **6시 내고향 8595회** `청산에 살리라 - 언제나 당신과 함께` 편에는 강원 평창의 **대미농원 여름두릅**이 소개됐고, KBS 방송정보에는 전국 택배 배송이 가능하다는 안내가 붙었습니다.
 
 다만 산나물류는 신선도와 손질 상태에 따라 만족도가 갈립니다. 주문 전에는 가격보다 수확 시기, 발송일, 보관 방법을 먼저 보는 편이 좋습니다.
+
+![넓은 잎 사이로 연둣빛 새순이 뾰족하게 올라온 여름두릅(이형두릅)](/images/posts/6si-naegohyang-pyeongchang-daemi-dureup-8595/kbs-8595-summer-dureup-shoot.jpg)
+*사진: KBS 1TV 6시 내고향 8595회(2026-08-06) '청산에 살리라 - 언제나 당신과 함께, 강원 평창' 방송 장면 (출처: 6시 내고향 공식 유튜브)*
 
 ## 6시 내고향 대미농원 여름두릅 방송 정보
 
@@ -43,11 +48,23 @@ author: "lovizu"
 | 스마트스토어 | https://smartstore.naver.com/daemifarm |
 | 홈페이지 주문 | https://daemi-garden-web.lovable.app |
 
+![산자락 아래 비닐하우스와 두릅밭, 진입로가 내려다보이는 평창 대미농원 항공 장면](/images/posts/6si-naegohyang-pyeongchang-daemi-dureup-8595/kbs-8595-daemi-farm-aerial.jpg)
+*사진: KBS 1TV 6시 내고향 8595회(2026-08-06) '청산에 살리라 - 언제나 당신과 함께, 강원 평창' 방송 장면 (출처: 6시 내고향 공식 유튜브)*
+
+![검은 비닐 멀칭 사이로 줄지어 자라는 대미농원 두릅 밭](/images/posts/6si-naegohyang-pyeongchang-daemi-dureup-8595/daemi-dureup-field.jpg)
+*사진: 네이버 플레이스 '대미농원'(평창 방림면) 업체 등록 사진*
+
 ## 여름두릅은 도착 후 바로 손질할 수 있을 때 주문하세요
 
 여름두릅은 향과 식감이 중요한 식재료입니다. 택배로 받는다면 도착일에 바로 확인하고, 먹을 양과 보관할 양을 나누는 편이 좋습니다. 특히 여름철에는 상온에 오래 두지 않는 것이 기본입니다.
 
+![끓는 물에 여름두릅 순을 넣어 데치는 장면](/images/posts/6si-naegohyang-pyeongchang-daemi-dureup-8595/kbs-8595-summer-dureup-blanching.jpg)
+*사진: KBS 1TV 6시 내고향 8595회(2026-08-06) '청산에 살리라 - 언제나 당신과 함께, 강원 평창' 방송 장면 (출처: 6시 내고향 공식 유튜브)*
+
 데쳐서 초장에 찍어 먹거나, 장아찌처럼 보관성이 있는 방식으로 활용할 수 있습니다. 다만 쓴맛과 향이 있는 나물이라 어린아이 식탁에는 호불호가 갈릴 수 있습니다. 처음 주문한다면 가족이 먹을 양을 과하게 잡지 않는 편이 낫습니다.
+
+![흰 식탁에 차린 두릅 숙회와 두릅 튀김, 초장과 나물 반찬](/images/posts/6si-naegohyang-pyeongchang-daemi-dureup-8595/kbs-8595-summer-dureup-table.jpg)
+*사진: KBS 1TV 6시 내고향 8595회(2026-08-06) '청산에 살리라 - 언제나 당신과 함께, 강원 평창' 방송 장면 (출처: 6시 내고향 공식 유튜브)*
 
 ## 방송 직후에는 발송 일정을 꼭 확인해야 합니다
 

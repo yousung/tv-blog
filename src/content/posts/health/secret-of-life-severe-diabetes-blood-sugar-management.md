@@ -3,7 +3,7 @@ title: "중증 당뇨병 관리, 혈당만 보면 놓치는 것｜생로병사�
 slug: "secret-of-life-severe-diabetes-blood-sugar-management"
 description: "KBS 생로병사의 비밀 999회 중증 당뇨병 편을 바탕으로 혈당 관리, 저혈당 대처, 합병증 검진과 진료 전 확인할 질문을 정리했습니다."
 date: "2026-07-08"
-updatedDate: "2026-07-09"
+updatedDate: "2026-11-20"
 status: "published"
 category: "health"
 program: "생로병사의 비밀"
@@ -11,8 +11,8 @@ episode: "999회"
 broadcastDate: "2026-07-08"
 region: "전국"
 tags: ["중증 당뇨병", "혈당 관리", "저혈당", "연속혈당측정기", "인슐린 펌프", "당뇨 합병증", "생로병사의 비밀", "당뇨병 관리"]
-image: "https://scf.static.kbs.co.kr/image/NBCONTENTSMYLOVEKBS/NBCONTENTSMYLOVEKBS_70000000403759_20260707_20260707105300_master_images_01.jpg"
-imageAlt: "KBS 생로병사의 비밀 999회 중증 당뇨병 관리 공식 대표 이미지"
+image: "/images/posts/secret-of-life-severe-diabetes-blood-sugar-management/glucose-meter-strips-lancet.jpg"
+imageAlt: "화면에 128mg/dL이 표시된 혈당측정기와 검사지, 채혈기가 함께 놓인 모습"
 source:
   - "KBS 생로병사의 비밀 999회, 2026-07-08 방송: 중증 당뇨병, 관리로 찾은 일상"
   - "KBS 디지털: 혈당과 함께 산다는 것...중증 당뇨 환자들의 치열한 24시간"
@@ -20,6 +20,8 @@ source:
   - "질병관리청 국가건강정보포털: 당뇨병"
   - "질병관리청 국가건강정보포털: 당뇨병 합병증과 저혈당"
   - "대한당뇨병학회 일반인 정보: 저혈당 관리 및 자가혈당측정"
+  - "KBS 공식 미리보기 게시판: 999회 중증 당뇨병, 관리로 찾은 일상"
+  - "Wikimedia Commons: 혈당측정기 사진 (Celeda, Confidence24, CC BY-SA 4.0)"
 ---
 
 혈당을 재는 일은 숫자 확인처럼 보이지만, 중증 당뇨병 환자에게는 하루 계획을 다시 짜는 일에 가깝습니다. 밥을 먹기 전, 운동을 하기 전, 잠들기 전에도 “지금 괜찮은가”를 확인해야 하니까요. KBS 생로병사의 비밀 999회 〈중증 당뇨병, 관리로 찾은 일상〉은 바로 그 피로와 현실을 다뤘습니다.
@@ -44,6 +46,9 @@ KBS 보도자료는 이번 회차의 부제를 〈중증 당뇨병, 관리로 �
 
 다른 한쪽은 어린 환자와 가족의 하루였습니다. 태권도 국가대표를 꿈꾸는 학생에게도 혈당 수치는 계속 따라붙습니다. 식사 전 인슐린 용량을 계산하고, 저혈당이 오면 주스나 간식으로 대응하고, 기기 알림이 울리면 주입 상태를 확인해야 합니다. 방송이 보여준 것은 특별한 환자담이 아니라, 당뇨병 관리가 생활 전체에 스며드는 방식이었습니다.
 
+![스마트폰 문자 화면에 Bolus 0.30U이 성공적으로 주입되었다는 인슐린 펌프 알림 메시지와 Bolus .3 답장이 빨간 상자로 강조된 장면](/images/posts/secret-of-life-severe-diabetes-blood-sugar-management/insulin-pump-remote-message.jpg)
+*사진: KBS 1TV 생로병사의 비밀 999회(2026-07-08) 방송 장면 (KBS 공식 미리보기 게시판)*
+
 ## 혈당 수치보다 먼저 봐야 할 것은 패턴입니다
 
 당뇨병 관리에서 혈당 수치는 기본입니다. 하지만 한 번의 숫자만 보고 “좋다, 나쁘다”를 판단하면 오히려 놓치는 것이 많습니다. 식사 전후, 운동 전후, 수면 중, 스트레스가 심한 날의 변화가 모여야 내 몸의 패턴이 보입니다.
@@ -63,6 +68,9 @@ KBS 보도자료는 이번 회차의 부제를 〈중증 당뇨병, 관리로 �
 
 기록은 완벽할 필요가 없습니다. 대신 “어느 상황에서 반복되는지”가 보여야 합니다. 진료실에서 막연히 “자주 높아요”라고 말하는 것보다, “저녁 운동 뒤 밤에 떨어집니다”처럼 패턴을 설명하는 편이 훨씬 실질적입니다.
 
+![줄무늬 천 위에 128mg/dL이 표시된 혈당측정기와 검사지 세 장, 채혈기가 놓인 모습](/images/posts/secret-of-life-severe-diabetes-blood-sugar-management/glucose-meter-strips-lancet.jpg)
+*사진: Celeda, Wikimedia Commons (CC BY-SA 4.0) — 자가혈당측정 기기 참고 사진*
+
 ## 저혈당은 참는 문제가 아니라 준비하는 문제입니다
 
 중증 당뇨병 관리에서 가장 불안한 순간 중 하나는 저혈당입니다. 대한당뇨병학회 일반인 정보는 대체로 혈당이 70mg/dL 이하로 떨어질 때 저혈당 증상이 나타날 수 있다고 설명합니다. 다만 사람마다 느끼는 증상과 기준은 다를 수 있습니다.
@@ -77,6 +85,9 @@ KBS 보도자료는 이번 회차의 부제를 〈중증 당뇨병, 관리로 �
 | 의식이 흐려진다 | 억지로 먹이지 말고 즉시 응급 도움을 요청한다 |
 
 질병관리청은 저혈당 위험이 있다면 평소 혈당을 자주 측정하고, 규칙적인 식사와 운동, 처방에 따른 약물 복용, 저혈당 대처법 숙지가 필요하다고 안내합니다. 여기서 기준은 “내가 조심하면 되겠지”에서 끝나지 않습니다. 가족·학교·직장 동료도 기본 대응을 알고 있어야 위급한 순간에 시간이 덜 허비됩니다.
+
+![지퍼 파우치 안에 혈당측정기와 채혈기, 검사지 통이 정리된 휴대용 혈당측정 세트](/images/posts/secret-of-life-severe-diabetes-blood-sugar-management/glucose-meter-kit-case.jpg)
+*사진: Confidence24, Wikimedia Commons (CC BY-SA 4.0) — 휴대용 혈당측정 세트 참고 사진*
 
 ## 합병증은 증상이 생긴 뒤에만 확인하면 늦을 수 있습니다
 
@@ -136,7 +147,7 @@ KBS 보도자료는 이번 회차의 부제를 〈중증 당뇨병, 관리로 �
 
 정리하면, 생로병사의 비밀 999회가 남긴 메시지는 “혈당을 열심히 재라”에서 멈추지 않습니다. **숫자를 기록하고, 패턴을 읽고, 저혈당과 합병증에 대비하고, 교육과 상담을 통해 관리 방식을 계속 조정해야 한다**는 쪽에 가깝습니다. 당뇨병은 혼자 참는 병이 아니라, 의료진과 가족, 생활 환경까지 함께 맞춰가야 하는 만성질환입니다.
 
-최종 업데이트: 2026-07-09 · 작성 관점: 방송 사례를 치료 권고처럼 단정하지 않고, 중증 당뇨병과 혈당 관리 정보를 찾는 독자가 진료 전 확인할 질문과 생활 기록 기준을 정리할 수 있게 작성했습니다.
+최종 업데이트: 2026-11-20 · 작성 관점: 방송 사례를 치료 권고처럼 단정하지 않고, 중증 당뇨병과 혈당 관리 정보를 찾는 독자가 진료 전 확인할 질문과 생활 기록 기준을 정리할 수 있게 작성했습니다.
 
 ## FAQ
 
@@ -169,3 +180,6 @@ KBS 공식 자료 기준 999회 〈중증 당뇨병, 관리로 찾은 일상〉�
 - [질병관리청 국가건강정보포털, 당뇨병 합병증 급성 합병증 저혈당](https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2350)
 - [질병관리청 국가건강정보포털, 당뇨병 합병증 만성 합병증](https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2351)
 - [대한당뇨병학회 일반인 정보, 저혈당 관리 및 자가혈당측정](https://www.diabetes.or.kr/general/info/treat/treat_03.php)
+- [KBS 공식 미리보기 게시판, 생로병사의 비밀 999회 〈중증 당뇨병, 관리로 찾은 일상〉](https://pbbs.kbs.co.kr/clip/read.html?bbs_id=T2002-0429-04-185153&id=1498856&post_no=341)
+- [Wikimedia Commons, Capteur de glycémie pour personnes diabétiques (CC BY-SA 4.0)](https://commons.wikimedia.org/wiki/File:Capteur_de_glyc%C3%A9mie_pour_personnes_diab%C3%A9tiques.jpg)
+- [Wikimedia Commons, Accu-Answer blood glucose meter with accessories (CC BY-SA 4.0)](https://commons.wikimedia.org/wiki/File:Accu-Answer_blood_glucose_meter_with_accessories.jpg)

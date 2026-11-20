@@ -3,7 +3,7 @@ title: "이태원 모터시티 디트로이트 피자｜생방송 투데이 4057
 slug: "saengbangsong-today-itaewon-motorcity-detroit-pizza"
 description: "생방송 투데이 4057회 맛있는 퇴근에 나온 이태원 모터시티 디트로이트 피자를 정리했습니다. 위치, 메뉴 가격대, 영업시간과 방문 전 체크 포인트를 담았습니다."
 date: "2026-07-23"
-updatedDate: "2026-08-16"
+updatedDate: "2026-11-20"
 status: "published"
 category: "food"
 program: "생방송 투데이"
@@ -14,8 +14,8 @@ placeName: "모터시티 이태원점"
 address: "서울 용산구 이태원로 140-1 2층"
 mapLat: 37.5340008
 mapLng: 126.9894230
-image: "/images/broadcast/sbs-today-broadcast-note.svg"
-imageAlt: "SBS 생방송 투데이 4057회 이태원 모터시티 디트로이트 피자 방송 정보 대표 이미지"
+image: "/images/posts/saengbangsong-today-itaewon-motorcity-detroit-pizza/jackson5-detroit-pizza.jpg"
+imageAlt: "철망 팬 위에 놓인 사각 디트로이트 피자 JACKSON 5, 바삭하게 구운 치즈 가장자리 위로 붉은 토마토 소스와 초록빛 소스가 줄지어 올라간 모습"
 tags: ["이태원 맛집", "모터시티", "디트로이트 피자", "이태원 피자", "맛있는 퇴근", "생방송 투데이", "방송맛집"]
 source:
   - "SBS 생방송 투데이 4057회 다시보기: 2026년 7월 23일 방송"
@@ -23,12 +23,16 @@ source:
   - "테이블링 모터 시티 본점 매장 정보: 주소, 전화, 영업시간, 메뉴 가격"
   - "Motor City 공식 소셜 미러 페이지: 주소, 전화, 영업 안내"
   - "OpenStreetMap Nominatim 주소 검색: 이태원로 140-1 좌표 후보"
+  - "네이버 플레이스 모터시티 이태원점 (업체 등록 메뉴 사진) https://m.place.naver.com/restaurant/38331689/menu/list"
 author: "lovizu"
 ---
 
 이태원에서 피자를 검색하면 화덕피자, 뉴욕식 조각피자, 펍 피자가 한꺼번에 나옵니다. 그중 **모터시티 이태원점**은 네모난 팬에 굽는 **디트로이트 피자**로 구분해 봐야 하는 집입니다. **생방송 투데이 4057회 맛있는 퇴근**은 퇴근길에 맥주와 함께 먹기 좋은 피자라는 흐름으로 이 집을 소개했습니다.
 
 방송만 보고 가면 `피자 한 판`이라는 말이 가볍게 들릴 수 있습니다. 하지만 디트로이트 스타일은 도우가 두툼하고 치즈 가장자리 식감이 강한 편이라, 얇고 담백한 피자를 기대하는 사람과는 취향이 갈립니다.
+
+![철망 팬 위에 놓인 사각 디트로이트 피자 JACKSON 5, 바삭하게 구운 치즈 가장자리 위로 붉은 토마토 소스와 초록빛 소스가 줄지어 올라간 모습](/images/posts/saengbangsong-today-itaewon-motorcity-detroit-pizza/jackson5-detroit-pizza.jpg)
+*사진: 모터시티 네이버 플레이스 업체 등록 메뉴 사진 (JACKSON 5)*
 
 ## 생방송 투데이 이태원 모터시티 기본 정보
 
@@ -49,7 +53,16 @@ author: "lovizu"
 
 디트로이트 피자는 둥근 피자보다 두께감이 있고, 사각 팬에 구운 가장자리 치즈 크러스트가 특징입니다. 모터시티를 찾는다면 얇고 바삭한 한 조각보다, 묵직한 도우와 토핑을 나눠 먹는 피맥 식사로 보는 편이 맞습니다.
 
+![철망 팬에 담긴 사각 클래식 페퍼로니 피자, 두툼한 치즈 위에 페퍼로니가 두 줄로 올라가고 가장자리가 짙게 구워진 모습](/images/posts/saengbangsong-today-itaewon-motorcity-detroit-pizza/classic-pepperoni.jpg)
+*사진: 모터시티 네이버 플레이스 업체 등록 메뉴 사진 (CLASSIC PEPPERONI)*
+
 테이블링 공개 정보 기준 Classic Pepperoni는 25,900원, HALF & HALF는 25,900원, Cheese Pizza는 24,900원으로 표시되어 있습니다. 리서치 기준 JACKSON 5와 Meatzza도 대표 메뉴로 확인됩니다. 다만 방송 이후 메뉴명, 가격, 라스트오더는 바뀔 수 있으므로 방문 전 매장 공지를 다시 확인하세요.
+
+![철망 팬 위 사각 피자 한 판에 한쪽은 페퍼로니와 버섯·고추, 다른 쪽은 큼직한 페퍼로니와 초록빛 소스가 올라간 반반 피자, 뒤로 타바스코와 치즈 가루 통이 놓인 모습](/images/posts/saengbangsong-today-itaewon-motorcity-detroit-pizza/half-and-half.jpg)
+*사진: 모터시티 네이버 플레이스 업체 등록 메뉴 사진 (HALF & HALF)*
+
+![철망 팬 위에 여덟 조각으로 잘린 사각 치즈 피자, 노릇하게 녹은 치즈와 바삭한 가장자리 옆으로 소스 종지가 놓인 모습](/images/posts/saengbangsong-today-itaewon-motorcity-detroit-pizza/cheese-pizza.jpg)
+*사진: 모터시티 네이버 플레이스 업체 등록 메뉴 사진 (CHEESE PIZZA)*
 
 ## 이태원 일정에 넣을 때 조심할 부분
 
@@ -86,7 +99,7 @@ author: "lovizu"
 **Q. 디트로이트 피자는 일반 피자와 무엇이 다른가요?**  
 사각 팬에 굽는 두툼한 스타일로, 치즈 가장자리와 도우의 밀도감이 강한 편입니다. 얇고 담백한 피자를 원한다면 취향이 갈릴 수 있습니다.
 
-최종 업데이트: 2026-08-16 · 작성 관점: 방송을 보고 이태원 모터시티 위치와 디트로이트 피자 메뉴를 찾는 독자가 메뉴 성격과 방문 동선을 먼저 판단할 수 있도록 정리했습니다. 가격과 운영 정보는 방문 전 공식 채널에서 다시 확인하세요.
+최종 업데이트: 2026-11-20 · 작성 관점: 방송을 보고 이태원 모터시티 위치와 디트로이트 피자 메뉴를 찾는 독자가 메뉴 성격과 방문 동선을 먼저 판단할 수 있도록 정리했습니다. 가격과 운영 정보는 방문 전 공식 채널에서 다시 확인하세요.
 
 ## 출처
 

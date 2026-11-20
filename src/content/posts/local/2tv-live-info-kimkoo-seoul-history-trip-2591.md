@@ -3,7 +3,7 @@ title: "2TV 생생정보 백범 김구 서울 역사 여행｜2591회 기념관�
 slug: "2tv-live-info-kimkoo-seoul-history-trip-2591"
 description: "2TV 생생정보 2591회 장PD의 AI 여행기 광복절 백범 김구 편에 나온 백범김구기념관, 경교장, 홍제폭포, 영천시장 코스를 정리했습니다."
 date: "2026-08-13"
-updatedDate: "2026-08-16"
+updatedDate: "2026-11-20"
 status: "published"
 category: "local"
 program: "2TV 생생정보"
@@ -17,8 +17,8 @@ mapPlaceName: "백범김구기념관"
 mapLat: 37.5440616
 mapLng: 126.9592148
 tags: ["2TV 생생정보", "백범 김구", "서울 역사 여행", "광복절 여행", "백범김구기념관", "경교장", "영천시장"]
-image: "/images/broadcast/kbs-2tv-broadcast-note.svg"
-imageAlt: "2TV 생생정보 2591회 백범 김구 서울 역사 여행 방송 정보 대표 이미지"
+image: "/images/posts/2tv-live-info-kimkoo-seoul-history-trip-2591/kimkoo-museum-exterior.jpg"
+imageAlt: "서울 용산구 효창공원 안 백범김구기념관 건물과 앞마당 잔디밭, 소나무"
 source:
   - "KBS 시청자상담실 [8월13일(목)] 방송정보, 2TV 생생정보 2591회"
   - "백범김구기념관 공식 홈페이지, 주소·관람 안내"
@@ -29,6 +29,9 @@ author: "lovizu"
 광복절 전후 서울 여행은 기념관 하나만 들러도 의미가 있지만, 동선을 잘 잡으면 하루 안에 역사와 시장 먹거리까지 같이 볼 수 있습니다. **2TV 생생정보 2591회** `장PD의 AI 여행기 - 광복절, 백범 김구를 만나다` 편은 백범 김구 선생의 발자취를 따라가는 서울 코스를 소개했습니다.
 
 방송정보에 공개된 장소는 **백범김구기념관**, **경교장**, **홍제폭포 복합문화센터**, **독립문 영천시장**입니다. 광복절 주간에는 방문객이 늘 수 있으니 휴무와 운영시간을 먼저 보는 편이 좋습니다.
+
+![효창공원 안 백범김구기념관 흰색 기둥 건물과 앞마당 잔디밭, 소나무](/images/posts/2tv-live-info-kimkoo-seoul-history-trip-2591/kimkoo-museum-exterior.jpg)
+*사진: 서울 용산구 백범김구기념관 외관 — DerPaul, CC BY-SA 3.0 (Wikimedia Commons)*
 
 ## 2TV 생생정보 백범 김구 서울 코스
 
@@ -43,13 +46,22 @@ author: "lovizu"
 
 ## 기념관과 경교장은 함께 보면 이해가 쉽습니다
 
-백범김구기념관은 김구 선생의 생애와 독립운동 흐름을 한 번에 볼 수 있는 곳입니다. 처음 가는 분이라면 이곳을 먼저 보고 경교장으로 이동하는 순서가 자연스럽습니다. 경교장은 대한민국 임시정부 주석 김구 선생이 머물렀던 공간이라는 점에서, 전시를 본 뒤 실제 장소를 이어 보는 느낌이 납니다.
+백범김구기념관은 김구 선생의 생애와 독립운동 흐름을 한 번에 볼 수 있는 곳입니다. 처음 가는 분이라면 이곳을 먼저 보고 경교장으로 이동하는 순서가 자연스럽습니다.
+
+![백범김구기념관 중앙홀 안쪽 태극기 앞에 놓인 흰색 김구 선생 좌상](/images/posts/2tv-live-info-kimkoo-seoul-history-trip-2591/kimkoo-museum-statue-hall.jpg)
+*사진: 백범김구기념관 중앙홀 김구 선생 좌상 — Lee Jeong Woo(이정우) / 문화체육관광부, CC BY-SA 4.0 (Wikimedia Commons)* 경교장은 대한민국 임시정부 주석 김구 선생이 머물렀던 공간이라는 점에서, 전시를 본 뒤 실제 장소를 이어 보는 느낌이 납니다.
+
+![서울 종로구 강북삼성병원 앞에 남아 있는 2층 서양식 건물 경교장 정면](/images/posts/2tv-live-info-kimkoo-seoul-history-trip-2591/gyeonggyojang-exterior.jpg)
+*사진: 서울 종로구 경교장 정면 — S. W. Moon, CC BY 3.0 (Wikimedia Commons)*
 
 두 곳 모두 실내 관람이 중심이라 한여름에도 부담이 덜합니다. 다만 광복절 주간에는 단체 방문과 가족 관람이 늘 수 있어, 폐관 시간에 맞춰 빠듯하게 움직이지 않는 편이 좋습니다.
 
 ## 영천시장은 역사 코스의 마무리로 잡기 좋습니다
 
 방송정보에는 독립문 영천시장과 함께 풍년떡집, 장군떡집, 카페 떡마을, 대성 도가니탕도 공개됐습니다. 역사 코스 뒤 식사나 간식을 찾는 분에게는 시장 동선이 붙어 있다는 점이 장점입니다.
+
+![독립문 영천시장 Yeongcheon Traditional Market이라고 적힌 주황색·하늘색 시장 입구 간판](/images/posts/2tv-live-info-kimkoo-seoul-history-trip-2591/dongnimmun-yeongcheon-market.jpg)
+*사진: 서대문구 독립문 영천시장 입구 — MonasteryInwang, CC0 (Wikimedia Commons)*
 
 다만 시장 내 개별 점포는 휴무와 재료 소진 시간이 다를 수 있습니다. 특히 떡집은 오전·낮 시간대와 오후 재고 상황이 달라질 수 있으니, 특정 메뉴를 보고 간다면 전화 확인이 필요합니다.
 
@@ -59,6 +71,9 @@ author: "lovizu"
 2. 경교장으로 이동해 김구 선생의 마지막 거처 확인
 3. 홍제폭포 복합문화센터에서 쉬어가기
 4. 독립문 영천시장에서 식사나 간식으로 마무리
+
+![서대문구 홍제천 바위 절벽을 따라 여러 갈래로 떨어지는 홍제폭포와 아래 물길](/images/posts/2tv-live-info-kimkoo-seoul-history-trip-2591/hongje-waterfall.jpg)
+*사진: 홍제천 인공폭포(홍제폭포), 복합문화센터 앞 풍경 — Huntsmanleader, CC0 (Wikimedia Commons)*
 
 아이와 함께라면 두 곳 이상을 욕심내기보다 백범김구기념관과 영천시장 정도로 줄이는 것도 좋습니다. 역사 공간은 설명을 읽는 시간이 길어질수록 체력이 빨리 떨어집니다.
 
@@ -77,5 +92,6 @@ author: "lovizu"
 
 - [KBS 시청자상담실 2026년 8월 13일 방송정보](https://iaudience.kbs.co.kr/broadcast/11347)
 - [백범김구기념관 공식 홈페이지](https://kimkoomuseum.org/main/)
+- 사진: Wikimedia Commons `Kim Koo Museum.jpg`(DerPaul, CC BY-SA 3.0), `Kim Koo Museum & Library (55198199998).jpg`(문화체육관광부 이정우, CC BY-SA 4.0), `경교장.jpg`(S. W. Moon, CC BY 3.0), `Hongjecheon Artificial Waterfall 2023-10-31.jpg`·`YeongcheonTraditionalMarket.jpg`(CC0)
 
 최종 업데이트: 2026-08-14 · 작성 관점: 광복절 전후 서울 역사 여행을 계획하는 독자가 백범 김구 관련 장소와 시장 동선을 하루 코스로 판단할 수 있게 정리했습니다.

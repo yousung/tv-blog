@@ -3,7 +3,7 @@ title: "용인 석암게찬 간장게장｜생방송 투데이 3786회 기흥 �
 slug: "saengbangsong-today-yongin-seokam-gechan-ganjang-gejang"
 description: "생방송 투데이 3786회 성공인 코너에 나온 용인 기흥 석암게찬. 간장게장 대표 메뉴와 고매동 위치, 방문 전 확인할 점을 정리했습니다."
 date: "2025-06-10"
-updatedDate: "2026-06-22"
+updatedDate: "2026-11-20"
 status: "published"
 category: "food"
 program: "생방송 투데이"
@@ -14,23 +14,26 @@ placeName: "석암게찬"
 address: "경기 용인시 기흥구 기흥단지로 64-5"
 mapLat: 37.2262977306874
 mapLng: 127.106212363607
-image: "https://matstar.sbs.co.kr/images/cms/10f18740-bfe5-4cde-a670-2fe19fb65f69.jpg"
-imageAlt: "생방송 투데이 3786회 석암게찬 간장게장 방송 장면"
+image: "/images/posts/saengbangsong-today-yongin-seokam-gechan-ganjang-gejang/gejang-hansang.jpg"
+imageAlt: "나무 칸막이 앞 상 위에 양념을 올린 암꽃게장과 전복장, 문어, 돌솥밥, 나무 상자에 담긴 반찬들이 차려진 석암게찬 게장 한상"
 tags: ["용인 맛집", "기흥 맛집", "고매동 맛집", "석암게찬", "용인 간장게장", "맥반석 간장게장", "생방송 투데이", "방송맛집"]
 source:
   - "SBS 생방송 투데이 3786회 다시보기 메타 정보(2025-06-10 방송분, '키워드 다큐 성공인' 코너)"
   - "SBS TV맛집 석암게찬 업체 정보(상호·주소·좌표·대표 메뉴·방송 클립 썸네일)"
+  - "네이버 플레이스 석암게찬 (업체 등록 사진·메뉴) https://m.place.naver.com/restaurant/1603703494/home"
 ---
 
 간장게장은 맛있어도 호불호가 분명하다. 간이 세면 밥도둑이 아니라 부담이 되고, 게 살이 부실하면 가격만 먼저 떠오른다. 생방송 투데이 3786회 '키워드 다큐 성공인'에 나온 용인 기흥구 **석암게찬**은 간장게장 하나를 전면에 세운 집으로 소개됐다. 방송에서는 '맥반석 간장게장'이라는 키워드가 붙었지만, 방문자가 실제로 확인해야 할 것은 맛의 비법보다 위치, 가격, 구성, 대기 여부다.
 
-![석암게찬 간장게장 방송 장면](https://matstar.sbs.co.kr/images/cms/10f18740-bfe5-4cde-a670-2fe19fb65f69.jpg)
-
-> 사진 출처: SBS TV맛집, 생방송 투데이 3786회 석암게찬 방송 정보 기준.
+![나무 칸막이 앞 상 위에 양념을 올린 암꽃게장과 전복장, 문어, 돌솥밥, 나무 상자에 담긴 반찬들이 차려진 석암게찬 게장 한상](/images/posts/saengbangsong-today-yongin-seokam-gechan-ganjang-gejang/gejang-hansang.jpg)
+*사진: 석암게찬 네이버 플레이스 업체 등록 사진 (게장 한상차림)*
 
 ## 방송에 나온 용인 간장게장집 정보
 
 석암게찬은 경기 용인시 기흥구 기흥단지로 64-5, 고매동에 있는 게장 전문점입니다. SBS TV맛집에는 대표 메뉴가 **간장게장**으로 등록되어 있고, 방송 클립에는 '간장게장 하나로 승부 보는 성공인'이라는 설명이 붙었습니다.
+
+![검은 접시에 주황빛 알이 찬 간장게장 등딱지와 게 몸통이 깨, 쪽파, 고추 고명과 함께 담기고 '알 꽉 찬 간장게장' 자막이 들어간 방송 장면](/images/posts/saengbangsong-today-yongin-seokam-gechan-ganjang-gejang/broadcast-ganjang-gejang.jpg)
+*사진: SBS 생방송 투데이 3786회(2025-06-10) 방송 장면, SBS TV맛집 공개 클립 썸네일*
 
 | 항목 | 내용 |
 | --- | --- |
@@ -45,6 +48,9 @@ source:
 ## 간장게장집은 무엇을 보고 가야 할까
 
 간장게장은 메뉴판 가격보다 구성이 더 중요합니다. 암꽃게인지, 게장 단품인지, 정식에 밥과 반찬이 어떻게 붙는지에 따라 체감 가격이 달라집니다. 방송에 나온 장면만으로 현재 판매 구성 전체를 단정하기는 어렵기 때문에, 방문 전에는 대표 메뉴명과 가격, 포장 가능 여부를 확인하세요.
+
+![석암게찬 메뉴판, 프리미엄 석암게찬 스페셜과 대표 메뉴 암꽃게장, 꽃게백숙·꽃게탕·LA갈비구이·전복구이 단품 메뉴와 가격이 적힌 모습](/images/posts/saengbangsong-today-yongin-seokam-gechan-ganjang-gejang/menu-board.jpg)
+*사진: 석암게찬 네이버 플레이스 업체 등록 사진 (메뉴판)*
 
 맛도 마찬가지입니다. 간장게장은 짠맛, 단맛, 게 살의 숙성 정도가 집마다 다릅니다. 자극적인 양념게장을 좋아하는 사람보다, 밥과 함께 먹는 간장게장 정식을 좋아하는 사람에게 더 맞는 주제입니다.
 
@@ -67,5 +73,5 @@ source:
 - [인천 삼대인천게장 간장게장 밥도둑, 동구 송림동 위치](/posts/saengbangsong-today-incheon-samdae-gejang/)
 - [화성 동탄 두부 맛집 온유담, 빙수 콩국수·두부 한상 위치](/posts/saengbangsong-today-hwaseong-onyudam-dubu/)
 
-최종 업데이트: 2026-06-22
+최종 업데이트: 2026-11-20
 

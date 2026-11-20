@@ -3,7 +3,7 @@ title: "중증 아토피 피부염 밤 가려움｜생로병사의 비밀 1003�
 slug: "secret-of-life-severe-atopic-dermatitis"
 description: "KBS 생로병사의 비밀 1003회 중증 아토피 피부염 편을 바탕으로 밤에 심한 가려움, 아토피 행진, 장기 치료와 산정특례 상담 전 확인할 점을 정리했습니다."
 date: "2026-08-12"
-updatedDate: "2026-08-13"
+updatedDate: "2026-11-20"
 status: "published"
 category: "health"
 program: "생로병사의 비밀"
@@ -11,7 +11,7 @@ episode: "1003회"
 broadcastDate: "2026-08-12"
 region: "전국"
 tags: ["중증 아토피 피부염", "밤 가려움", "아토피 행진", "아토피 산정특례", "생물학적 제제", "JAK 억제제", "생로병사의 비밀", "피부 건강"]
-image: "https://pbbsres.kbs.co.kr/T2002-0429-04-185153/2026/08/10/3435875_1786341979528.png"
+image: "/images/posts/secret-of-life-severe-atopic-dermatitis/atopic-dermatitis-title-card.jpg"
 imageAlt: "KBS 생로병사의 비밀 1003회 중증 아토피 피부염 공식 미리보기 이미지"
 source:
   - "KBS 생로병사의 비밀 1003회, 2026-08-12 방송: 밤새 긁는 고통, 중증 아토피 피부염"
@@ -20,6 +20,7 @@ source:
   - "질병관리청 국가건강정보포털: 아토피피부염"
   - "서울아산병원 질환백과: 아토피성 피부염"
   - "서울대학교병원 의학정보: 아토피 피부염"
+  - "Wikimedia Commons: White moisturizer (Kulmalukko, CC BY 3.0)"
 ---
 
 가려움은 참으면 지나가는 불편처럼 보이지만, 밤마다 잠을 깨울 정도가 되면 이야기가 달라집니다. 피부가 따갑고, 긁은 자리가 다시 가렵고, 잠을 설친 다음 날까지 무너지는 일이 반복되면 “피부가 예민한 편”이라는 말로는 설명이 부족합니다.
@@ -43,6 +44,9 @@ KBS **생로병사의 비밀 1003회 〈밤새 긁는 고통, 중증 아토피 �
 방송은 중증 아토피 피부염이 외모의 문제가 아니라 생활 전체의 문제라는 점을 짚었습니다. 잠을 충분히 자지 못하면 다음 날 집중력과 기분이 흔들리고, 피부가 보이는 부위에 증상이 반복되면 대인관계와 사회생활에도 부담이 생깁니다.
 
 질병관리청 국가건강정보포털도 아토피피부염이 수면 장애와 스트레스, 삶의 질 저하로 이어질 수 있다고 설명합니다. 그래서 중증 아토피 피부염을 볼 때는 피부 표면만 보지 말고, **잠을 얼마나 자는지, 긁어서 상처가 생기는지, 치료를 해도 얼마나 자주 재발하는지**를 함께 봐야 합니다.
+
+![3D 인체 그래픽 옆으로 붉게 일어난 피부 병변 사진 여러 장이 배치되고 밤새 긁는 고통 중증 아토피 피부염이라는 제목이 적힌 장면](/images/posts/secret-of-life-severe-atopic-dermatitis/atopic-dermatitis-title-card.jpg)
+*사진: KBS 1TV 생로병사의 비밀(2026-08-12) 〈밤새 긁는 고통, 중증 아토피 피부염〉 방송 장면 (KBS 공식 미리보기 게시판)*
 
 ## 밤에 심한 가려움은 왜 더 힘들게 느껴질까
 
@@ -110,6 +114,9 @@ KBS **생로병사의 비밀 1003회 〈밤새 긁는 고통, 중증 아토피 �
 
 생활 관리는 치료를 대신하지 않습니다. 그래도 피부 장벽을 덜 흔들리게 하는 기본 습관은 증상 기록과 함께 챙길 만합니다. 질병관리청은 실내 온도와 습도 관리, 피부 세정, 보습제 사용, 악화 요인 회피를 아토피피부염 관리에서 중요한 요소로 안내합니다.
 
+![베이지색 바탕 위에 짜 놓은 흰 크림형 보습제 한 덩이](/images/posts/secret-of-life-severe-atopic-dermatitis/white-moisturizer-cream.jpg)
+*사진: Kulmalukko, Wikimedia Commons (CC BY 3.0) — 크림형 보습제 참고 사진*
+
 ### 오늘부터 확인할 체크리스트
 
 - [ ] 샤워 후 오래 두지 않고 보습제를 바르는지
@@ -148,7 +155,7 @@ KBS **생로병사의 비밀 1003회 〈밤새 긁는 고통, 중증 아토피 �
 
 정리하면, 생로병사의 비밀 1003회가 남긴 메시지는 “가려움을 참아라”가 아닙니다. **밤잠을 깨우는 가려움은 삶 전체를 흔들 수 있고, 중증 아토피 피부염은 생활 관리와 전문 치료, 비용 상담까지 함께 봐야 하는 질환**이라는 쪽에 가깝습니다. 오래 버티는 것보다, 내 증상이 어느 단계인지 확인하는 일이 먼저입니다.
 
-최종 업데이트: 2026-08-13 · 작성 관점: 방송 사례를 특정 치료 효과로 일반화하지 않고, 중증 아토피 피부염과 밤 가려움 정보를 찾는 독자가 진료 전 증상 기록과 상담 질문을 정리할 수 있게 작성했습니다.
+최종 업데이트: 2026-11-20 · 작성 관점: 방송 사례를 특정 치료 효과로 일반화하지 않고, 중증 아토피 피부염과 밤 가려움 정보를 찾는 독자가 진료 전 증상 기록과 상담 질문을 정리할 수 있게 작성했습니다.
 
 ## FAQ
 
@@ -180,3 +187,4 @@ KBS 공식 미리보기와 VOD/TV클립 메타데이터 기준 1003회 〈밤새
 - [질병관리청 국가건강정보포털, 아토피피부염](https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6582)
 - [서울아산병원 질환백과, 아토피성 피부염](https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=31519&tabIndex=2)
 - [서울대학교병원 의학정보, 아토피 피부염](https://www.snuh.org/health/nMedInfo/nView.do?category=DIS&medid=AA000394)
+- [Wikimedia Commons, White moisturizer (CC BY 3.0)](https://commons.wikimedia.org/wiki/File:White_moisturizer.jpg)

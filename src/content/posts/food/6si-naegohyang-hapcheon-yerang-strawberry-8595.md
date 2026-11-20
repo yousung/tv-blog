@@ -3,7 +3,7 @@ title: "6시 내고향 합천 예랑 여름 딸기｜8595회 오프라인 구매
 slug: "6si-naegohyang-hapcheon-yerang-strawberry-8595"
 description: "6시 내고향 8595회에 나온 경남 합천 예랑 여름 딸기 정보를 정리했습니다. 위치, 구매 가능 방식, 택배 불가 안내와 방문 전 확인할 점을 담았습니다."
 date: "2026-08-06"
-updatedDate: "2026-08-16"
+updatedDate: "2026-11-20"
 status: "published"
 category: "food"
 program: "6시 내고향"
@@ -13,17 +13,22 @@ region: "경남 합천군 가야면"
 placeName: "예랑"
 address: "경남 합천군 가야면 치인리 890번지"
 tags: ["6시 내고향", "합천 예랑", "합천 딸기", "여름 딸기", "경남 합천", "방송 농산물"]
-image: "/images/broadcast/kbs-1tv-6si-naegohyang-note.svg"
-imageAlt: "6시 내고향 8595회 합천 예랑 여름 딸기 방송 정보 대표 이미지"
+image: "/images/posts/6si-naegohyang-hapcheon-yerang-strawberry-8595/yerang-strawberry-fruit.jpg"
+imageAlt: "초록 잎 사이에 매달린 여름딸기 신품종 예랑 과실"
 source:
   - "KBS 시청자상담실 [8월6일(목)] 방송정보, 6시 내고향 8595회"
   - "농촌진흥청 보도자료, 다수확용 여름딸기 신품종 예랑 농가소득 향상 기대 (2026-07-07)"
+  - "KBS창원 공식 유튜브 [6시 내고향 - 창원] 여름이 제철인 딸기! 예랑 (2026-08-06 방송)"
+  - "농촌진흥청 제공 예랑 과실 사진 (경남일보·농업정보신문 보도 게재)"
 author: "lovizu"
 ---
 
 딸기는 겨울 과일이라는 인식이 강해서, 여름 딸기라는 말이 먼저 낯설게 느껴질 수 있습니다. **6시 내고향 8595회**는 경남 합천 가야면의 `여름이 제철인 딸기! 예랑`을 소개했습니다. 방송을 보고 바로 주문부터 찾는다면 한 가지를 먼저 봐야 합니다. KBS 방송정보 기준으로 **택배 배송은 어렵고, 모종과 딸기는 오프라인 구매가 가능**하다고 안내됐습니다.
 
 즉 이 글은 온라인 주문 링크를 찾는 글이 아니라, 합천 현장 구매를 생각하는 분이 주소와 확인 순서를 정리해보는 글에 가깝습니다.
+
+![고설 재배 베드에 줄줄이 매달린 빨간 여름딸기](/images/posts/6si-naegohyang-hapcheon-yerang-strawberry-8595/kbs-8595-yerang-hanging-strawberries.jpg)
+*사진: KBS 1TV 6시 내고향 8595회(2026-08-06) '여름이 제철인 딸기! 예랑' 방송 장면 (출처: KBS창원 공식 유튜브 클립)*
 
 ## 6시 내고향 합천 예랑 방송 정보
 
@@ -37,6 +42,9 @@ author: "lovizu"
 | 주소 | 경남 합천군 가야면 치인리 890번지 |
 | 구매 안내 | 택배 배송 어려움, 모종·딸기 오프라인 구매 가능 |
 
+![초록 잎 사이에 매달린 빨간 예랑 딸기 한 알과 덜 익은 흰 딸기](/images/posts/6si-naegohyang-hapcheon-yerang-strawberry-8595/yerang-strawberry-fruit.jpg)
+*사진: 농촌진흥청 제공 여름딸기 신품종 '예랑' 과실 사진 (2026년 7월 합천 현장 평가회 보도자료)*
+
 <p><a href="https://map.naver.com/p/search/%EA%B2%BD%EB%82%A8%20%ED%95%A9%EC%B2%9C%EA%B5%B0%20%EA%B0%80%EC%95%BC%EB%A9%B4%20%EC%B9%98%EC%9D%B8%EB%A6%AC%20890%20%EC%98%88%EB%9E%91" target="_blank" rel="noopener">네이버 지도에서 합천 예랑 위치 검색하기</a></p>
 
 ## 여름 딸기는 택배보다 현장 확인이 먼저입니다
@@ -45,11 +53,17 @@ author: "lovizu"
 
 합천까지 이동해야 한다면 전화 한 통이 가장 현실적인 준비입니다. "오늘 딸기 구매가 가능한지", "방문 시간대가 정해져 있는지", "모종 구매도 가능한지"를 묻고 출발하면 헛걸음을 줄일 수 있습니다.
 
+![합천 가야면 유리온실 안에 길게 이어진 여름딸기 고설 재배 베드](/images/posts/6si-naegohyang-hapcheon-yerang-strawberry-8595/kbs-8595-yerang-greenhouse-rows.jpg)
+*사진: KBS 1TV 6시 내고향 8595회(2026-08-06) '여름이 제철인 딸기! 예랑' 방송 장면 (출처: KBS창원 공식 유튜브 클립)*
+
 ## 합천 가야면 방문 동선도 같이 봐야 합니다
 
 주소는 `경남 합천군 가야면 치인리 890번지`로 공개됐습니다. 합천 가야면은 해인사와 가야산 방면 동선으로 묶어 찾는 사람이 많은 지역입니다. 방송을 보고 농장만 찍고 가기보다, 주변 일정과 이동 시간을 함께 보는 쪽이 편합니다.
 
 다만 농산물 구매는 일반 매장 방문과 다릅니다. 수확 상황, 현장 응대 가능 시간, 날씨에 따라 판매 방식이 달라질 수 있습니다. 특히 여름철에는 보냉가방이나 아이스팩을 준비하면 이동 중 품질 관리에 도움이 됩니다.
+
+![그릇에 소복하게 담은 갓 수확한 예랑 딸기와 딸기꽃](/images/posts/6si-naegohyang-hapcheon-yerang-strawberry-8595/kbs-8595-yerang-harvested-strawberries.jpg)
+*사진: KBS 1TV 6시 내고향 8595회(2026-08-06) '여름이 제철인 딸기! 예랑' 방송 장면 (출처: KBS창원 공식 유튜브 클립)*
 
 ## 이런 분께 맞습니다
 

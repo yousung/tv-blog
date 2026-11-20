@@ -15,6 +15,7 @@ address: "충북 청주시 상당구 남일면 단재로 707-2 1층"
 mapLat: 36.5687162
 mapLng: 127.5110507
 image: "/images/posts/2tv-live-info-cheongju-beodeul-yugane-nurungji-samgyetang-2616/hero-nurungji-samgyetang.jpg"
+imageAlt: "검은 뚝배기 속 국물 위에 노릇하게 구운 누룽지가 덮인 버들 유가네 누룽지삼계탕"
 tags:
   [
     "방송맛집",

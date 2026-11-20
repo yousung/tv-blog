@@ -3,7 +3,7 @@ title: "해방촌 여행 코스｜2TV 생생정보 장PD의 AI 여행기 신흥�
 slug: "2tv-live-info-haebangchon-trip"
 description: "2026년 7월 10일 2TV 생생정보 장PD의 AI 여행기에 나온 서울 용산 해방촌 여행 코스. 신흥시장, 후암동 108계단, 방송 소개 장소를 정리했습니다."
 date: "2026-07-10"
-updatedDate: "2026-07-14"
+updatedDate: "2026-11-20"
 status: "published"
 category: "local"
 program: "2TV 생생정보"
@@ -15,8 +15,8 @@ address: "서울 용산구 용산동2가 1-1342"
 mapLat: 37.5430500
 mapLng: 126.9855800
 tags: ["2TV 생생정보", "장PD의 AI 여행기", "해방촌", "해방촌 신흥시장", "후암동 108계단", "용산 여행", "서울 골목 여행"]
-image: "https://upload.wikimedia.org/wikipedia/commons/7/78/Seoul_Yongsan_Haebangchon_20250206.jpg"
-imageAlt: "서울 용산구 해방촌 언덕과 건물 전경"
+image: "/images/posts/2tv-live-info-haebangchon-trip/haebangchon-overview.jpg"
+imageAlt: "서울 용산구 해방촌 언덕 위로 성당 첨탑과 빽빽한 주택가가 보이는 전경"
 source:
   - "KBS 시청자상담실 2026년 7월 10일 2TV 생생정보 방송정보"
   - "Wikimedia Commons, File: Seoul Yongsan Haebangchon 20250206.jpg"
@@ -46,9 +46,8 @@ KBS 방송정보에는 해방촌 문화거리, 쟈키러브, 해방촌 신흥시
 
 <p><a href="https://map.naver.com/p/search/%ED%95%B4%EB%B0%A9%EC%B4%8C%20%EC%8B%A0%ED%9D%A5%EC%8B%9C%EC%9E%A5" target="_blank" rel="noopener">네이버 지도에서 해방촌 신흥시장 검색하기</a></p>
 
-![서울 용산구 해방촌 언덕과 건물 전경](https://upload.wikimedia.org/wikipedia/commons/7/78/Seoul_Yongsan_Haebangchon_20250206.jpg)
-
-이미지 출처: 서울관광재단 공개 이미지, Wikimedia Commons 재게시 파일. 파일 페이지 기준 KOGL Type 1로 출처 표시 시 이용 가능한 자료입니다.
+![서울 용산구 해방촌 언덕 위로 성당 첨탑과 빽빽한 주택가가 보이는 전경](/images/posts/2tv-live-info-haebangchon-trip/haebangchon-overview.jpg)
+*사진: 서울 용산구 해방촌 전경 — 서울관광재단, 공공누리 제1유형 (Wikimedia Commons)*
 
 ## 처음 간다면 신흥시장과 108계단을 기준점으로 잡으세요
 
@@ -56,11 +55,20 @@ KBS 방송정보에는 해방촌 문화거리, 쟈키러브, 해방촌 신흥시
 
 신흥시장 주변은 작은 가게와 카페, 음식점이 이어지는 구간입니다. 서울시 공식 소개 페이지에서도 해방촌 신흥시장은 낡은 시장 공간이 가게와 작업실, 음식점으로 다시 채워진 골목으로 설명됩니다. 르몽블랑처럼 방송정보에 나온 상점은 영업시간과 휴무가 바뀔 수 있으니, 특정 메뉴를 목표로 간다면 출발 전에 최신 공지를 확인하세요.
 
+![해방촌 신흥시장 골목 입구에 걸린 1953 신흥시장 HAEBANGCHON 분홍색 아치 간판과 투명 지붕 골목](/images/posts/2tv-live-info-haebangchon-trip/sinheung-market-gate.jpg)
+*사진: 해방촌 신흥시장 입구 간판 — Lee Jeong Woo(이정우) / 문화체육관광부, CC BY-SA 4.0 (Wikimedia Commons)*
+
 ## 해방촌은 예쁜 골목보다 오르막 동선이 먼저입니다
 
 해방촌 여행에서 가장 현실적인 변수는 체력입니다. 짧은 거리라도 오르막과 계단이 이어지면 예상보다 시간이 걸립니다. 부모님이나 아이와 함께 간다면 한 번에 많이 걷기보다, 카페나 식당을 중간 쉼표로 넣는 편이 낫습니다.
 
+![비탈을 따라 층층이 들어선 해방촌 주택가와 멀리 보이는 성당 첨탑](/images/posts/2tv-live-info-haebangchon-trip/haebangchon-hillside-houses.jpg)
+*사진: 비탈에 들어선 해방촌 주택가 — Lee Jeong Woo(이정우) / 문화체육관광부, CC BY-SA 4.0 (Wikimedia Commons)*
+
 후암동 108계단은 해방촌의 지형을 가장 선명하게 보여주는 장소 중 하나입니다. 다만 계단 자체가 목적지가 되기보다, 주변 골목과 남산 방향 풍경을 함께 보는 코스로 잡는 편이 자연스럽습니다.
+
+![후암동 108계단 옆으로 경사형 엘리베이터 승강장과 유리 지붕이 함께 놓인 긴 계단길](/images/posts/2tv-live-info-haebangchon-trip/huamdong-108-stairs.jpg)
+*사진: 후암동 108계단과 경사형 엘리베이터 — Lee Jeong Woo(이정우) / 문화체육관광부, CC BY-SA 4.0 (Wikimedia Commons)*
 
 ## 이런 분께 맞고, 이런 경우에는 코스를 줄이세요
 
@@ -91,6 +99,7 @@ KBS 방송정보에는 해방촌 문화거리, 쟈키러브, 해방촌 신흥시
 
 - KBS 시청자상담실, 2026년 7월 10일 2TV 생생정보 방송정보
 - Wikimedia Commons, `File: Seoul Yongsan Haebangchon 20250206.jpg`
+- Wikimedia Commons, `Haebangchon (55192248983).jpg`·`(55192096211).jpg`·`(55192248768).jpg` (문화체육관광부 이정우, CC BY-SA 4.0)
 - 서울시 저작권 정책, 공공누리 KOGL Type 1 안내
 - Seoul Metropolitan Government, `Haebangchon Sinheung Market`
 - 네이버 지도 해방촌 신흥시장 검색

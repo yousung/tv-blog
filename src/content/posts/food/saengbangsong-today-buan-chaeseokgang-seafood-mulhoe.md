@@ -3,7 +3,7 @@ title: "부안 채석강바다길식당 물회｜생방송 투데이 3784회 해
 slug: "saengbangsong-today-buan-chaeseokgang-seafood-mulhoe"
 description: "생방송 투데이 3784회 부안 여행 편에 나온 채석강바다길식당. 해삼·말미잘·전복 물회와 변산면 위치, 방문 전 확인할 점을 정리했습니다."
 date: "2025-06-06"
-updatedDate: "2026-06-22"
+updatedDate: "2026-11-20"
 status: "published"
 category: "food"
 program: "생방송 투데이"
@@ -14,19 +14,19 @@ placeName: "채석강바다길식당"
 address: "전북특별자치도 부안군 변산면 닭이봉길 18-16"
 mapLat: 35.6270151045994
 mapLng: 126.468647853865
-image: "https://matstar.sbs.co.kr/images/cms/5850eaf8-a2f5-466c-b9f8-31485a703e5a.jpg"
-imageAlt: "생방송 투데이 3784회 채석강바다길식당 해삼 말미잘 전복 물회 방송 장면"
+image: "/images/posts/saengbangsong-today-buan-chaeseokgang-seafood-mulhoe/broadcast-haesam-malmijal-jeonbok-mulhoe.jpg"
+imageAlt: "스테인리스 그릇에 해삼과 말미잘, 칼집 낸 전복, 채소가 담기고 ‘해삼 말미잘 전복 물회’ 자막이 들어간 생방송 투데이 3784회 방송 장면"
 tags: ["부안 맛집", "변산 맛집", "채석강 맛집", "채석강바다길식당", "부안 물회", "전복 물회", "생방송 투데이", "방송맛집"]
 source:
   - "SBS 생방송 투데이 3784회 다시보기 메타 정보(2025-06-06 방송분, 부안 여행 코너)"
   - "SBS TV맛집 채석강바다길식당 업체 정보(상호·주소·좌표·대표 메뉴·방송 클립 썸네일)"
+  - "네이버 플레이스 채석강바다길식당 (업체 등록 사진·메뉴) https://m.place.naver.com/restaurant/1355972910/home"
 ---
 
 채석강이나 격포항 쪽을 여행하다 보면 식사는 자연스럽게 해산물로 기운다. 문제는 메뉴가 비슷해 보여도 실제 만족도는 재료 신선도와 구성에서 갈린다는 점이다. 생방송 투데이 3784회 부안 여행 편에 나온 **채석강바다길식당**은 해삼, 말미잘, 전복을 넣은 물회로 소개된 곳이다. 물회 한 그릇을 먹으러 갈지, 부안 여행 동선 안에서 들를지 먼저 정해두면 선택이 쉬워진다.
 
-![채석강바다길식당 해삼 말미잘 전복 물회 방송 장면](https://matstar.sbs.co.kr/images/cms/5850eaf8-a2f5-466c-b9f8-31485a703e5a.jpg)
-
-> 사진 출처: SBS TV맛집, 생방송 투데이 3784회 채석강바다길식당 방송 정보 기준.
+![스테인리스 그릇에 해삼과 말미잘, 칼집 낸 전복, 채소가 담기고 '해삼 말미잘 전복 물회' 자막이 들어간 생방송 투데이 3784회 방송 장면](/images/posts/saengbangsong-today-buan-chaeseokgang-seafood-mulhoe/broadcast-haesam-malmijal-jeonbok-mulhoe.jpg)
+*사진: SBS 생방송 투데이 3784회(2025-06-06) 방송 장면, SBS TV맛집 공개 클립 썸네일*
 
 ## 방송에 나온 부안 물회집 정보
 
@@ -42,9 +42,15 @@ source:
 
 위치는 채석강·격포권 여행 동선과 맞닿아 있습니다. 부안 바다 여행 중 점심이나 이른 저녁 식사로 묶기 좋지만, 성수기에는 주변 주차와 식당 대기가 변수일 수 있습니다.
 
+![흰 벽에 붙은 채석강바다길식당 차림표, 해삼·멍게·낙지·전복 단품과 조합 메뉴, 2인분 물회, 멍게비빔밥·바지락칼국수 같은 식사 메뉴가 적힌 모습](/images/posts/saengbangsong-today-buan-chaeseokgang-seafood-mulhoe/menu-board.jpg)
+*사진: 채석강바다길식당 네이버 플레이스 업체 등록 사진 (매장 차림표)*
+
 ## 해산물 물회는 계절과 컨디션을 같이 봐야 합니다
 
 해삼, 말미잘, 전복이 들어가는 물회는 재료감이 강한 메뉴입니다. 새콤달콤한 육수만 기대하기보다 해산물 식감과 향을 함께 좋아하는 사람에게 맞습니다. 말미잘처럼 생소한 재료가 들어가면 익숙한 광어·오징어 물회와는 결이 다를 수 있습니다.
+
+![흰 타원 접시에 전복, 해삼, 멍게, 낙지가 구역별로 나뉘어 담기고 파슬리와 참깨로 장식된 해산물 모둠](/images/posts/saengbangsong-today-buan-chaeseokgang-seafood-mulhoe/jeon-hae-meong-nak-platter.jpg)
+*사진: 채석강바다길식당 네이버 플레이스 업체 등록 메뉴 사진 (전.해.멍.낙)*
 
 여름철에는 시원한 물회 수요가 크게 늘어납니다. 방송에 나온 메뉴가 계속 같은 구성으로 제공되는지, 재료 수급에 따라 달라지는지 방문 전에 확인하면 헛걸음을 줄일 수 있습니다.
 
@@ -67,5 +73,5 @@ source:
 - [울진 죽변항 곰치국 맛집 유정식당, 문어볶음 위치](/posts/2tv-live-info-uljin-jukbyeon-yujeong-gomchiguk/)
 - [속초 은빛바다 가자미조림·오징어순대 먹기 전 확인](/posts/2tv-live-info-sokcho-eunbit-bada-gajami/)
 
-최종 업데이트: 2026-06-22
+최종 업데이트: 2026-11-20
 

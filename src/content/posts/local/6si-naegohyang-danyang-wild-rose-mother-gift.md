@@ -3,7 +3,7 @@ title: "6시 내고향 단양 찔레 이야기｜청산에 살리라 어머니�
 slug: "6si-naegohyang-danyang-wild-rose-mother-gift"
 description: "6시 내고향 8570회 청산에 살리라 충북 단양 편, 어머니가 남긴 선물과 찔레 소재를 정리했습니다. 단양 여행 전 함께 보면 좋은 관람 태도와 확인할 점을 담았습니다."
 date: "2026-07-02"
-updatedDate: "2026-07-03"
+updatedDate: "2026-11-20"
 status: "published"
 category: "local"
 program: "6시 내고향"
@@ -11,18 +11,23 @@ episode: "8570회 (2026-07-02 방송분)"
 broadcastDate: "2026-07-02"
 region: "충북 단양군"
 placeName: "충북 단양 청산에 살리라"
-image: "https://img.kbs.co.kr/kbs/960x540/https://mediafactory.play.kbs.co.kr/clip/2026/07/02/6a463eab97e0adefd83beb2b/thumbnail/6a463eab97e0adefd83beb2b_0_1782988778423.jpg"
-imageAlt: "6시 내고향 청산에 살리라 충북 단양 어머니가 남긴 선물 찔레 방송 장면"
+image: "/images/posts/6si-naegohyang-danyang-wild-rose-mother-gift/dried-wild-rose-buds.jpg"
+imageAlt: "6시 내고향 청산에 살리라 충북 단양 편, 타공 스테인리스 채반 위에 하트 모양으로 펼쳐 말리는 분홍·자줏빛 꽃봉오리"
 tags: ["6시 내고향", "청산에 살리라", "충북 단양", "단양 찔레", "어머니가 남긴 선물", "단양 여행", "고향 이야기"]
 source:
   - "KBS VOD: 6시 내고향 8570회 (2026-07-02)"
   - "KBS 공식 클립: 청산에 살리라 - 어머니가 남긴 선물, 충북 단양"
+  - "한국관광공사 대한민국 구석구석: 도담삼봉·사인암"
+  - "Wikimedia Commons: Rosa multiflora white flowers (texas_mustang, CC BY 2.0)"
 author: "lovizu"
 ---
 
 방송에 나온 지역을 찾을 때 늘 식당 이름이나 주소만 필요한 것은 아닙니다. 어떤 편은 장소보다 사람이 먼저 남고, 어떤 장면은 한 가지 식물이나 물건이 이야기를 끌고 갑니다. **6시 내고향 8570회 청산에 살리라 충북 단양 편**은 그런 쪽에 가깝습니다. 제목은 **어머니가 남긴 선물**, 화면에 또렷하게 잡힌 소재는 **찔레**였습니다.
 
 단양은 도담삼봉, 만천하스카이워크, 구경시장처럼 검색되는 여행지가 많습니다. 그런데 `청산에 살리라`가 보여주는 단양은 관광지 동선보다 산자락 생활에 더 가깝습니다. 이 글도 특정 상호나 체험장을 단정하지 않고, 방송에서 확인되는 소재와 시청 후 찾아볼 만한 기준을 중심으로 정리합니다.
+
+![타공 스테인리스 채반 위에 분홍·자줏빛 꽃봉오리를 하트 모양으로 펼쳐 말리는 장면](/images/posts/6si-naegohyang-danyang-wild-rose-mother-gift/dried-wild-rose-buds.jpg)
+*사진: KBS 1TV 6시 내고향 8570회(2026-07-02) 청산에 살리라 방송 장면 (KBS 공식 클립)*
 
 ## 6시 내고향 단양 청산에 살리라 기본 정보
 
@@ -37,11 +42,17 @@ author: "lovizu"
 
 찔레는 꽃으로만 소비하면 쉽게 지나치는 식물입니다. 농촌 세대에게는 봄과 초여름의 냄새, 어머니의 손길, 어린 시절 산길의 기억과 겹쳐지는 경우가 많습니다. 방송 제목이 `어머니가 남긴 선물`인 것도 그런 정서와 맞닿아 있습니다.
 
+![초록 잎 사이에 노란 수술이 도드라진 흰 다섯 잎 찔레꽃이 여러 송이 모여 핀 모습](/images/posts/6si-naegohyang-danyang-wild-rose-mother-gift/wild-rose-flowers.jpg)
+*사진: texas_mustang, Wikimedia Commons (CC BY 2.0) — 찔레꽃(Rosa multiflora) 참고 사진*
+
 ## 단양 여행 정보와 방송 이야기는 분리해서 봐야 합니다
 
 이 편은 맛집이나 체험장 소개처럼 주소 하나로 정리되는 콘텐츠가 아닙니다. 그래서 방송을 보고 바로 “어디로 가면 되나”를 찾기보다, 단양이라는 지역에서 산촌 생활과 계절 소재가 어떻게 이야기로 남는지를 보는 편이 맞습니다.
 
 실제 단양 여행을 준비한다면 공개 관광지를 중심으로 일정을 잡는 것이 안전합니다. 개인 주거지나 농지, 산길은 방송에 보였다고 해서 자유롭게 방문할 수 있는 공간이 아닙니다. 사진을 찍기 좋은 곳을 찾더라도 사유지와 출입 제한 구역은 반드시 피해야 합니다.
+
+![푸른 남한강 위에 세 개의 바위 봉우리가 솟고 가운데 봉우리에 정자가 올라앉은 도담삼봉](/images/posts/6si-naegohyang-danyang-wild-rose-mother-gift/dodamsambong.jpg)
+*사진: 한국관광공사 대한민국 구석구석 (도담삼봉)*
 
 ## 찔레를 음식·건강 소재로 볼 때 주의할 점
 
@@ -56,6 +67,9 @@ author: "lovizu"
 - 계절 꽃이나 산나물은 채취보다 관찰 중심으로 보세요.
 - 비 온 뒤 산길은 미끄럽고 접근이 어려울 수 있어 날씨를 먼저 확인하세요.
 - 방송 속 장면을 그대로 재현하려 하기보다 지역 분위기를 이해하는 정도로 보는 편이 좋습니다.
+
+![맑은 하늘 아래 세로 결이 뚜렷한 높은 암벽이 숲 사이로 솟은 단양 사인암](/images/posts/6si-naegohyang-danyang-wild-rose-mother-gift/sainam-cliff.jpg)
+*사진: 한국관광공사 대한민국 구석구석 (사인암)*
 
 ## 자주 묻는 질문
 
@@ -72,5 +86,7 @@ KBS 공식 클립 기준으로 지역은 충북 단양으로 확인됩니다. �
 
 - KBS VOD, `6시 내고향` 8570회 2026년 7월 2일 방송분
 - KBS 공식 클립, `[청산에 살리라] 어머니가 남긴 선물 - 충북 단양`
+- 한국관광공사 관광정보(대한민국 구석구석) 제공 사진, `도담삼봉`·`사인암`
+- [Wikimedia Commons, Rosa multiflora white flowers (CC BY 2.0)](https://commons.wikimedia.org/wiki/File:Rosa_multiflora_white_flowers.jpg)
 
-최종 업데이트: 2026-07-03 · 작성 관점: 방송 속 개인 서사를 관광지 정보처럼 소비하지 않고, 공개된 지역·소재와 방문자가 지켜야 할 선을 분리해 정리했습니다.
+최종 업데이트: 2026-11-20 · 작성 관점: 방송 속 개인 서사를 관광지 정보처럼 소비하지 않고, 공개된 지역·소재와 방문자가 지켜야 할 선을 분리해 정리했습니다.
