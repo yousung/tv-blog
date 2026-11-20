@@ -3,7 +3,7 @@ title: "2TV 생생정보 백범 김구 서울 역사 여행｜2591회 기념관�
 slug: "2tv-live-info-kimkoo-seoul-history-trip-2591"
 description: "2TV 생생정보 2591회 장PD의 AI 여행기 광복절 백범 김구 편에 나온 백범김구기념관, 경교장, 홍제폭포, 영천시장 코스를 정리했습니다."
 date: "2026-08-13"
-updatedDate: "2026-11-20"
+updatedDate: "2026-11-21"
 status: "published"
 category: "local"
 program: "2TV 생생정보"
@@ -48,8 +48,8 @@ author: "lovizu"
 
 백범김구기념관은 김구 선생의 생애와 독립운동 흐름을 한 번에 볼 수 있는 곳입니다. 처음 가는 분이라면 이곳을 먼저 보고 경교장으로 이동하는 순서가 자연스럽습니다.
 
-![백범김구기념관 중앙홀 안쪽 태극기 앞에 놓인 흰색 김구 선생 좌상](/images/posts/2tv-live-info-kimkoo-seoul-history-trip-2591/kimkoo-museum-statue-hall.jpg)
-*사진: 백범김구기념관 중앙홀 김구 선생 좌상 — Lee Jeong Woo(이정우) / 문화체육관광부, CC BY-SA 4.0 (Wikimedia Commons)* 경교장은 대한민국 임시정부 주석 김구 선생이 머물렀던 공간이라는 점에서, 전시를 본 뒤 실제 장소를 이어 보는 느낌이 납니다.
+
+경교장은 대한민국 임시정부 주석 김구 선생이 머물렀던 공간이라는 점에서, 전시를 본 뒤 실제 장소를 이어 보는 느낌이 납니다.
 
 ![서울 종로구 강북삼성병원 앞에 남아 있는 2층 서양식 건물 경교장 정면](/images/posts/2tv-live-info-kimkoo-seoul-history-trip-2591/gyeonggyojang-exterior.jpg)
 *사진: 서울 종로구 경교장 정면 — S. W. Moon, CC BY 3.0 (Wikimedia Commons)*
@@ -92,6 +92,6 @@ author: "lovizu"
 
 - [KBS 시청자상담실 2026년 8월 13일 방송정보](https://iaudience.kbs.co.kr/broadcast/11347)
 - [백범김구기념관 공식 홈페이지](https://kimkoomuseum.org/main/)
-- 사진: Wikimedia Commons `Kim Koo Museum.jpg`(DerPaul, CC BY-SA 3.0), `Kim Koo Museum & Library (55198199998).jpg`(문화체육관광부 이정우, CC BY-SA 4.0), `경교장.jpg`(S. W. Moon, CC BY 3.0), `Hongjecheon Artificial Waterfall 2023-10-31.jpg`·`YeongcheonTraditionalMarket.jpg`(CC0)
+- 사진: Wikimedia Commons `Kim Koo Museum.jpg`(DerPaul, CC BY-SA 3.0), `경교장.jpg`(S. W. Moon, CC BY 3.0), `Hongjecheon Artificial Waterfall 2023-10-31.jpg`·`YeongcheonTraditionalMarket.jpg`(CC0)
 
-최종 업데이트: 2026-08-14 · 작성 관점: 광복절 전후 서울 역사 여행을 계획하는 독자가 백범 김구 관련 장소와 시장 동선을 하루 코스로 판단할 수 있게 정리했습니다.
+최종 업데이트: 2026-11-21 · 작성 관점: 광복절 전후 서울 역사 여행을 계획하는 독자가 백범 김구 관련 장소와 시장 동선을 하루 코스로 판단할 수 있게 정리했습니다.

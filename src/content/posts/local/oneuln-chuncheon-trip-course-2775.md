@@ -3,7 +3,7 @@ title: "오늘N 춘천 여행 코스｜2775회 막국수체험박물관·해피�
 slug: "oneuln-chuncheon-trip-course-2775"
 description: "MBC 오늘N 2775회 오늘, 떠나야 할지도에 나온 춘천시티투어, 막국수체험박물관, 워터페스티벌, 뮤지엄스테이, 해피초원목장, 214도넛 동선을 정리했습니다."
 date: "2026-08-11"
-updatedDate: "2026-08-12"
+updatedDate: "2026-11-21"
 status: "draft"
 category: "local"
 program: "오늘N"
@@ -86,7 +86,7 @@ imageAlt: "춘천행복알리미에 공개된 2026 춘천 썸머워터 페스티
 ## 같은 강원 여행 글 더 보기
 
 - [오늘N 동해 동쪽바다중앙시장｜2775회 묵호항 시장 위치·먹거리 확인](/posts/oneuln-donghae-dongjjokbada-jungang-market-2775/)
-- [오늘N 태백 구와우마을 해바라기축제｜방문 전 개화·입장 확인](/posts/oneuln-taebaek-guwau-sunflower-festival/)
+- [오늘N 태백 구와우마을 해바라기축제｜방문 전 개화·입장 확인](/posts/oneuln-taebaek-guwau-sunflower-festival-2772/)
 - [2TV 생생정보 영덕 70번 버스 여행｜블루로드·풍력발전단지 동선 정리](/posts/2tv-live-info-yeongdeok-bus-sea-trip-2586/)
 
 ## 자주 묻는 질문
