@@ -62,11 +62,11 @@ source:
 
 장보기 마무리 간식으로 방송에 등장한 달순네붕어빵은 광명시장의 유명 붕어빵 노점입니다. 위치는 경기 광명시 광명로918번길 8 근처 골목으로, 시장 안 두부 가게와 칼국수 골목 사이쯤에 있습니다. 겨울 한정이 아니라 계절과 상관없이 붕어빵을 굽는 집이라, 한여름에도 이 집 앞에는 봉투를 기다리는 줄이 생깁니다.
 
-![달순네붕어빵 봉투에 담긴 붕어빵](/images/posts/2tv-live-info-gwangmyeong-market-chueok-gimbap-2615/bungeobbang-bongtu.jpg)
+![붕어빵 틀 위에 팥 앙금과 반죽을 듬뿍 올려 굽는 달순네붕어빵 조리 모습](/images/posts/2tv-live-info-gwangmyeong-market-chueok-gimbap-2615/bungeobbang-bongtu.jpg)
 
 메뉴는 팥붕어빵과 슈크림붕어빵 두 가지, 가격은 각 1,500원입니다. 오전 11시쯤 굽기 시작해서 반죽과 앙금이 떨어지면 그날 장사를 접는 방식이라, 늦은 오후에 가면 허탕을 칠 수도 있습니다. 장보기 동선 중간에 먼저 사서 봉투를 들고 다니는 편이 안전합니다.
 
-![달순네붕어빵 붕어빵 클로즈업](/images/posts/2tv-live-info-gwangmyeong-market-chueok-gimbap-2615/bungeobbang-closeup.jpg)
+![달순네붕어빵 노점 붕어빵 틀에 팥과 슈크림 반죽이 줄지어 올라간 모습](/images/posts/2tv-live-info-gwangmyeong-market-chueok-gimbap-2615/bungeobbang-closeup.jpg)
 
 갓 나온 붕어빵을 반으로 가르면 꼬리까지 팥이 밀려 나옵니다. 겉은 바삭하고 속 반죽은 얇아서 앙금 비중이 높은 스타일인데, 팥이 과하게 달지 않아 두 개는 기본으로 들어갑니다. 슈크림은 따뜻할 때 먹으면 크림이 주르륵 흐르는 타입이라 호불호 없이 아이들까지 좋아합니다.
 
