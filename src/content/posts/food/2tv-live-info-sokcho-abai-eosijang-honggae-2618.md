@@ -3,7 +3,7 @@ title: "속초 대포항 홍게 맛집 아바이어시장 속초본점｜생생�
 slug: "2tv-live-info-sokcho-abai-eosijang-honggae-2618"
 description: "2TV 생생정보 2618회 맛집 맞수다에 나온 속초 대포항 홍게 맛집, 아바이어시장 속초본점 위치와 붉은대게+모둠회 세트 가격, 영업시간, 주차 정보. 착한가격 정찰제 매장 방문 후기예요."
 date: "2026-10-07"
-updatedDate: "2026-10-08"
+updatedDate: "2026-11-20"
 status: "published"
 category: "food"
 program: "2TV 생생정보"
@@ -46,7 +46,6 @@ source:
 
 위치는 대포항 수산시장 쪽 횟집 거리 초입이에요. 빨간 간판에 '아바이 어시장 CRAB·SASHIMI·CLAM'이라고 쓰여 있어서 멀리서도 바로 보입니다. 라마다 속초 호텔에서 걸어서 3분 정도라, 호텔 잡고 저녁 먹으러 나오기 딱 좋은 자리예요.
 
-![아바이어시장 속초본점 빨간 간판 외관과 수조](/images/posts/2tv-live-info-sokcho-abai-eosijang-honggae-2618/exterior.jpg)
 
 ## 방송에 나온 홍게 한상, 직접 먹어 보면
 
